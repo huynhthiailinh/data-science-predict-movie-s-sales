@@ -4,6 +4,8 @@ pip3 install -U selenium
 Webdriver Manager for Python is installed
 pip3 install webdriver-manager
 
+pip install beautifulsoup4
+
 1. Vào trang chrome://version/ kiểm tra phiên bản chrome, tìm ở dòng đầu tiên
 	(vd: 102.0.5005.115)
 2. Vào trang https://chromedriver.chromium.org/downloads tải về đúng phiên bản, giải nén để vào thư mục mong muốn, để đường dẫn đến file đó vào dòng 11 của file crawler.py

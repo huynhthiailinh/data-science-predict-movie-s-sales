@@ -1,47 +1,41 @@
 from selenium import webdriver
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
-from selenium.webdriver.common.by import By
-from selenium.common.exceptions import TimeoutException
-from selenium.webdriver.common.desired_capabilities import DesiredCapabilities
 from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
+from bs4 import BeautifulSoup as BS
+import csv
 
 class craigslist_crawler(object):
     def __init__(self):
         self.url = "https://www.the-numbers.com/movie/budgets/all"
         self.driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
+        self.data = []
         
     def load_page(self):
         driver = self.driver
         driver.get(self.url)
-        all_text_data = driver.find_elements(By.CLASS_NAME, "data")
-        all_link_data = driver.find_elements(By.CSS_SELECTOR, "table a")
-        all_data = []
-        for i in range(0, len(all_text_data), 4):
-            stt = all_text_data[i].text
-            production_budget = all_text_data[i+1].text[2:]
-            domestic_gross = all_text_data[i+2].text[2:]
-            worldwide_gross = all_text_data[i+3].text[2:]
-            all_data.append([stt, production_budget, domestic_gross, worldwide_gross])
 
-        j = 0
-        for i in range(0, len(all_link_data), 2):
-            release_date = all_link_data[i].text
-            movie = all_link_data[i+1].text
-            all_data[j] += [release_date, movie]
-            j+=1
+        html = driver.page_source
+        soup = BS(html, 'html.parser')
 
-        print('stt', 'release_date', 'movie', 'production_budget', 'domestic_gross', 'worldwide_gross')
+        file_name = 'raw-data.csv'
+        writer = csv.writer(open(file_name, 'w'))
 
-        for i in all_data:
-            stt = i[0]
-            release_date = i[4]
-            movie = i[5]
-            production_budget = i[1]
-            domestic_gross = i[2]
-            worldwide_gross = i[3]
-            print(stt, release_date, movie, production_budget, domestic_gross, worldwide_gross)
+        for tr in soup.find_all('tr'):
+            data = []
+
+            # execute only once
+            for th in tr.find_all('th'):
+                data.append(th.text)
+            if(data):
+                print("Inserting header: {}".format(','.join(data)))
+                writer.writerow(data)
+                continue
+
+            for td in tr.find_all('td'):
+                data.append(td.text.strip().replace('$','').replace(',',''))
+            if(data):
+                print("Inserting row: {}".format(','.join(data)))
+                writer.writerow(data)
 
     def close_webdriver(self):
         self.driver.close()
