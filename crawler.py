@@ -15,7 +15,7 @@ class craigslist_crawler(object):
     def load_page(self):
         driver = self.driver
         driver.get(self.url)
-        all_text_data = driver.find_elements_by_class_name("data")
+        all_text_data = driver.find_elements(By.CLASS_NAME, "data")
         all_link_data = driver.find_elements(By.CSS_SELECTOR, "table a")
         all_data = []
         for i in range(0, len(all_text_data), 4):
