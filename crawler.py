@@ -3,12 +3,14 @@ from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
 from bs4 import BeautifulSoup as BS
 import csv
+import pandas as pd
+
+file_name1 = 'raw-data1.csv'
 
 class craigslist_crawler(object):
     def __init__(self):
         self.url = "https://www.the-numbers.com/movie/budgets/all"
         self.driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
-        self.data = []
         
     def load_page(self):
         driver = self.driver
@@ -17,8 +19,7 @@ class craigslist_crawler(object):
         html = driver.page_source
         soup = BS(html, 'html.parser')
 
-        file_name = 'raw-data.csv'
-        writer = csv.writer(open(file_name, 'w'))
+        writer = csv.writer(open(file_name1, 'w'))
 
         for tr in soup.find_all('tr'):
             data = []
@@ -36,10 +37,13 @@ class craigslist_crawler(object):
             if(data):
                 print("Inserting row: {}".format(','.join(data)))
                 writer.writerow(data)
-
-    def close_webdriver(self):
-        self.driver.close()
+        driver.close()
 
 crawler = craigslist_crawler()
 crawler.load_page()
-crawler.close_webdriver()
+
+# delete empty rows
+file_name2 = 'raw-data.csv'
+df = pd.read_csv(file_name1, encoding='unicode_escape')
+mdf = df.dropna()
+mdf.to_csv(file_name2, index=False)
