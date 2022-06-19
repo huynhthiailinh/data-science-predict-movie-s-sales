@@ -4,11 +4,13 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
 from selenium.common.exceptions import TimeoutException
 from selenium.webdriver.common.desired_capabilities import DesiredCapabilities
+from selenium.webdriver.chrome.service import Service
+from webdriver_manager.chrome import ChromeDriverManager
 
 class craigslist_crawler(object):
     def __init__(self):
         self.url = "https://www.the-numbers.com/movie/budgets/all"
-        self.driver = webdriver.Chrome("C://setup//chromedriver_win32//chromedriver.exe")
+        self.driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
         
     def load_page(self):
         driver = self.driver
@@ -47,5 +49,3 @@ class craigslist_crawler(object):
 crawler = craigslist_crawler()
 crawler.load_page()
 crawler.close_webdriver()
-
-
