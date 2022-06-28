@@ -16,7 +16,7 @@
 
 - Crawl dữ liệu từ internet (data collection).
 - Làm sạch dữ liệu (data cleaning).
-- Xử lý dữ liệu, trích xuất đặc trưng (data engineering, features selection).
+- Xử lý dữ liệu, trích xuất đặc trưng (feature engineering, features selection).
 - Mô hình hoá dữ liệu (modeling).
 
 ## Cấu trúc hệ thống
