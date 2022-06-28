@@ -14,10 +14,10 @@
 
 ## **Hệ thống xây dựng chương trình dự đoán doanh thu phim bao gồm các bước**
 
-- Crawl dữ liệu từ internet ( data collection ).
-- Làm sạch dữ liệu ( data cleaning ).
-- Xử lý dữ liệu, trích xuất đặc trưng ( data engineering, features selection ).
-- Mô hình hoá dữ liệu ( modeling ).
+- Crawl dữ liệu từ internet (data collection).
+- Làm sạch dữ liệu (data cleaning).
+- Xử lý dữ liệu, trích xuất đặc trưng (data engineering, features selection).
+- Mô hình hoá dữ liệu (modeling).
 
 ## Cấu trúc hệ thống
 
