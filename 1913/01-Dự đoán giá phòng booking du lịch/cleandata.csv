@@ -1,0 +1,1080 @@
+type_hotel,location,rating,reviewer,distance,type_bed,area,price
+hotel, Quận Hoàn Kiếm,9.0,571,4.7, 1 đôi lớn,18,1200
+hotel, Quận Hoàn Kiếm,9.0,571,4.7, 2 đơn,25,1140
+hotel, Quận Hoàn Kiếm,9.0,571,4.7, 2 đơn,28,1400
+hotel, Quận Hoàn Kiếm,9.0,571,4.7, 1 đôi lớn,35,2000
+hotel, Quận Hoàn Kiếm,9.0,571,4.7, 1 đơn,35,2100
+hotel, Quận Hoàn Kiếm,9.4,3,1.9, 1 đôi,22,2683
+hotel, Quận Hoàn Kiếm,9.4,3,1.9, 1 đôi cực lớn,25,3049
+hotel, Quận Hoàn Kiếm,9.4,3,1.9, 1 đôi lớn,25,3005
+hotel, Quận Hoàn Kiếm,9.4,3,1.9, 2 đôi lớn,28,3415
+hotel, Quận Hoàn Kiếm,9.4,3,1.9, 2 đôi lớn,28,3327
+hotel, Quận Hoàn Kiếm,9.4,3,1.9, 1 đôi lớn,28,3781
+hotel, Quận Hoàn Kiếm,9.4,3,1.9, 1 đôi,45,3756
+hotel, Quận Hai Bà Trưng,8.1,18,3.5823529411764703, 2 đơn,27,1537
+hotel, Quận Hai Bà Trưng,8.1,18,3.5823529411764703, 1 đôi lớn,30,3037
+hotel, Quận Hai Bà Trưng,8.1,18,3.5823529411764703, 2 đơn,40,3206
+hotel, Quận Hai Bà Trưng,8.1,18,3.5823529411764703, 1 đôi lớn,30,3645
+hotel, Quận Hoàn Kiếm,8.5,553,2.5, 1 đôi lớn,23,1200
+hotel, Quận Hoàn Kiếm,8.5,553,2.5, 2 đơn,23,1344
+hotel, Quận Hoàn Kiếm,8.5,553,2.5, 2 đơn,28,1536
+hotel, Quận Hoàn Kiếm,8.5,553,2.5, 1 đôi lớn,28,1776
+hotel, Quận Hoàn Kiếm,9.6,450,1.6, 2 đơn,28,4885
+hotel, Quận Hoàn Kiếm,9.6,450,1.6, 1 đôi cực lớn,52,5435
+hotel, Quận Hoàn Kiếm,9.6,450,1.6, 1 đôi cực lớn,54,8723
+hotel, Quận Hoàn Kiếm,9.6,221,2.4, 1 đơn,16,1250
+hotel, Quận Hoàn Kiếm,9.6,221,2.4, 1 đơn,28,2000
+hotel, Quận Hoàn Kiếm,9.6,221,2.4, 2 đơn,33,2250
+hotel, Quận Hoàn Kiếm,9.6,221,2.4, 1 đôi cực lớn,38,2362
+hotel, Quận Hoàn Kiếm,8.2,72,4.7, 1 đôi lớn,22,1060
+hotel, Quận Hoàn Kiếm,8.2,72,4.7, 1 đôi lớn,25,1390
+hotel, Quận Hoàn Kiếm,8.2,72,4.7, 1 đơn,28,1499
+hotel, Quận Hoàn Kiếm,8.2,72,4.7, 1 đôi cực lớn,32,1509
+hotel, Quận Hoàn Kiếm,9.1,595,4.9, 2 đơn,26,2000
+hotel, Quận Hoàn Kiếm,9.1,595,4.9, 1 đôi cực lớn,28,2210
+hotel, Quận Hoàn Kiếm,9.1,595,4.9, 1 đôi cực lớn,34,2632
+hotel, Quận Hoàn Kiếm,9.1,595,4.9, 2 đơn,32,2895
+hotel, Quận Hoàn Kiếm,9.1,595,4.9, 1 đơn,32,3158
+hotel, Quận Hoàn Kiếm,9.1,595,4.9, 1 đôi cực lớn,35,3579
+hotel, Quận Hoàn Kiếm,9.1,595,4.9, 3 đơn,38,3680
+hotel, Quận Hoàn Kiếm,9.1,595,4.9, 1 đơn,35,4000
+hotel, Quận Hoàn Kiếm,9.1,595,4.9, 1 đôi cực lớn,50,3790
+hotel, Quận Hoàn Kiếm,9.1,595,4.9, 3 đơn,50,4527
+hotel, Quận Hoàn Kiếm,9.4,609,4.2, 1 đôi lớn,20,2524
+hotel, Quận Hoàn Kiếm,9.4,609,4.2, 1 đôi lớn,23,2722
+hotel, Quận Hoàn Kiếm,9.4,609,4.2, 2 đơn,24,2722
+hotel, Quận Hoàn Kiếm,8.6,110,1.8, 1 đôi cực lớn,20,1280
+hotel, Quận Hoàn Kiếm,8.6,110,1.8, 1 đôi cực lớn,25,1520
+hotel, Quận Hoàn Kiếm,8.6,110,1.8, 1 đôi cực lớn,30,1600
+hotel, Quận Hoàn Kiếm,8.6,110,1.8, 1 đôi,35,2400
+hotel, Quận Hoàn Kiếm,8.6,110,1.8, 1 đôi cực lớn,35,2560
+hotel, Quận Hoàn Kiếm,9.3,207,2.3, 2 đôi lớn,27,3290
+hotel, Quận Hoàn Kiếm,9.3,207,2.3, 1 đôi lớn,32,2632
+hotel, Quận Hoàn Kiếm,9.3,207,2.3, 2 đơn,40,3850
+hotel, Quận Hoàn Kiếm,9.3,207,2.3, 2 đơn,37,3157
+hotel, Quận Hoàn Kiếm,8.8,544,2.841800643086817, 1 đôi lớn,18,1274
+hotel, Quận Hoàn Kiếm,8.8,544,2.841800643086817, 2 đơn,30,6748
+hotel, Quận Hoàn Kiếm,8.8,544,2.841800643086817, 1 đôi cực lớn,30,1903
+hotel, Quận Hoàn Kiếm,8.8,544,2.841800643086817, 1 đơn,30,10075
+hotel, Quận Hoàn Kiếm,9.2,194,2.7, 1 đôi lớn,22,1470
+hotel, Quận Hoàn Kiếm,9.2,194,2.7, 2 đơn,22,1539
+hotel, Quận Hoàn Kiếm,9.2,194,2.7, 1 đơn,28,1881
+hotel, Quận Hoàn Kiếm,9.2,194,2.7, 1 đôi,24,2052
+hotel, Quận Hoàn Kiếm,9.2,194,2.7, 1 đôi lớn,26,2223
+hotel, Quận Hoàn Kiếm,9.2,194,2.7, 1 đôi lớn,30,2394
+hotel, Quận Hoàn Kiếm,8.6,527,1.5, 1 đôi lớn,18,286
+hotel, Quận Hoàn Kiếm,8.6,527,1.5, 2 đơn,18,702
+hotel, Quận Hoàn Kiếm,8.6,527,1.5, 1 đôi lớn,22,855
+hotel, Quận Hoàn Kiếm,8.6,527,1.5, 1 đôi lớn,25,702
+hotel, Quận Hoàn Kiếm,8.0,562,2.0, 2 đơn,24,900
+hotel, Quận Hoàn Kiếm,8.0,562,2.0, 1 đôi,32,1125
+hotel, Quận Hoàn Kiếm,8.0,562,2.0, 1 đôi,35,1080
+hotel, Quận Hoàn Kiếm,9.4,2,2.5, 2 đơn,25,1390
+hotel, Quận Hoàn Kiếm,9.4,2,2.5, 1 đôi lớn,28,1690
+hotel, Quận Hoàn Kiếm,9.4,2,2.5, 1 đôi lớn,30,1990
+hotel, Quận Hoàn Kiếm,9.4,2,2.5, 2 đôi lớn,45,3679
+hotel, Quận Hoàn Kiếm,9.4,2,2.5, 2 đơn,55,4080
+hotel, Quận Hoàn Kiếm,9.1,289,2.7, 2 đơn,22,1620
+hotel, Quận Hoàn Kiếm,9.1,289,2.7, 1 đôi,25,1800
+hotel, Quận Hoàn Kiếm,9.1,289,2.7, 2 đơn,30,2520
+hotel, Quận Hoàn Kiếm,9.1,289,2.7, 1 đôi cực lớn,28,3240
+hotel, Quận Hoàn Kiếm,8.6,1,2.7, 2 đơn,22,1400
+hotel, Quận Hoàn Kiếm,8.6,1,2.7, 1 đôi lớn,25,1475
+hotel, Quận Hoàn Kiếm,8.6,1,2.7, 1 đôi lớn,22,1500
+hotel, Quận Hoàn Kiếm,8.6,1,2.7, 2 đơn,26,1750
+hotel, Quận Hoàn Kiếm,8.6,1,2.7, 2 đơn,30,1950
+hotel, Cau Giay,8.9,291,5.1, 2 đơn,22,1500
+hotel, Cau Giay,8.9,291,5.1, 1 đôi cực lớn,25,1598
+hotel, Cau Giay,8.9,291,5.1, 1 đơn,25,1600
+hotel, Cau Giay,8.9,291,5.1, 1 đôi cực lớn,22,1630
+hotel, Cau Giay,8.9,291,5.1, 2 đôi cực lớn,28,1858
+hotel, Cau Giay,8.9,291,5.1, 2 đơn,30,1858
+hotel, Cau Giay,8.9,291,5.1, 1 đôi cực lớn,28,1998
+hotel, Cau Giay,8.9,291,5.1, 1 đơn,58,1900
+hotel, Quận Hoàn Kiếm,9.2,339,2.8, 1 đôi cực lớn,25,1665
+hotel, Quận Hoàn Kiếm,9.2,339,2.8, 1 đôi lớn,18,3330
+hotel, Quận Hoàn Kiếm,9.2,339,2.8, 1 đơn,23,1890
+hotel, Quận Hoàn Kiếm,9.2,339,2.8, 1 đôi lớn,32,3780
+hotel, Quận Hoàn Kiếm,9.2,339,2.8, 1 đơn,32,1980
+hotel, Quận Hoàn Kiếm,9.2,339,2.8, 1 đôi lớn,30,3960
+hotel, Quận Hoàn Kiếm,9.2,339,2.8, 2 đôi lớn,40,2115
+hotel, Quận Hoàn Kiếm,9.5,628,2.7, 1 đôi lớn,20,1544
+hotel, Quận Hoàn Kiếm,9.5,628,2.7, 1 đôi cực lớn,20,2489
+hotel, Quận Hoàn Kiếm,9.5,628,2.7, 1 đôi cực lớn,20,2779
+hotel, Quận Hoàn Kiếm,9.5,628,2.7, 1 đôi lớn,25,3068
+hotel, Quận Hoàn Kiếm,9.5,628,2.7, 2 đôi lớn,42,3474
+hotel, Quận Hoàn Kiếm,9.5,628,2.7, 2 đôi,38,6253
+hotel, Quận Hoàn Kiếm,9.5,628,2.7, 1 đôi cực lớn,20,1716
+hotel, Quận Hoàn Kiếm,9.0,66,2.5, 1 đôi lớn,25,2325
+hotel, Quận Hoàn Kiếm,9.0,66,2.5, 2 đơn,25,2325
+hotel, Quận Hoàn Kiếm,9.0,66,2.5, 1 đôi,28,2674
+hotel, Quận Hoàn Kiếm,9.0,66,2.5, 1 đôi,28,3040
+hotel, Quận Hoàn Kiếm,9.0,66,2.5, 1 đôi lớn,35,3880
+hotel, Quận Hoàn Kiếm,9.0,66,2.5, 2 đơn,50,5200
+hotel, Quận Hoàn Kiếm,9.1,485,2.3, 1 đôi,25,1638
+hotel, Quận Hoàn Kiếm,9.1,485,2.3, 2 đơn,28,1638
+hotel, Quận Hoàn Kiếm,9.1,485,2.3, 2 đơn,28,1804
+hotel, Quận Hoàn Kiếm,9.1,485,2.3, 1 đơn,28,1804
+hotel, Quận Hoàn Kiếm,9.1,485,2.3, 1 đôi cực lớn,38,2387
+hotel, Quận Hoàn Kiếm,9.1,485,2.3, 1 đơn,45,2665
+hotel, Quận Hoàn Kiếm,9.1,485,2.3, 1 đôi cực lớn,32,2943
+hotel, Quận Hoàn Kiếm,9.1,485,2.3, 1 đôi,50,3331
+hotel, Quận Hoàn Kiếm,9.1,485,2.3, 2 đơn,60,3609
+hotel, Quận Hoàn Kiếm,8.9,294,4.7, 1 đôi cực lớn,20,1393
+hotel, Quận Hoàn Kiếm,8.9,294,4.7, 2 đơn,20,1567
+hotel, Quận Hoàn Kiếm,8.9,294,4.7, 2 đơn,22,6896
+hotel, Quận Hoàn Kiếm,8.9,294,4.7, 1 đôi lớn,22,1393
+hotel, Quận Hoàn Kiếm,8.9,294,4.7, 1 đôi lớn,26,1567
+hotel, Quận Hoàn Kiếm,8.9,294,4.7, 1 đơn,25,6896
+hotel, Quận Hoàn Kiếm,8.9,294,4.7, 1 đôi,25,1578
+hotel, Quận Hoàn Kiếm,9.3,494,2.3, 1 đôi cực lớn,23,1260
+hotel, Quận Hoàn Kiếm,9.3,494,2.3, 1 đơn,35,1134
+hotel, Quận Hoàn Kiếm,9.3,494,2.3, 1 đôi cực lớn,35,1663
+hotel, Quận Hoàn Kiếm,9.3,494,2.3, 1 đơn,40,1848
+hotel, Quận Hoàn Kiếm,9.3,494,2.3, 1 đôi cực lớn,45,2128
+local hotel, Quận Ba Đình,9.0,32,4.6, 1 đôi lớn,35,1270
+local hotel, Quận Ba Đình,9.0,32,4.6, 2 đơn,43,2763
+local hotel, Quận Ba Đình,9.0,32,4.6, 1 đôi lớn,40,2944
+local hotel, Quận Ba Đình,9.0,32,4.6, 2 đơn,43,1845
+local hotel, Quận Ba Đình,9.5,47,3.9, 2 đơn,60,3980
+local hotel, Quận Ba Đình,9.5,47,3.9, 1 đôi cực lớn,75,3980
+local hotel, Quận Ba Đình,9.5,47,3.9, 2 đôi,80,5560
+local hotel, Quận Ba Đình,9.5,47,3.9, 1 đôi lớn,85,5580
+local hotel, Quận Ba Đình,9.5,47,3.9, 1 đôi lớn,85,5580
+local hotel, Quận Ba Đình,9.5,47,3.9, 2 đơn,85,5580
+local hotel, Quận Ba Đình,9.5,47,3.9, 1 đôi cực lớn,85,5780
+local hotel, Quận Ba Đình,9.5,47,3.9, 1 đôi lớn,85,5780
+local hotel, Quận Ba Đình,9.5,47,3.9, 1 đôi lớn,110,7000
+local hotel, Quận Ba Đình,9.5,47,3.9, 2 đơn,150,8300
+local hotel, Quận Ba Đình,8.4,100,3.9, 1 đôi lớn,28,3780
+local hotel, Quận Ba Đình,8.4,100,3.9, 2 đơn,35,3465
+local hotel, Quận Ba Đình,8.4,100,3.9, 1 đôi cực lớn,43,4095
+local hotel, Quận Ba Đình,8.4,100,3.9, 1 đôi cực lớn,50,3780
+local hotel, Quận Ba Đình,8.4,100,3.9, 2 đơn,55,4410
+local hotel, Quận Ba Đình,8.4,60,4.8, 1 đôi lớn,18,2193
+local hotel, Quận Ba Đình,8.4,60,4.8, 2 đơn,22,2659
+local hotel, Quận Ba Đình,8.4,60,4.8, 2 đơn,25,2128
+local hotel, Quận Ba Đình,8.4,60,4.8, 1 đôi lớn,35,2467
+local hotel, Quận Ba Đình,9.4,26,2.3, 1 đôi lớn,35,2960
+local hotel, Quận Ba Đình,9.4,26,2.3, 1 đôi lớn,32,3280
+local hotel, Quận Ba Đình,9.4,26,2.3, 1 đôi lớn,32,3600
+local hotel, Quận Ba Đình,9.9,15,2.9, 1 đôi cực lớn,45,1100
+local hotel, Quận Ba Đình,9.9,15,2.9, 1 đôi cực lớn,40,1100
+local hotel, Quận Ba Đình,9.9,15,2.9, 1 đôi cực lớn,43,1100
+local hotel, Quận Ba Đình,9.9,15,2.9, 1 đôi cực lớn,43,1100
+local hotel, Quận Ba Đình,9.9,15,2.9, 1 đôi cực lớn,46,1100
+local hotel, Quận Ba Đình,9.0,1,1.9, 2 đơn,18,924
+local hotel, Quận Ba Đình,9.0,1,1.9, 1 đôi lớn,20,1155
+local hotel, Quận Ba Đình,9.0,1,1.9, 1 đôi lớn,30,1265
+local hotel, Quận Ba Đình,9.0,1,1.9, 1 đơn,30,1406
+local hotel, Quận Ba Đình,9.1,579,3.3749019607843134, 1 đôi cực lớn,42,6129
+local hotel, Quận Ba Đình,9.1,579,3.3749019607843134, 1 đôi cực lớn,42,6129
+local hotel, Quận Ba Đình,9.1,579,3.3749019607843134, 1 đôi lớn,61,7000
+local hotel, Quận Ba Đình,9.1,579,3.3749019607843134, 1 đôi,61,8261
+local hotel, Quận Ba Đình,9.1,579,3.3749019607843134, 1 đôi lớn,99,6201
+local hotel, Quận Ba Đình,9.1,579,3.3749019607843134, 2 đơn,147,7355
+local hotel, Quận Ba Đình,10.0,6,3.3749019607843134, 1 đôi cực lớn,50,1100
+local hotel, Quận Ba Đình,10.0,6,3.3749019607843134, 1 đôi cực lớn,43,1100
+local hotel, Quận Ba Đình,10.0,6,3.3749019607843134, 1 đôi cực lớn,40,1100
+local hotel, Quận Ba Đình,8.6,205,2.8, 1 đôi cực lớn,25,649
+local hotel, Quận Ba Đình,8.6,205,2.8, 1 đôi cực lớn,25,1555
+local hotel, Quận Ba Đình,8.6,205,2.8, 1 đôi cực lớn,25,1684
+local hotel, Quận Ba Đình,8.6,205,2.8, 1 đôi cực lớn,30,1964
+local hotel, Quận Ba Đình,8.6,205,2.8, 1 đôi cực lớn,25,2245
+local hotel, Quận Ba Đình,7.1,44,3.6, 2 đơn,25,3372
+local hotel, Quận Ba Đình,7.1,44,3.6, 1 đôi lớn,25,3898
+local hotel, Quận Ba Đình,7.1,44,3.6, 2 đơn,60,4546
+local hotel, Quận Ba Đình,7.1,44,3.6, 1 đôi lớn,22,3639
+local hotel, Quận Ba Đình,10.0,3,2.4, 1 đôi cực lớn,46,920
+local hotel, Quận Ba Đình,10.0,3,2.4, 1 đôi cực lớn,43,966
+local hotel, Quận Ba Đình,10.0,3,2.4, 1 đôi cực lớn,43,960
+local hotel, Quận Ba Đình,10.0,3,2.4, 1 đôi cực lớn,43,1008
+local hotel, Quận Ba Đình,9.0,200,3.3749019607843134, 2 đơn,43,1200
+local hotel, Quận Ba Đình,9.0,200,3.3749019607843134, 3 đơn,43,1260
+local hotel, Quận Ba Đình,9.0,200,3.3749019607843134, 1 đôi cực lớn,43,1380
+local hotel, Quận Ba Đình,8.2,62,2.4, 1 đôi cực lớn,25,1100
+local hotel, Quận Ba Đình,8.2,62,2.4, 1 đôi lớn,25,1300
+local hotel, Quận Ba Đình,8.2,62,2.4, 2 đơn,45,1700
+local hotel, Quận Ba Đình,8.2,62,2.4, 1 đôi lớn,30,1700
+local hotel, Quận Ba Đình,8.2,62,2.4, 3 đơn,50,2600
+local hotel, Quận Ba Đình,9.4,225,4.4, 1 đôi lớn,18,1120
+local hotel, Quận Ba Đình,9.4,225,4.4, 1 đôi lớn,22,1398
+local hotel, Quận Ba Đình,9.4,225,4.4, 2 đôi lớn,22,1260
+local hotel, Quận Ba Đình,9.0,56,3.9, 1 đôi cực lớn,43,1700
+local hotel, Quận Ba Đình,9.5,43,3.3749019607843134, 2 đơn,45,5180
+local hotel, Quận Ba Đình,9.5,43,3.3749019607843134, 1 đôi cực lớn,48,6580
+local hotel, Quận Ba Đình,9.5,43,3.3749019607843134, 1 sofa,50,7180
+local hotel, Quận Ba Đình,9.5,43,3.3749019607843134, 2 đơn,46,8580
+local hotel, Quận Ba Đình,9.5,43,3.3749019607843134, 1 đôi cực lớn,46,5880
+local hotel, Quận Ba Đình,9.5,43,3.3749019607843134, 2 đơn,78,5980
+local hotel, Quận Ba Đình,9.5,43,3.3749019607843134, 2 đơn,90,7380
+local hotel, Quận Ba Đình,8.8,209,3.3749019607843134, 1 đôi cực lớn,32,2982
+local hotel, Quận Ba Đình,8.8,209,3.3749019607843134, 2 đơn,38,3216
+local hotel, Quận Ba Đình,8.8,209,3.3749019607843134, 1 đôi cực lớn,38,4327
+local hotel, Quận Ba Đình,8.8,209,3.3749019607843134, 1 đôi cực lớn,46,4543
+local hotel, Quận Ba Đình,8.8,209,3.3749019607843134, 2 đơn,65,3672
+local hotel, Quận Ba Đình,8.8,209,3.3749019607843134, 1 đơn,76,4554
+local hotel, Quận Ba Đình,8.8,209,3.3749019607843134, 2 đơn,30,4782
+local hotel, Quận Ba Đình,8.5,132,2.6, 1 đôi cực lớn,17,733
+local hotel, Quận Ba Đình,8.5,132,2.6, 1 đôi cực lớn,18,995
+local hotel, Quận Ba Đình,8.5,132,2.6, 1 tầng,25,261
+local hotel, Quận Ba Đình,8.5,25,3.9, 2 đơn,43,3940
+local hotel, Quận Ba Đình,8.5,25,3.9, 1 đơn,43,5900
+local hotel, Quận Ba Đình,8.5,25,3.9, 1 đôi lớn,43,9998
+local hotel, Quận Ba Đình,7.9,111,2.4, 1 đôi lớn,43,810
+local hotel, Quận Ba Đình,7.9,111,2.4, 1 đôi lớn,43,900
+local hotel, Quận Ba Đình,7.9,111,2.4, 1 đôi lớn,43,810
+local hotel, Quận Ba Đình,7.7,112,2.7, 1 tầng,50,540
+local hotel, Quận Ba Đình,7.7,112,2.7, 2 đôi lớn,30,700
+local hotel, Quận Ba Đình,7.7,112,2.7, 1 đôi lớn,30,800
+local hotel, Quận Ba Đình,7.7,112,2.7, 4 tầng,30,500
+local hotel, Quận Ba Đình,7.7,112,2.7, 4 tầng,40,540
+local hotel, Quận Ba Đình,7.7,112,2.7, 2 đôi,30,486
+local hotel, Quận Ba Đình,0.0,0,3.3749019607843134, 1 đôi lớn,35,577
+local hotel, Quận Ba Đình,9.1,45,2.5, 2 đơn,25,2034
+local hotel, Quận Ba Đình,9.1,45,2.5, 1 đôi,30,2394
+local hotel, Quận Ba Đình,9.1,45,2.5, 2 đơn,33,2356
+local hotel, Quận Ba Đình,9.1,45,2.5, 1 đôi lớn,35,2772
+local hotel, Quận Ba Đình,9.1,45,2.5, 2 đơn,45,2677
+local hotel, Quận Ba Đình,9.1,49,4.5, 1 đôi cực lớn,43,1450
+local hotel, Quận Ba Đình,9.1,49,4.5, 1 đơn,43,1500
+local hotel, Quận Ba Đình,9.1,49,4.5, 1 đôi lớn,43,1500
+local hotel, Quận Ba Đình,9.0,32,4.6, 1 đôi lớn,60,1270
+local hotel, Quận Ba Đình,9.0,32,4.6, 2 đơn,43,2763
+local hotel, Quận Ba Đình,9.0,32,4.6, 1 đôi lớn,45,2944
+local hotel, Quận Ba Đình,9.0,32,4.6, 2 đơn,43,1845
+local hotel, Quận Ba Đình,9.5,47,3.9, 1 đơn,60,3980
+local hotel, Quận Ba Đình,9.5,47,3.9, 1 đôi cực lớn,75,3980
+local hotel, Quận Ba Đình,9.5,47,3.9, 4 tầng,80,5560
+local hotel, Quận Ba Đình,9.5,47,3.9, 1 đôi lớn,85,5580
+local hotel, Quận Ba Đình,9.5,47,3.9, 1 đôi cực lớn,85,5580
+local hotel, Quận Ba Đình,9.5,47,3.9, 1 đôi lớn,85,5580
+local hotel, Quận Ba Đình,9.5,47,3.9, 1 đôi lớn,85,5780
+local hotel, Quận Ba Đình,9.5,47,3.9, 1 đôi cực lớn,85,5780
+local hotel, Quận Ba Đình,9.5,47,3.9, 1 đôi lớn,110,7000
+local hotel, Quận Ba Đình,9.5,47,3.9, 1 đôi,150,8300
+local hotel, Quận Ba Đình,8.4,100,3.9, 1 đôi lớn,28,3780
+local hotel, Quận Ba Đình,8.4,100,3.9, 2 đơn,35,3465
+local hotel, Quận Ba Đình,8.4,100,3.9, 1 đôi cực lớn,43,4095
+local hotel, Quận Ba Đình,8.4,100,3.9, 1 đôi cực lớn,50,3780
+local hotel, Quận Ba Đình,8.4,100,3.9, 1 đôi lớn,55,4410
+local hotel, Quận Ba Đình,8.4,60,4.8, 1 đôi lớn,18,2193
+local hotel, Quận Ba Đình,8.4,60,4.8, 2 đơn,22,2659
+local hotel, Quận Ba Đình,8.4,60,4.8, 2 đơn,25,2128
+local hotel, Quận Ba Đình,8.4,60,4.8, 1 đôi lớn,35,2467
+local hotel, Quận Ba Đình,9.4,26,2.3, 1 đôi lớn,43,2960
+local hotel, Quận Ba Đình,9.4,26,2.3, 1 đôi lớn,43,3280
+local hotel, Quận Ba Đình,9.4,26,2.3, 1 đôi lớn,43,3600
+local hotel, Quận Ba Đình,9.9,15,2.9, 1 đôi cực lớn,50,1100
+local hotel, Quận Ba Đình,9.9,15,2.9, 1 đôi cực lớn,43,1100
+local hotel, Quận Ba Đình,9.9,15,2.9, 1 đôi cực lớn,42,1100
+local hotel, Quận Ba Đình,9.9,15,2.9, 1 đôi cực lớn,49,1100
+local hotel, Quận Ba Đình,9.9,15,2.9, 1 đôi cực lớn,43,1100
+local hotel, Quận Ba Đình,9.0,1,1.9, 2 đơn,18,924
+local hotel, Quận Ba Đình,9.0,1,1.9, 1 đôi lớn,20,1155
+local hotel, Quận Ba Đình,9.0,1,1.9, 1 đôi lớn,30,1265
+local hotel, Quận Ba Đình,9.0,1,1.9, 1 đơn,30,1406
+local hotel, Quận Ba Đình,9.1,579,3.3749019607843134, 1 đôi cực lớn,42,6129
+local hotel, Quận Ba Đình,9.1,579,3.3749019607843134, 1 đôi cực lớn,42,6129
+local hotel, Quận Ba Đình,9.1,579,3.3749019607843134, 4 tầng,61,7000
+local hotel, Quận Ba Đình,9.1,579,3.3749019607843134, 1 đơn,61,8261
+local hotel, Quận Ba Đình,9.1,579,3.3749019607843134, 1 đôi,99,6201
+local hotel, Quận Ba Đình,9.1,579,3.3749019607843134, 1 đôi lớn,147,7355
+local hotel, Quận Ba Đình,10.0,6,3.3749019607843134, 1 đôi cực lớn,43,1100
+local hotel, Quận Ba Đình,10.0,6,3.3749019607843134, 1 đôi cực lớn,45,1100
+local hotel, Quận Ba Đình,10.0,6,3.3749019607843134, 1 đôi cực lớn,35,1100
+local hotel, Quận Ba Đình,8.6,205,2.8, 1 đôi cực lớn,25,649
+local hotel, Quận Ba Đình,8.6,205,2.8, 1 đôi cực lớn,25,1555
+local hotel, Quận Ba Đình,8.6,205,2.8, 1 đôi cực lớn,25,1684
+local hotel, Quận Ba Đình,8.6,205,2.8, 1 đôi cực lớn,30,1964
+local hotel, Quận Ba Đình,8.6,205,2.8, 1 đôi cực lớn,25,2245
+local hotel, Quận Ba Đình,7.1,44,3.6, 2 đơn,25,3372
+local hotel, Quận Ba Đình,7.1,44,3.6, 1 đôi lớn,25,3898
+local hotel, Quận Ba Đình,7.1,44,3.6, 2 đơn,60,4546
+local hotel, Quận Ba Đình,7.1,44,3.6, 1 đôi lớn,19,3639
+local hotel, Quận Ba Đình,10.0,3,2.4, 1 đôi cực lớn,32,920
+local hotel, Quận Ba Đình,10.0,3,2.4, 1 đôi cực lớn,32,966
+local hotel, Quận Ba Đình,10.0,3,2.4, 1 đôi cực lớn,43,960
+local hotel, Quận Ba Đình,10.0,3,2.4, 1 đôi cực lớn,53,1008
+local hotel, Quận Ba Đình,9.0,200,3.3749019607843134, 2 đơn,43,1200
+local hotel, Quận Ba Đình,9.0,200,3.3749019607843134, 1 đôi lớn,43,1260
+local hotel, Quận Ba Đình,9.0,200,3.3749019607843134, 1 đôi,43,1380
+local hotel, Quận Ba Đình,8.2,62,2.4, 1 đôi cực lớn,25,1100
+local hotel, Quận Ba Đình,8.2,62,2.4, 1 đôi lớn,25,1300
+local hotel, Quận Ba Đình,8.2,62,2.4, 2 đơn,45,1700
+local hotel, Quận Ba Đình,8.2,62,2.4, 1 đôi lớn,30,1700
+local hotel, Quận Ba Đình,8.2,62,2.4, 3 đơn,50,2600
+local hotel, Quận Ba Đình,9.4,225,4.4, 1 đôi lớn,18,1120
+local hotel, Quận Ba Đình,9.4,225,4.4, 1 đôi lớn,22,1398
+local hotel, Quận Ba Đình,9.4,225,4.4, 2 đôi lớn,22,1260
+local hotel, Quận Ba Đình,9.0,56,3.9, 1 đôi cực lớn,36,1700
+local hotel, Quận Ba Đình,9.5,43,3.3749019607843134, 2 đơn,45,5180
+local hotel, Quận Ba Đình,9.5,43,3.3749019607843134, 1 đôi cực lớn,48,6580
+local hotel, Quận Ba Đình,9.5,43,3.3749019607843134, 1 sofa,50,7180
+local hotel, Quận Ba Đình,9.5,43,3.3749019607843134, 2 đơn,46,8580
+local hotel, Quận Ba Đình,9.5,43,3.3749019607843134, 1 đôi cực lớn,46,5880
+local hotel, Quận Ba Đình,9.5,43,3.3749019607843134, 2 đơn,78,5980
+local hotel, Quận Ba Đình,9.5,43,3.3749019607843134, 1 đôi,90,7380
+local hotel, Quận Ba Đình,8.8,209,3.3749019607843134, 1 đôi cực lớn,32,2982
+local hotel, Quận Ba Đình,8.8,209,3.3749019607843134, 2 đơn,38,3216
+local hotel, Quận Ba Đình,8.8,209,3.3749019607843134, 1 đôi cực lớn,38,4327
+local hotel, Quận Ba Đình,8.8,209,3.3749019607843134, 1 đôi cực lớn,46,4543
+local hotel, Quận Ba Đình,8.8,209,3.3749019607843134, 2 đơn,65,3672
+local hotel, Quận Ba Đình,8.8,209,3.3749019607843134, 1 đôi cực lớn,76,4554
+local hotel, Quận Ba Đình,8.8,209,3.3749019607843134, 1 đôi cực lớn,20,4782
+local hotel, Quận Ba Đình,8.5,132,2.6, 1 đôi cực lớn,17,733
+local hotel, Quận Ba Đình,8.5,132,2.6, 1 đôi cực lớn,18,995
+local hotel, Quận Ba Đình,8.5,132,2.6, 1 tầng,25,261
+local hotel, Quận Ba Đình,8.5,25,3.9, 1 đôi cực lớn,43,3940
+local hotel, Quận Ba Đình,8.5,25,3.9, 1 đôi lớn,43,5900
+local hotel, Quận Ba Đình,8.5,25,3.9, 1 đôi lớn,43,9998
+local hotel, Quận Ba Đình,7.9,111,2.4, 1 đôi lớn,43,810
+local hotel, Quận Ba Đình,7.9,111,2.4, 1 đôi cực lớn,43,900
+local hotel, Quận Ba Đình,7.9,111,2.4, 2 đơn,43,810
+local hotel, Quận Ba Đình,7.7,112,2.7, 1 tầng,50,540
+local hotel, Quận Ba Đình,7.7,112,2.7, 2 đôi lớn,30,700
+local hotel, Quận Ba Đình,7.7,112,2.7, 1 đôi lớn,30,800
+local hotel, Quận Ba Đình,7.7,112,2.7, 4 tầng,30,500
+local hotel, Quận Ba Đình,7.7,112,2.7, 4 tầng,40,540
+local hotel, Quận Ba Đình,7.7,112,2.7, 2 đôi,30,486
+local hotel, Quận Ba Đình,0.0,0,3.3749019607843134, 1 đôi lớn,35,577
+local hotel, Quận Ba Đình,9.1,45,2.5, 2 đơn,25,2034
+local hotel, Quận Ba Đình,9.1,45,2.5, 1 đôi,30,2394
+local hotel, Quận Ba Đình,9.1,45,2.5, 2 đơn,33,2356
+local hotel, Quận Ba Đình,9.1,45,2.5, 1 đôi lớn,35,2772
+local hotel, Quận Ba Đình,9.1,45,2.5, 2 đơn,45,2677
+local hotel, Quận Ba Đình,9.1,49,4.5, 1 đôi cực lớn,43,1450
+local hotel, Quận Ba Đình,9.1,49,4.5, 1 đôi lớn,43,1500
+local hotel, Quận Ba Đình,9.1,49,4.5, 1 đơn,43,1500
+hotel, Quận Hoàn Kiếm,9.2,489,2.0, 2 đơn,20,1100
+hotel, Quận Hoàn Kiếm,9.2,489,2.0, 1 đôi,25,1290
+hotel, Quận Hoàn Kiếm,9.2,489,2.0, 1 đôi,25,1290
+hotel, Quận Hoàn Kiếm,9.2,489,2.0, 2 đơn,30,1400
+hotel, Quận Hoàn Kiếm,9.2,489,2.0, 1 đôi cực lớn,45,1880
+hotel, Quận Hoàn Kiếm,9.2,489,2.0, 2 đơn,45,2400
+hotel, Quận Hoàn Kiếm,9.2,669,2.841800643086817, 2 đơn,20,1485
+hotel, Quận Hoàn Kiếm,9.2,669,2.841800643086817, 1 đôi lớn,21,1584
+hotel, Quận Hoàn Kiếm,9.2,669,2.841800643086817, 2 đơn,22,1881
+hotel, Quận Hoàn Kiếm,9.2,669,2.841800643086817, 1 đôi lớn,25,2156
+hotel, Quận Hoàn Kiếm,9.2,669,2.841800643086817, 2 đơn,32,1941
+hotel, Quận Hoàn Kiếm,9.2,669,2.841800643086817, 1 đôi,32,2805
+hotel, Quận Hoàn Kiếm,9.2,669,2.841800643086817, 2 đôi lớn,45,3432
+hotel, Quận Hoàn Kiếm,9.2,669,2.841800643086817, 2 đôi lớn,40,3630
+hotel, Quận Hoàn Kiếm,9.2,669,2.841800643086817, 2 đơn,45,3630
+hotel, Quận Hoàn Kiếm,9.1,342,5.2, 1 đôi cực lớn,25,704
+hotel, Quận Hoàn Kiếm,9.1,342,5.2, 2 đơn,25,1344
+hotel, Quận Hoàn Kiếm,9.1,342,5.2, 1 đôi cực lớn,28,1472
+hotel, Quận Hoàn Kiếm,9.1,342,5.2, 2 đơn,35,2048
+hotel, Quận Hoàn Kiếm,8.4,88,2.0, 2 đơn,25,2480
+hotel, Quận Hoàn Kiếm,8.4,88,2.0, 1 đôi lớn,25,2790
+hotel, Quận Hoàn Kiếm,8.4,88,2.0, 1 đôi lớn,27,2940
+hotel, Quận Hoàn Kiếm,8.4,88,2.0, 1 đôi lớn,37,3560
+hotel, Quận Hoàn Kiếm,8.2,59,3.3, 1 đôi lớn,25,986
+hotel, Quận Hoàn Kiếm,8.2,59,3.3, 2 đơn,25,4237
+hotel, Quận Hoàn Kiếm,8.2,59,3.3, 1 đôi lớn,30,4708
+hotel, Quận Hoàn Kiếm,8.2,59,3.3, 2 đơn,35,5640
+hotel, Quận Hoàn Kiếm,8.2,59,3.3, 1 đôi,40,6267
+hotel, Quận Hoàn Kiếm,8.2,59,3.3, 2 đơn,50,6666
+hotel, Quận Hoàn Kiếm,8.2,59,3.3, 1 đôi,50,7407
+hotel, Quận Hoàn Kiếm,8.2,59,3.3, 3 đơn,25,7691
+hotel, Quận Hoàn Kiếm,8.7,28,2.841800643086817, 2 đôi cực lớn,17,1438
+hotel, Quận Hoàn Kiếm,8.7,28,2.841800643086817, 1 đôi,21,1564
+hotel, Quận Hoàn Kiếm,8.7,28,2.841800643086817, 1 đôi,30,1294
+hotel, Quận Hoàn Kiếm,8.7,28,2.841800643086817, 1 đôi lớn,170,1407
+hotel, Vietnam,8.4,24,7.7, 1 đôi lớn,25,2100
+hotel, Vietnam,8.4,24,7.7, 1 đôi lớn,27,2400
+hotel, Vietnam,8.4,24,7.7, 1 đôi lớn,30,2700
+hotel, Vietnam,8.4,24,7.7, 1 đôi cực lớn,35,3100
+hotel, Vietnam,8.4,24,7.7, 1 đơn,38,3600
+hotel, Cau Giay,9.1,121,6.042268041237113, 1 đôi lớn,22,603
+hotel, Cau Giay,9.1,121,6.042268041237113, 1 đôi lớn,22,1148
+hotel, Cau Giay,9.1,121,6.042268041237113, 1 đôi lớn,25,1216
+hotel, Cau Giay,9.1,121,6.042268041237113, 1 đơn,39,1500
+hotel, Cau Giay,8.7,12,6.5, 1 đôi lớn,20,1149
+hotel, Cau Giay,8.7,12,6.5, 1 đôi lớn,25,1296
+hotel, Cau Giay,8.7,12,6.5, 1 đôi cực lớn,30,1440
+hotel, Quận Hoàn Kiếm,9.2,667,4.2, 1 đôi lớn,20,1550
+hotel, Quận Hoàn Kiếm,9.2,667,4.2, 2 đơn,20,1650
+hotel, Quận Hoàn Kiếm,9.2,667,4.2, 1 đơn,30,2000
+hotel, Quận Hoàn Kiếm,9.2,667,4.2, 1 đôi lớn,30,2000
+hotel, Quận Hoàn Kiếm,9.2,667,4.2, 1 đơn,30,2500
+hotel, Quận Hoàn Kiếm,9.2,667,4.2, 1 đôi lớn,35,2900
+hotel, Quận Hoàn Kiếm,9.2,667,4.2, 2 đôi lớn,35,3200
+hotel, Quận Hoàn Kiếm,9.2,667,4.2, 2 đôi lớn,40,3600
+hotel, Quận Ba Đình,8.6,205,2.8, 1 đôi cực lớn,25,649
+hotel, Quận Ba Đình,8.6,205,2.8, 1 đôi cực lớn,25,1555
+hotel, Quận Ba Đình,8.6,205,2.8, 1 đôi cực lớn,25,1684
+hotel, Quận Ba Đình,8.6,205,2.8, 1 đôi cực lớn,30,1964
+hotel, Quận Ba Đình,8.6,205,2.8, 1 đôi cực lớn,25,2245
+hotel, Quận Hoàn Kiếm,8.7,573,4.1, 1 đôi,25,442
+hotel, Quận Hoàn Kiếm,8.7,573,4.1, 1 tầng,40,299
+hotel, Quận Hoàn Kiếm,8.7,573,4.1, 1 đơn,25,351
+hotel, Quận Hoàn Kiếm,8.7,573,4.1, 1 đơn,25,383
+hotel, Quận Hoàn Kiếm,9.2,129,2.8, 1 đôi lớn,25,810
+hotel, Quận Hoàn Kiếm,9.2,709,2.4, 1 đôi lớn,20,1260
+hotel, Quận Hoàn Kiếm,9.2,709,2.4, 1 đôi lớn,25,1369
+hotel, Quận Hoàn Kiếm,9.2,709,2.4, 1 đơn,35,1675
+hotel, Quận Hoàn Kiếm,9.2,709,2.4, 1 đôi cực lớn,45,1717
+hotel, Quận Hoàn Kiếm,9.2,709,2.4, 2 đơn,40,2100
+hotel, Quận Hoàn Kiếm,9.2,709,2.4, 1 đôi cực lớn,55,8550
+hotel, Quận Hoàn Kiếm,9.2,709,2.4, 1 đơn,58,2184
+hotel, Cau Giay,9.2,95,6.7, 1 đôi cực lớn,55,1969
+hotel, Cau Giay,9.2,95,6.7, 1 đôi cực lớn,45,2132
+hotel, Quận Hoàn Kiếm,9.4,431,2.3, 2 đơn,18,1234
+hotel, Quận Hoàn Kiếm,9.4,431,2.3, 1 đôi cực lớn,20,1371
+hotel, Quận Hoàn Kiếm,9.4,431,2.3, 2 đơn,21,1583
+hotel, Quận Hoàn Kiếm,9.4,431,2.3, 1 đôi cực lớn,26,1719
+hotel, Quận Hoàn Kiếm,9.4,431,2.3, 1 đôi cực lớn,23,1723
+hotel, Quận Hoàn Kiếm,9.4,431,2.3, 2 đơn,25,1860
+hotel, Quận Hoàn Kiếm,9.4,431,2.3, 1 đôi cực lớn,27,2124
+hotel, Quận Hoàn Kiếm,9.4,431,2.3, 1 đôi cực lớn,45,2261
+hotel, Quận Thanh Xuân,0.0,0,5.1, 1 đôi cực lớn,43,4653
+hotel, Quận Ba Đình,9.5,47,3.9, 1 đôi lớn,60,3980
+hotel, Quận Ba Đình,9.5,47,3.9, 1 đôi cực lớn,75,3980
+hotel, Quận Ba Đình,9.5,47,3.9, 1 đôi lớn,80,5560
+hotel, Quận Ba Đình,9.5,47,3.9, 1 đôi cực lớn,85,5580
+hotel, Quận Ba Đình,9.5,47,3.9, 1 đôi cực lớn,85,5580
+hotel, Quận Ba Đình,9.5,47,3.9, 1 đôi lớn,85,5580
+hotel, Quận Ba Đình,9.5,47,3.9, 1 đôi,85,5780
+hotel, Quận Ba Đình,9.5,47,3.9, 1 đôi cực lớn,85,5780
+hotel, Quận Ba Đình,9.5,47,3.9, 1 đôi lớn,110,7000
+hotel, Quận Ba Đình,9.5,47,3.9, 1 đôi lớn,150,8300
+hotel, Quận Ba Đình,8.4,100,3.9, 1 đôi lớn,28,3780
+hotel, Quận Ba Đình,8.4,100,3.9, 2 đơn,35,3465
+hotel, Quận Ba Đình,8.4,100,3.9, 1 đôi cực lớn,43,4095
+hotel, Quận Ba Đình,8.4,100,3.9, 1 đôi cực lớn,50,3780
+hotel, Quận Ba Đình,8.4,100,3.9, 1 đơn,55,4410
+hotel, Quận Hoàn Kiếm,8.4,215,1.7, 1 đôi lớn,20,913
+hotel, Quận Hoàn Kiếm,8.4,215,1.7, 2 đơn,25,922
+hotel, Quận Hoàn Kiếm,8.4,215,1.7, 1 đôi lớn,30,1143
+hotel, Quận Hoàn Kiếm,8.4,215,1.7, 2 đơn,40,1155
+hotel, Quận Hoàn Kiếm,9.5,319,2.4, 1 đôi cực lớn,25,1170
+hotel, Quận Hoàn Kiếm,9.5,319,2.4, 2 đơn,25,1350
+hotel, Quận Hoàn Kiếm,9.5,319,2.4, 1 đôi cực lớn,22,1620
+hotel, Quận Hoàn Kiếm,9.5,319,2.4, 2 đơn,25,1800
+hotel, Quận Hoàn Kiếm,9.5,319,2.4, 1 đơn,30,2250
+hotel, Quận Hoàn Kiếm,8.6,148,2.2, 1 đôi lớn,25,1000
+hotel, Quận Hoàn Kiếm,8.6,148,2.2, 1 đôi lớn,25,1508
+hotel, Quận Hoàn Kiếm,8.6,148,2.2, 2 đơn,28,1740
+hotel, Quận Hoàn Kiếm,8.6,148,2.2, 2 đơn,32,2320
+hotel, Quận Hoàn Kiếm,8.6,148,2.2, 1 đôi lớn,32,2900
+hotel, Quận Hoàn Kiếm,8.6,148,2.2, 1 đôi lớn,60,3016
+hotel, Quận Hoàn Kiếm,8.6,148,2.2, 1 đơn,60,3480
+hotel, Quận Tây Hồ,8.5,251,3.1, 1 đôi cực lớn,43,700
+hotel, Quận Tây Hồ,8.5,251,3.1, 1 đôi cực lớn,43,1050
+hotel, Quận Hoàn Kiếm,8.3,507,4.5, 1 đôi lớn,20,583
+hotel, Quận Hoàn Kiếm,8.3,507,4.5, 2 đơn,20,729
+hotel, Quận Hoàn Kiếm,8.3,507,4.5, 1 đơn,22,801
+hotel, Quận Hoàn Kiếm,8.3,507,4.5, 1 đôi lớn,25,947
+hotel, Quận Hoàn Kiếm,9.5,43,2.841800643086817, 1 đôi lớn,20,1601
+hotel, Quận Hoàn Kiếm,9.5,43,2.841800643086817, 2 đơn,25,1827
+hotel, Quận Hoàn Kiếm,9.5,43,2.841800643086817, 1 đôi lớn,35,2205
+hotel, Quận Hoàn Kiếm,9.5,43,2.841800643086817, 2 đơn,30,2835
+hotel, Quận Hoàn Kiếm,9.5,43,2.841800643086817, 1 đôi lớn,55,3150
+hotel, Quận Hoàn Kiếm,9.5,43,2.841800643086817, 2 đơn,60,4347
+hotel, Quận Hoàn Kiếm,9.5,43,2.841800643086817, 3 đơn,35,4725
+apartment, Quận Ba Đình,9.0,32,4.6, 1 đôi lớn,43,1270
+apartment, Quận Ba Đình,9.0,32,4.6, 2 đơn,43,2763
+apartment, Quận Ba Đình,9.0,32,4.6, 1 đôi lớn,42,2944
+apartment, Quận Ba Đình,9.0,32,4.6, 2 đơn,43,1845
+apartment, Cau Giay,8.9,291,5.1, 2 đơn,30,1858
+apartment, Cau Giay,8.9,291,5.1, 1 đôi cực lớn,22,1998
+apartment, Cau Giay,8.9,291,5.1, 1 đơn,25,1500
+apartment, Cau Giay,8.9,291,5.1, 1 đôi cực lớn,25,1598
+apartment, Cau Giay,8.9,291,5.1, 2 đôi cực lớn,22,1600
+apartment, Cau Giay,8.9,291,5.1, 2 đơn,28,1630
+apartment, Cau Giay,8.9,291,5.1, 1 đôi cực lớn,28,1858
+apartment, Cau Giay,8.9,291,5.1, 1 đơn,58,1900
+apartment, Quận Hoàn Kiếm,8.4,635,1.8, 1 đôi lớn,18,808
+apartment, Quận Hoàn Kiếm,8.4,635,1.8, 2 đơn,28,1328
+apartment, Quận Hoàn Kiếm,8.4,635,1.8, 1 đơn,40,1472
+apartment, Quận Hoàn Kiếm,8.4,635,1.8, 1 đôi lớn,35,1552
+apartment, Quận Hoàn Kiếm,8.4,635,1.8, 1 đôi lớn,30,1680
+apartment, Quận Tây Hồ,8.3,179,4.572727272727271, 1 đôi lớn,43,1629
+apartment, Quận Tây Hồ,8.3,179,4.572727272727271, 1 đôi lớn,43,1598
+apartment, Quận Tây Hồ,8.3,179,4.572727272727271, 1 đôi lớn,43,1980
+apartment, Quận Tây Hồ,8.3,179,4.572727272727271, 2 đơn,43,2598
+apartment, Quận Tây Hồ,8.3,179,4.572727272727271, 1 đôi lớn,43,1300
+apartment, Cau Giay,8.7,88,6.6, 1 đôi cực lớn,37,2455
+apartment, Cau Giay,8.7,88,6.6, 1 đôi cực lớn,43,2585
+apartment, Cau Giay,8.7,88,6.6, 1 đôi lớn,43,2545
+apartment, Cau Giay,8.7,88,6.6, 2 đơn,43,2768
+apartment, Cau Giay,0.0,0,6.042268041237113, 1 đôi lớn,43,1568
+apartment, Cau Giay,9.2,248,7.0, 1 đôi cực lớn,60,1731
+apartment, Cau Giay,9.2,248,7.0, 1 đôi cực lớn,43,1731
+apartment, Quận Tây Hồ,8.8,61,4.7, 1 đôi lớn,43,1100
+apartment, Quận Tây Hồ,8.8,61,4.7, 1 đôi lớn,38,1155
+apartment, Quận Tây Hồ,8.8,61,4.7, 1 đôi lớn,61,1265
+apartment, Quận Tây Hồ,8.8,61,4.7, 1 đôi lớn,58,1375
+apartment, Quận Tây Hồ,8.8,61,4.7, 1 đôi lớn,43,1980
+apartment, Quận Tây Hồ,8.8,61,4.7, 1 đôi lớn,43,2090
+apartment, Từ Liêm,0.0,0,7.8, 1 đôi lớn,32,2147
+apartment, Từ Liêm,0.0,0,7.8, 1 đôi lớn,28,2147
+apartment, Từ Liêm,0.0,0,7.8, 1 đôi lớn,32,2356
+apartment, Từ Liêm,0.0,0,7.8, 2 đôi lớn,32,2755
+apartment, Cau Giay,0.0,0,6.042268041237113, 1 đôi cực lớn,43,2600
+apartment, Cau Giay,9.0,102,6.7, 1 đôi lớn,43,1710
+apartment, Quận Hoàn Kiếm,9.2,182,1.7, 2 đơn,43,2189
+apartment, Quận Hoàn Kiếm,9.2,182,1.7, 1 đôi cực lớn,43,2298
+apartment, Long Bien Hanoi,8.2,100,6.629310344827586, 1 đôi lớn,25,680
+apartment, Long Bien Hanoi,8.2,100,6.629310344827586, 1 đôi lớn,35,612
+apartment, Long Bien Hanoi,8.2,100,6.629310344827586, 1 đôi lớn,25,850
+apartment, Quận Hoàn Kiếm,9.2,108,1.8, 1 đôi lớn,35,1062
+apartment, Quận Hoàn Kiếm,9.2,108,1.8, 1 đôi lớn,65,1296
+apartment, Quận Hoàn Kiếm,9.2,108,1.8, 1 đôi lớn,45,1101
+apartment, Quận Hoàn Kiếm,9.2,108,1.8, 1 đôi lớn,75,1350
+apartment, Quận Hoàn Kiếm,9.2,108,1.8, 1 đôi lớn,75,1215
+apartment, Cau Giay,8.4,45,4.9, 2 đơn,60,3209
+apartment, Cau Giay,8.4,45,4.9, 1 đôi lớn,28,1286
+apartment, Cau Giay,8.4,45,4.9, 2 đơn,30,1538
+apartment, Cau Giay,8.4,45,4.9, 1 đôi lớn,38,1747
+apartment, Cau Giay,8.4,45,4.9, 2 đơn,45,2831
+apartment, Quận Thanh Xuân,0.0,0,5.1, 1 đôi lớn,43,4653
+apartment, Quận Ba Đình,9.5,47,3.9, 2 đơn,75,3980
+apartment, Quận Ba Đình,9.5,47,3.9, 1 đôi lớn,60,3980
+apartment, Quận Ba Đình,9.5,47,3.9, 1 đôi lớn,80,5560
+apartment, Quận Ba Đình,9.5,47,3.9, 1 đôi cực lớn,85,5580
+apartment, Quận Ba Đình,9.5,47,3.9, 1 đôi cực lớn,85,5580
+apartment, Quận Ba Đình,9.5,47,3.9, 1 đôi lớn,85,5580
+apartment, Quận Ba Đình,9.5,47,3.9, 1 đôi cực lớn,85,5780
+apartment, Quận Ba Đình,9.5,47,3.9, 1 đôi lớn,85,5780
+apartment, Quận Ba Đình,9.5,47,3.9, 1 đơn,110,7000
+apartment, Quận Ba Đình,9.5,47,3.9, 1 đôi cực lớn,150,8300
+apartment, Quận Tây Hồ,8.5,251,3.1, 2 đơn,43,700
+apartment, Quận Tây Hồ,8.5,251,3.1, 1 đôi cực lớn,43,1050
+apartment, Cau Giay,8.5,33,5.5, 1 đôi,43,2016
+apartment, Cau Giay,8.5,33,5.5, 1 đôi cực lớn,43,2457
+apartment, Quận Đống Đa,9.0,245,4.3, 2 đơn,43,1170
+apartment, Quận Đống Đa,9.0,245,4.3, 1 đôi lớn,43,1512
+apartment, Cau Giay,8.6,116,6.4, 1 đôi cực lớn,43,1556
+apartment, Cau Giay,8.6,116,6.4, 1 đôi lớn,43,1588
+apartment, Cau Giay,8.6,116,6.4, 1 đôi lớn,43,1827
+apartment, Cau Giay,8.6,116,6.4, 1 đôi cực lớn,43,1688
+apartment, Quận Ba Đình,9.0,200,3.3749019607843134, 1 đôi cực lớn,43,1200
+apartment, Quận Ba Đình,9.0,200,3.3749019607843134, 2 đơn,43,1260
+apartment, Quận Ba Đình,9.0,200,3.3749019607843134, 1 đôi lớn,43,1380
+apartment, Quận Ba Đình,9.0,56,3.9, 1 đôi cực lớn,48,1700
+apartment,52 Phạm Hùng,0.0,0,7.4, 2 đơn,43,3400
+hotel, Quận Thanh Xuân,7.3,28,5.0, 1 đôi,30,336
+hotel, Quận Thanh Xuân,7.3,28,5.0, 2 đơn,30,348
+hotel, Quận Thanh Xuân,7.3,28,5.0, 3 đơn,40,366
+hotel, Quận Hoàn Kiếm,9.0,940,1.8, 1 đôi cực lớn,25,452
+hotel, Quận Hoàn Kiếm,9.0,940,1.8, 2 đôi,25,799
+hotel, Quận Hoàn Kiếm,9.0,940,1.8, 1 đôi cực lớn,25,999
+hotel, Quận Hoàn Kiếm,9.0,940,1.8, 2 đôi,50,904
+hotel, Quận Hoàn Kiếm,9.0,940,1.8, 2 đơn,50,1130
+hotel, Cau Giay,8.9,430,6.8, 2 đôi cực lớn,43,804
+hotel, Cau Giay,8.9,430,6.8, 1 sofa,43,948
+hotel, Cau Giay,8.9,430,6.8, 2 đơn,43,948
+hotel, Cau Giay,7.3,26,6.8, 1 đôi lớn,25,765
+hotel, Cau Giay,7.3,26,6.8, 2 đơn,28,850
+hotel, Cau Giay,7.3,26,6.8, 1 đôi lớn,40,765
+hotel, Vietnam,7.3,69,7.9, 1 đôi lớn,65,484
+hotel, Vietnam,7.3,69,7.9, 1 đôi lớn,43,550
+hotel, Vietnam,7.3,69,7.9, 1 đôi lớn,43,650
+hotel, Vietnam,7.3,69,7.9, 1 đôi lớn,32,750
+hotel, Quận Hai Bà Trưng,8.6,360,2.2, 2 đơn,25,710
+hotel, Quận Hai Bà Trưng,8.6,360,2.2, 1 đôi cực lớn,28,749
+hotel, Quận Hai Bà Trưng,8.6,360,2.2, 2 đơn,50,882
+hotel, Quận Hai Bà Trưng,8.6,360,2.2, 1 đôi cực lớn,32,2664
+hotel, Quận Hoàn Kiếm,9.1,15,2.841800643086817, 1 đôi lớn,27,1449
+hotel, Quận Hoàn Kiếm,9.1,15,2.841800643086817, 1 đôi lớn,30,1575
+hotel, Quận Hoàn Kiếm,9.1,15,2.841800643086817, 2 đơn,27,1998
+hotel, Quận Hoàn Kiếm,9.1,15,2.841800643086817, 1 đôi lớn,27,1998
+hotel, Quận Hoàn Kiếm,9.1,15,2.841800643086817, 1 đôi lớn,37,2538
+hotel, Quận Hoàn Kiếm,9.1,15,2.841800643086817, 1 đôi lớn,41,2538
+hotel, Quận Hoàn Kiếm,9.1,15,2.841800643086817, 1 đôi lớn,47,2862
+hotel, Quận Ba Đình,9.2,19,3.9, 1 đơn,43,1799
+hotel, Quận Hoàn Kiếm,9.5,598,4.7, 2 đơn,25,694
+hotel, Quận Hoàn Kiếm,9.5,598,4.7, 1 đôi lớn,28,722
+hotel, Quận Hoàn Kiếm,9.5,598,4.7, 1 đôi cực lớn,70,833
+hotel, Quận Hai Bà Trưng,8.5,95,2.8, 1 đôi cực lớn,28,483
+hotel, Quận Hai Bà Trưng,8.5,95,2.8, 1 đôi cực lớn,30,553
+hotel, Quận Hoàn Kiếm,8.0,34,2.0, 1 đôi lớn,24,504
+hotel, Quận Hoàn Kiếm,8.0,34,2.0, 2 đơn,24,588
+hotel, Quận Hoàn Kiếm,8.0,34,2.0, 1 đôi lớn,30,672
+hotel, Quận Hoàn Kiếm,8.0,34,2.0, 2 đôi lớn,36,756
+hotel, Quận Hoàn Kiếm,8.0,34,2.0, 1 đôi lớn,39,840
+hotel, Cau Giay,8.9,302,6.6, 2 đơn,43,666
+hotel, Cau Giay,8.9,302,6.6, 1 đơn,43,800
+hotel, Cau Giay,8.9,302,6.6, 2 đơn,43,1146
+hotel, Quận Ba Đình,9.0,56,3.9, 1 đôi cực lớn,50,850
+hotel, Quận Hoàn Kiếm,9.2,255,2.841800643086817, 1 đôi lớn,25,1731
+hotel, Quận Hoàn Kiếm,9.2,255,2.841800643086817, 1 đôi lớn,30,1839
+hotel, Cau Giay,8.5,7,5.4, 1 đôi lớn,25,778
+hotel, Cau Giay,8.5,7,5.4, 1 đôi lớn,30,882
+hotel, Cau Giay,8.5,7,5.4, 2 đơn,30,986
+hotel, Cau Giay,8.5,7,5.4, 1 đôi lớn,30,986
+hotel, Quận Tây Hồ,7.4,30,4.572727272727271, 1 đôi lớn,25,759
+hotel, Quận Tây Hồ,7.4,30,4.572727272727271, 2 đơn,30,855
+hotel, Quận Tây Hồ,7.4,30,4.572727272727271, 1 đôi lớn,35,1035
+hotel, Quận Tây Hồ,7.4,30,4.572727272727271, 2 đơn,43,1215
+hotel, Quận Long Biên,9.0,28,6.629310344827586, 1 đôi lớn,25,1100
+hotel, Quận Long Biên,9.0,28,6.629310344827586, 1 đôi lớn,32,1300
+hotel, Quận Long Biên,9.0,28,6.629310344827586, 1 đôi,32,1300
+hotel, Quận Đống Đa,7.5,33,3.0, 1 đôi lớn,18,240
+hotel, Quận Đống Đa,7.5,33,3.0, 1 đôi lớn,18,680
+hotel, Quận Đống Đa,7.5,33,3.0, 1 đôi lớn,22,800
+hotel, Quận Đống Đa,7.5,33,3.0, 2 đơn,22,800
+hotel, Quận Đống Đa,7.5,33,3.0, 1 đôi lớn,25,1144
+hotel, Quận Đống Đa,7.5,33,3.0, 2 đơn,25,916
+hotel, Quận Đống Đa,7.5,33,3.0, 1 đôi,30,1376
+hotel, Quận Hoàn Kiếm,9.2,669,2.841800643086817, 2 đơn,22,940
+hotel, Quận Hoàn Kiếm,9.2,669,2.841800643086817, 1 đôi,32,1402
+hotel, Quận Hoàn Kiếm,9.2,669,2.841800643086817, 2 đôi lớn,40,1815
+hotel, Quận Hoàn Kiếm,9.2,669,2.841800643086817, 2 đôi lớn,45,1633
+hotel, Quận Hoàn Kiếm,9.2,669,2.841800643086817, 2 đơn,32,2266
+hotel, Quận Hoàn Kiếm,9.2,669,2.841800643086817, 1 đôi lớn,45,2039
+hotel, Quận Tây Hồ,8.7,357,4.572727272727271, 2 đơn,43,3912
+hotel, Quận Tây Hồ,8.7,357,4.572727272727271, 1 đôi cực lớn,43,4452
+hotel, Quận Tây Hồ,8.7,357,4.572727272727271, 2 đơn,43,4825
+hotel, Quận Tây Hồ,8.7,357,4.572727272727271, 1 đôi cực lớn,60,4433
+hotel, Quận Tây Hồ,8.7,357,4.572727272727271, 2 đơn,80,4973
+hotel,7 Đường Cao Tốc 08,0.0,0,6.629310344827586, 1 đôi cực lớn,43,800
+hotel, Quận Ba Đình,8.7,299,3.1, 1 đôi cực lớn,35,2579
+hotel, Quận Ba Đình,8.7,299,3.1, 1 đôi cực lớn,35,3761
+hotel, Quận Ba Đình,8.7,299,3.1, 1 đôi cực lớn,35,2583
+hotel, Quận Ba Đình,8.7,299,3.1, 2 đơn,35,3766
+hotel, Quận Ba Đình,8.7,299,3.1, 1 đôi cực lớn,40,3116
+hotel, Quận Đống Đa,8.9,72,2.6, 1 đôi cực lớn,25,731
+hotel, Quận Đống Đa,8.9,72,2.6, 2 đơn,30,855
+hotel, Quận Đống Đa,8.9,72,2.6, 1 đôi cực lớn,35,1034
+hotel, Quận Đống Đa,8.9,72,2.6, 2 đơn,35,1215
+hotel, Quận Hoàn Kiếm,8.8,234,4.7, 2 đơn,25,508
+hotel, Quận Hoàn Kiếm,8.8,234,4.7, 1 đôi lớn,35,540
+hotel, Quận Hoàn Kiếm,8.8,234,4.7, 1 đơn,35,652
+hotel, Quận Hoàn Kiếm,8.8,234,4.7, 1 đôi lớn,35,787
+hotel, Quận Hoàn Kiếm,8.8,234,4.7, 2 đơn,65,945
+hotel, Quận Tây Hồ,8.5,107,4.572727272727271, 1 đôi cực lớn,43,1542
+hotel, Quận Tây Hồ,8.5,107,4.572727272727271, 1 đôi cực lớn,60,1632
+hotel, Quận Tây Hồ,8.5,107,4.572727272727271, 1 đôi cực lớn,38,1814
+hotel, Quận Tây Hồ,8.5,107,4.572727272727271, 1 đôi cực lớn,43,2857
+hotel, Quận Tây Hồ,8.5,107,4.572727272727271, 1 đôi cực lớn,43,2630
+apartment, Quận Ba Đình,6.6,10,3.3749019607843134, 1 đôi lớn,20,700
+apartment, Quận Ba Đình,6.6,10,3.3749019607843134, 2 đơn,30,765
+apartment, Quận Ba Đình,6.6,10,3.3749019607843134, 2 đơn,27,888
+apartment, Quận Ba Đình,6.6,10,3.3749019607843134, 1 đôi lớn,40,982
+apartment, Quận Ba Đình,8.6,205,2.8, 1 đôi cực lớn,25,1512
+apartment, Quận Ba Đình,8.6,205,2.8, 1 đôi cực lớn,25,342
+apartment, Quận Ba Đình,8.6,205,2.8, 1 đôi cực lớn,25,864
+apartment, Quận Ba Đình,8.6,205,2.8, 1 đôi cực lớn,25,1080
+apartment, Quận Ba Đình,8.6,205,2.8, 1 đôi cực lớn,30,1296
+apartment, Quận Tây Hồ,8.3,104,3.5, 1 đôi lớn,23,1584
+apartment, Quận Tây Hồ,8.3,104,3.5, 2 đơn,35,1697
+apartment, Quận Tây Hồ,8.3,104,3.5, 1 đôi cực lớn,23,2237
+apartment, Quận Tây Hồ,8.3,104,3.5, 1 đôi cực lớn,41,1852
+apartment, Quận Tây Hồ,8.3,104,3.5, 1 đôi cực lớn,41,2237
+apartment, Quận Tây Hồ,8.3,104,3.5, 1 đơn,30,1852
+apartment, Quận Tây Hồ,9.1,83,5.0, 2 đơn,43,2358
+apartment, Quận Tây Hồ,9.1,83,5.0, 2 đơn,43,2948
+apartment, Quận Tây Hồ,9.1,83,5.0, 2 đơn,43,4218
+apartment, Quận Tây Hồ,9.1,83,5.0, 1 đôi lớn,43,4399
+apartment, Cau Giay,8.3,138,5.4, 1 đôi cực lớn,43,700
+apartment, Quận Tây Hồ,8.3,17,6.2, 1 đôi lớn,43,635
+apartment, Quận Tây Hồ,8.3,17,6.2, 1 đôi cực lớn,43,690
+apartment, Quận Tây Hồ,8.3,17,6.2, 2 đơn,43,635
+apartment, Quận Tây Hồ,8.8,160,4.572727272727271, 1 đôi lớn,50,1940
+apartment, Quận Tây Hồ,8.8,160,4.572727272727271, 1 đôi lớn,86,2169
+apartment, Quận Tây Hồ,8.8,160,4.572727272727271, 1 đôi,123,2516
+apartment, Quận Tây Hồ,8.8,160,4.572727272727271, 2 đơn,135,3124
+apartment, Quận Tây Hồ,8.8,160,4.572727272727271, 1 đôi cực lớn,123,4512
+apartment, Quận Tây Hồ,8.8,160,4.572727272727271, 2 đơn,135,6016
+apartment, Quận Tây Hồ,8.8,160,4.572727272727271, 2 đơn,43,3991
+apartment, Cau Giay,8.5,21,6.3, 1 đôi cực lớn,43,955
+apartment, Cau Giay,8.5,21,6.3, 1 đôi cực lớn,43,979
+apartment, Cau Giay,8.5,21,6.3, 2 đơn,43,999
+apartment, Cau Giay,8.5,21,6.3, 1 đôi lớn,43,1125
+apartment, Cau Giay,8.5,21,6.3, 1 đôi lớn,43,1012
+apartment, Quận Ba Đình,8.4,177,3.2, 1 đôi lớn,38,1799
+apartment, Quận Ba Đình,8.4,177,3.2, 2 đơn,45,2119
+apartment, Quận Ba Đình,8.4,177,3.2, 1 đôi,78,2335
+apartment, Quận Ba Đình,8.4,177,3.2, 2 đơn,100,2956
+apartment, Quận Ba Đình,8.4,177,3.2, 1 đôi lớn,55,3465
+apartment, Cau Giay,9.3,44,5.0, 2 đơn,43,670
+apartment, Cau Giay,9.3,44,5.0, 1 đôi cực lớn,43,934
+apartment, Cau Giay,9.3,44,5.0, 1 đôi cực lớn,43,675
+apartment, Cau Giay,9.3,44,5.0, 1 đôi lớn,43,759
+apartment, Quận Ba Đình,8.9,42,4.4, 1 đôi lớn,43,629
+apartment, Quận Ba Đình,8.9,42,4.4, 1 đôi lớn,36,699
+apartment, Quận Tây Hồ,8.4,46,3.8, 1 đôi lớn,43,690
+apartment, Quận Tây Hồ,8.4,46,3.8, 1 đôi lớn,43,690
+apartment, Quận Tây Hồ,8.4,46,3.8, 2 đơn,43,690
+apartment, Hà Nội,10.0,2,6.629310344827586, 1 đôi lớn,25,435
+apartment, Quận Tây Hồ,8.4,201,5.2, 2 đơn,43,1911
+apartment, Quận Tây Hồ,8.4,201,5.2, 1 đôi cực lớn,43,2150
+apartment, Quận Tây Hồ,8.4,201,5.2, 1 đôi cực lớn,43,2310
+apartment, Quận Hoàn Kiếm,8.8,287,2.841800643086817, 2 đơn,43,2585
+apartment, Quận Hoàn Kiếm,8.8,287,2.841800643086817, 1 đôi,43,2721
+apartment, Quận Hoàn Kiếm,8.8,287,2.841800643086817, 1 đôi lớn,43,2812
+apartment, Quận Hoàn Kiếm,8.8,287,2.841800643086817, 2 đơn,43,2948
+apartment, Quận Ba Đình,9.0,90,4.1, 1 đôi lớn,35,650
+apartment, Quận Ba Đình,9.0,90,4.1, 1 đôi cực lớn,35,2000
+apartment, Quận Hoàn Kiếm,10.0,20,2.841800643086817, 1 đôi cực lớn,50,480
+apartment, Quận Ba Đình,9.0,49,4.7, 2 đơn,50,1737
+apartment, Quận Ba Đình,9.0,49,4.7, 2 đơn,60,2074
+apartment, Quận Ba Đình,9.0,49,4.7, 1 đôi lớn,45,1904
+apartment, Quận Đống Đa,9.0,245,4.3, 2 đôi,43,2880
+apartment, Quận Hai Bà Trưng,8.0,17,3.5823529411764703, 1 đôi cực lớn,43,675
+apartment, Quận Hai Bà Trưng,8.0,17,3.5823529411764703, 1 đôi lớn,43,641
+apartment, Quận Hai Bà Trưng,8.0,17,3.5823529411764703, 2 đôi,43,720
+apartment, Quận Tây Hồ,9.5,2,4.572727272727271, 1 đôi lớn,43,1496
+apartment,Đỗ Nhuận C5 Do Nhuan Street,9.7,9,7.3, 1 đôi cực lớn,40,1200
+apartment,Đỗ Nhuận C5 Do Nhuan Street,9.7,9,7.3, 1 đôi cực lớn,70,1410
+apartment,Đỗ Nhuận C5 Do Nhuan Street,9.7,9,7.3, 2 đôi lớn,90,3100
+apartment, Quận Hai Bà Trưng,9.4,43,3.7, 1 đôi,43,2034
+apartment, Quận Hai Bà Trưng,9.4,43,3.7, 1 đôi lớn,43,2234
+apartment, Quận Hai Bà Trưng,9.4,43,3.7, 2 đơn,43,2574
+apartment, Quận Ba Đình,7.4,59,3.9, 1 đôi cực lớn,50,1170
+apartment, Quận Ba Đình,7.4,59,3.9, 1 đôi cực lớn,19,756
+apartment, Quận Ba Đình,7.4,59,3.9, 1 đôi lớn,25,873
+apartment, Quận Ba Đình,7.4,59,3.9, 1 đôi cực lớn,30,963
+apartment, Quận Hoàn Kiếm,8.7,213,2.841800643086817, 1 đôi lớn,25,2790
+apartment, Quận Hoàn Kiếm,8.7,213,2.841800643086817, 2 đơn,25,3290
+apartment, Quận Hoàn Kiếm,8.7,213,2.841800643086817, 1 đôi,30,4089
+apartment, Quận Hoàn Kiếm,8.7,213,2.841800643086817, 1 đôi,30,4089
+apartment, Quận Hoàn Kiếm,8.7,213,2.841800643086817, 1 đôi,56,4888
+apartment, Quận Hoàn Kiếm,8.7,213,2.841800643086817, 1 đôi lớn,50,3689
+apartment, Quận Hoàn Kiếm,8.7,213,2.841800643086817, 1 đôi lớn,25,4488
+apartment,Phạm Hùng,0.0,0,6.629310344827586, 2 đơn,43,1900
+apartment, Quận Hai Bà Trưng,0.0,0,3.5823529411764703, 2 đơn,43,400
+apartment, Quận Hoàn Kiếm,8.0,49,2.0, 1 đôi cực lớn,43,540
+apartment, Quận Hoàn Kiếm,8.0,49,2.0, 1 đôi cực lớn,43,585
+apartment, Quận Hoàn Kiếm,8.3,9,4.2, 1 đôi lớn,43,800
+apartment, Quận Hoàn Kiếm,8.3,9,4.2, 1 đôi lớn,50,800
+apartment, Quận Ba Đình,0.0,0,4.3, 1 đôi cực lớn,43,770
+apartment, Cau Giay,0.0,0,6.042268041237113, 1 đôi lớn,43,855
+apartment, Quận Đống Đa,8.9,108,3.283333333333333, 2 đơn,53,2624
+apartment, Quận Đống Đa,8.9,108,3.283333333333333, 2 đơn,31,2952
+apartment, Quận Đống Đa,8.9,108,3.283333333333333, 1 đôi cực lớn,31,2160
+apartment, Quận Đống Đa,8.9,108,3.283333333333333, 1 đôi cực lớn,53,2430
+apartment, Quận Đống Đa,8.9,108,3.283333333333333, 1 đôi lớn,59,2160
+apartment, Quận Đống Đa,8.9,108,3.283333333333333, 1 đôi lớn,72,2430
+apartment, Quận Đống Đa,8.9,108,3.283333333333333, 3 đơn,72,2624
+apartment, Quận Đống Đa,8.9,108,3.283333333333333, 1 đôi lớn,81,2952
+apartment, Quận Hai Bà Trưng,8.4,43,3.8, 1 đôi cực lớn,30,1355
+apartment, Quận Hai Bà Trưng,8.4,43,3.8, 2 đơn,34,1672
+apartment, Quận Hai Bà Trưng,8.4,43,3.8, 2 đơn,60,2014
+apartment, Quận Hai Bà Trưng,8.4,43,3.8, 1 đôi cực lớn,32,1900
+apartment, Quận Đống Đa,7.6,57,4.6, 1 đôi lớn,43,360
+apartment, Quận Hoàn Kiếm,0.0,0,2.841800643086817, 1 đôi,43,520
+apartment,Nam Từ Liêm,8.9,25,7.4, 1 đôi lớn,43,1700
+apartment,Nam Từ Liêm,8.9,25,7.4, 1 đôi lớn,43,1700
+apartment,Nam Từ Liêm,8.9,25,7.4, 1 đơn,43,1800
+apartment,Nam Từ Liêm,8.9,25,7.4, 2 đơn,43,2000
+apartment,Nam Từ Liêm,8.9,25,7.4, 2 đơn,43,1900
+apartment,Nam Từ Liêm,8.9,25,7.4, 1 đôi cực lớn,43,2000
+apartment,Nam Từ Liêm,8.9,25,7.4, 2 đơn,43,2000
+apartment, Quận Hoàn Kiếm,0.0,0,2.841800643086817, 1 đôi cực lớn,43,1620
+apartment, Quận Hai Bà Trưng,8.3,18,5.3, 1 đôi cực lớn,43,1950
+apartment, Quận Hoàn Kiếm,10.0,1,2.841800643086817, 1 đôi cực lớn,43,560
+apartment, Quận Thanh Xuân,0.0,0,5.7, 2 đơn,43,1557
+apartment, Quận Ba Đình,7.8,14,3.3749019607843134, 1 đôi lớn,18,500
+apartment, Quận Hoàn Kiếm,7.0,4,4.6, 1 đôi cực lớn,43,550
+apartment, Quận Hoàn Kiếm,0.0,0,2.841800643086817, 1 đôi cực lớn,43,450
+apartment, Quận Hoàn Kiếm,8.0,1,2.841800643086817, 1 đôi cực lớn,43,255
+apartment, Quận Hai Bà Trưng,8.7,49,5.1, 1 đôi cực lớn,43,1008
+apartment, Quận Hai Bà Trưng,8.7,49,5.1, 1 đôi lớn,43,1120
+apartment, Quận Tây Hồ,10.0,2,4.9, 2 đơn,43,1200
+hotel, Quận Hoàn Kiếm,8.8,60,2.8, 1 đôi,19,582
+hotel, Quận Hoàn Kiếm,8.8,60,2.8, 2 đơn,26,640
+hotel, Quận Hoàn Kiếm,8.8,60,2.8, 1 đôi cực lớn,35,896
+hotel, Quận Hoàn Kiếm,8.8,60,2.8, 2 đơn,36,1056
+hotel, Quận Hoàn Kiếm,8.8,60,2.8, 3 đơn,35,1120
+hotel, Quận Long Biên,8.8,39,3.5, 1 đôi,30,1350
+hotel, Quận Long Biên,8.8,39,3.5, 2 đơn,32,2150
+hotel, Quận Long Biên,8.8,39,3.5, 1 đôi,35,1450
+hotel, Quận Hoàn Kiếm,7.6,247,2.6, 1 đơn,22,600
+hotel, Quận Hoàn Kiếm,7.6,247,2.6, 1 đôi cực lớn,25,540
+hotel, Quận Hoàn Kiếm,7.6,247,2.6, 1 đôi cực lớn,28,720
+hotel, Quận Hoàn Kiếm,7.6,247,2.6, 2 đơn,40,648
+hotel, Cau Giay,8.1,40,6.042268041237113, 1 đơn,25,636
+hotel, Cau Giay,8.1,40,6.042268041237113, 1 đôi lớn,28,678
+hotel, Cau Giay,8.1,40,6.042268041237113, 2 đơn,28,665
+hotel, Cau Giay,8.1,40,6.042268041237113, 1 đôi cực lớn,30,770
+hotel, Cau Giay,8.1,40,6.042268041237113, 1 đôi lớn,22,770
+hotel, Quận Hoàn Kiếm,8.5,103,2.841800643086817, 2 đơn,15,378
+hotel, Quận Hoàn Kiếm,8.5,103,2.841800643086817, 1 đôi lớn,18,441
+hotel, Quận Hoàn Kiếm,8.5,103,2.841800643086817, 2 đơn,22,504
+hotel, Quận Hoàn Kiếm,8.5,103,2.841800643086817, 1 đôi lớn,22,567
+hotel, Quận Thanh Xuân,8.3,25,6.0, 1 đôi lớn,18,570
+hotel, Quận Thanh Xuân,8.3,25,6.0, 1 đôi lớn,20,700
+hotel, Quận Hoàn Kiếm,9.7,307,1.9, 1 đôi cực lớn,22,579
+hotel, Quận Hoàn Kiếm,9.7,307,1.9, 1 đôi cực lớn,22,614
+hotel, Quận Hoàn Kiếm,9.7,307,1.9, 2 đơn,30,730
+hotel, Quận Long Biên,9.7,134,3.7, 1 đôi lớn,20,550
+hotel, Quận Long Biên,9.7,134,3.7, 1 đơn,35,715
+hotel, Quận Long Biên,9.7,134,3.7, 1 đôi lớn,40,770
+hotel, Quận Long Biên,9.7,134,3.7, 1 đơn,50,1210
+hotel, Cau Giay,8.6,72,7.0, 1 đôi cực lớn,32,2069
+hotel, Cau Giay,8.6,72,7.0, 2 đơn,42,2328
+hotel, Cau Giay,8.6,72,7.0, 1 đôi cực lớn,42,2373
+hotel, Cau Giay,8.6,72,7.0, 1 đôi cực lớn,48,2670
+hotel, Cau Giay,8.6,72,7.0, 1 đôi cực lớn,48,3217
+hotel, Cau Giay,8.6,72,7.0, 1 đôi lớn,72,2373
+hotel, Quận Hoàn Kiếm,9.4,2,2.5, 1 đôi lớn,25,3000
+hotel, Quận Tây Hồ,8.8,61,4.7, 1 đôi lớn,32,825
+hotel, Quận Tây Hồ,8.8,61,4.7, 1 đôi lớn,41,869
+hotel, Quận Tây Hồ,8.8,61,4.7, 1 đôi lớn,43,1210
+hotel, Quận Tây Hồ,8.8,61,4.7, 1 đôi lớn,43,1375
+hotel, Quận Hoàn Kiếm,8.2,37,2.841800643086817, 1 đôi cực lớn,25,1735
+hotel, Quận Hoàn Kiếm,8.2,37,2.841800643086817, 2 đơn,25,1927
+hotel, Quận Hoàn Kiếm,8.2,37,2.841800643086817, 2 đôi lớn,49,2224
+hotel, Nam Tu Liem,8.0,39,7.6, 2 đơn,23,900
+hotel, Nam Tu Liem,8.0,39,7.6, 1 đôi lớn,25,1012
+hotel, Nam Tu Liem,8.0,39,7.6, 2 đơn,25,1050
+hotel, Nam Tu Liem,8.0,39,7.6, 1 đôi lớn,28,1102
+hotel, Nam Tu Liem,8.0,39,7.6, 2 đơn,28,1102
+hotel, Cau Giay,7.9,50,6.042268041237113, 1 đơn,43,552
+hotel, Cau Giay,7.9,50,6.042268041237113, 2 đơn,43,637
+hotel, Quận Hoàn Kiếm,8.8,109,2.5, 1 đôi,25,475
+hotel, Quận Hoàn Kiếm,8.8,109,2.5, 1 đôi,30,518
+hotel, Quận Hoàn Kiếm,8.8,109,2.5, 2 đơn,40,864
+hotel, Quận Hoàn Kiếm,8.8,109,2.5, 1 đôi,50,950
+hotel, Quận Đống Đa,7.9,147,3.4, 1 đôi lớn,22,598
+hotel, Quận Đống Đa,7.9,147,3.4, 1 đôi lớn,28,659
+hotel, Quận Đống Đa,7.9,147,3.4, 1 đôi,25,676
+hotel, Quận Hoàn Kiếm,8.7,296,4.6, 2 đơn,28,955
+hotel, Quận Hoàn Kiếm,8.7,296,4.6, 1 đôi lớn,35,1096
+hotel, Quận Hoàn Kiếm,8.7,296,4.6, 1 đôi lớn,40,1154
+hotel, Quận Hoàn Kiếm,8.7,296,4.6, 2 đơn,40,1233
+hotel, Quận Hoàn Kiếm,8.7,296,4.6, 2 đơn,25,1298
+hotel, Quận Hoàn Kiếm,9.1,183,2.5, 1 đôi cực lớn,23,1531
+hotel, Quận Hoàn Kiếm,9.1,183,2.5, 1 đôi cực lớn,25,2070
+hotel, Quận Hoàn Kiếm,9.1,183,2.5, 2 đơn,23,3420
+hotel, Quận Hoàn Kiếm,9.1,183,2.5, 1 đôi cực lớn,25,1864
+hotel, Quận Hoàn Kiếm,9.1,183,2.5, 1 đôi cực lớn,32,2520
+hotel, Quận Hoàn Kiếm,9.1,183,2.5, 2 đơn,32,3870
+hotel, Quận Hoàn Kiếm,9.1,183,2.5, 1 đôi cực lớn,50,2700
+hotel, Quận Hoàn Kiếm,9.1,183,2.5, 2 đơn,50,4050
+hotel, Cau Giay,8.1,24,6.2, 1 đôi lớn,20,835
+hotel, Cau Giay,8.1,24,6.2, 1 đôi cực lớn,25,863
+hotel, Cau Giay,8.1,24,6.2, 2 đơn,35,1099
+hotel, Cau Giay,8.1,24,6.2, 1 đôi lớn,43,1256
+hotel, Cau Giay,8.7,142,5.0, 1 đôi,20,1230
+hotel, Cau Giay,8.7,142,5.0, 2 đơn,26,1296
+hotel, Cau Giay,8.7,142,5.0, 1 đôi,28,1176
+hotel, Cau Giay,8.7,142,5.0, 1 đôi lớn,34,1536
+hotel, Cau Giay,8.7,142,5.0, 2 đơn,42,1392
+hotel, Cau Giay,8.7,142,5.0, 1 đôi,25,1776
+hotel, Quận Tây Hồ,9.8,89,5.0, 1 đôi lớn,35,545
+hotel, Quận Tây Hồ,9.8,89,5.0, 1 đôi lớn,36,749
+hotel, Quận Tây Hồ,9.8,89,5.0, 1 đôi lớn,38,824
+hotel, Quận Tây Hồ,9.8,89,5.0, 1 đôi,50,899
+hotel, Quận Tây Hồ,9.8,89,5.0, 1 đôi lớn,75,1199
+hotel, Quận Tây Hồ,9.8,89,5.0, 1 đôi cực lớn,43,1619
+hotel, Tu Liem District,9.0,195,6.629310344827586, 2 đơn,46,4173
+hotel, Tu Liem District,9.0,195,6.629310344827586, 1 đôi cực lớn,56,4839
+hotel, Tu Liem District,9.0,195,6.629310344827586, 1 đôi cực lớn,46,4955
+hotel, Tu Liem District,9.0,195,6.629310344827586, 2 đơn,56,5621
+hotel, Tu Liem District,9.0,195,6.629310344827586, 1 đôi cực lớn,92,6013
+hotel, Quận Hoàn Kiếm,7.9,4,4.1, 1 đôi lớn,20,633
+hotel, Quận Hoàn Kiếm,7.9,4,4.1, 1 đôi lớn,25,737
+hotel, Quận Hoàn Kiếm,7.9,4,4.1, 1 đơn,30,765
+hotel, Quận Thanh Xuân,7.3,28,5.0, 1 đôi,30,336
+hotel, Quận Thanh Xuân,7.3,28,5.0, 2 đơn,30,348
+hotel, Quận Thanh Xuân,7.3,28,5.0, 3 đơn,40,366
+hotel, Quận Hoàn Kiếm,9.0,940,1.8, 1 đôi cực lớn,25,452
+hotel, Quận Hoàn Kiếm,9.0,940,1.8, 2 đôi,25,799
+hotel, Quận Hoàn Kiếm,9.0,940,1.8, 1 đôi cực lớn,25,999
+hotel, Quận Hoàn Kiếm,9.0,940,1.8, 2 đôi,50,904
+hotel, Quận Hoàn Kiếm,9.0,940,1.8, 1 đôi lớn,50,1130
+hotel, Quận Hoàn Kiếm,9.1,333,2.8, 1 đôi lớn,30,1676
+hotel, Quận Nam Từ Liêm,8.1,8,8.3, 1 đôi,28,426
+hotel, Quận Nam Từ Liêm,8.1,8,8.3, 2 đôi lớn,32,522
+hotel, Quận Nam Từ Liêm,8.1,8,8.3, 1 đơn,37,612
+hotel, Cau Giay,8.2,20,6.3, 1 đôi lớn,20,652
+hotel, Cau Giay,8.2,20,6.3, 1 đôi lớn,30,810
+hotel, Quận Hai Bà Trưng,8.4,137,2.4, 1 đôi cực lớn,36,1832
+hotel, Quận Hai Bà Trưng,8.4,137,2.4, 2 đơn,36,2857
+hotel, Quận Hai Bà Trưng,8.4,137,2.4, 1 đôi cực lớn,36,3869
+hotel, Quận Hai Bà Trưng,8.4,137,2.4, 1 đơn,36,3453
+hotel, Quận Hai Bà Trưng,8.4,137,2.4, 1 đôi cực lớn,48,2857
+hotel, Quận Hai Bà Trưng,8.4,137,2.4, 1 đôi cực lớn,36,3869
+hotel, Quận Hai Bà Trưng,8.4,137,2.4, 2 đơn,36,3453
+hotel, Quận Hai Bà Trưng,8.4,137,2.4, 1 đôi cực lớn,48,3286
+hotel, Quận Hai Bà Trưng,8.4,137,2.4, 2 đơn,75,4405
+hotel, Quận Hai Bà Trưng,8.4,137,2.4, 2 đơn,30,3988
+hotel, Quận Hoàn Kiếm,8.4,198,2.9, 1 đôi lớn,32,2423
+hotel, Quận Hoàn Kiếm,8.4,198,2.9, 2 đơn,32,2726
+hotel, Quận Hoàn Kiếm,8.4,198,2.9, 1 đôi lớn,35,4559
+hotel, Quận Hoàn Kiếm,8.4,198,2.9, 1 đôi cực lớn,46,3809
+hotel, Quận Ba Đình,9.1,130,2.3, 1 đôi lớn,21,1345
+hotel, Quận Ba Đình,9.1,130,2.3, 2 đơn,28,1828
+hotel, Quận Ba Đình,9.1,130,2.3, 1 đôi lớn,35,2133
+hotel, Quận Ba Đình,9.1,130,2.3, 1 đôi cực lớn,50,2057
+hotel, Quận Ba Đình,9.1,130,2.3, 2 đôi lớn,60,2361
+hotel, Quận Ba Đình,9.1,130,2.3, 1 đôi cực lớn,28,2361
+hotel, Quận Hoàn Kiếm,8.2,77,2.5, 1 đôi lớn,25,1447
+hotel, Quận Hoàn Kiếm,8.2,77,2.5, 2 đơn,25,1600
+hotel, Quận Hoàn Kiếm,8.2,77,2.5, 2 đơn,30,1600
+hotel, Quận Hoàn Kiếm,8.2,77,2.5, 1 đôi cực lớn,72,1840
+hotel, Quận Hoàn Kiếm,8.2,77,2.5, 1 đôi lớn,30,2400
+hotel, Quận Hoàn Kiếm,8.2,77,2.5, 2 đơn,20,1840
+hotel, Quận Hoàn Kiếm,8.4,86,1.8, 2 đơn,25,1701
+hotel, Quận Hoàn Kiếm,8.4,86,1.8, 1 đôi cực lớn,25,2205
+hotel, Quận Hoàn Kiếm,8.4,86,1.8, 2 đơn,25,2430
+hotel, Quận Hoàn Kiếm,8.4,86,1.8, 1 đôi cực lớn,30,3150
+hotel, Quận Hoàn Kiếm,8.4,86,1.8, 1 đôi cực lớn,40,1953
+hotel, Quận Hoàn Kiếm,9.2,196,2.4, 1 đôi lớn,20,1133
+hotel, Quận Hoàn Kiếm,9.2,196,2.4, 2 đơn,30,1416
+hotel, Quận Hoàn Kiếm,9.2,196,2.4, 2 đơn,30,1274
+hotel, Quận Hoàn Kiếm,9.2,196,2.4, 1 đôi lớn,50,1359
+hotel, Quận Hoàn Kiếm,9.2,196,2.4, 2 đơn,45,1699
+hotel, Quận Hoàn Kiếm,9.2,196,2.4, 1 đôi lớn,50,1223
+hotel, Quận Ba Đình,9.0,90,4.1, 1 đôi lớn,43,650
+hotel, Quận Ba Đình,9.0,90,4.1, 1 đôi cực lớn,43,2000
+hotel, Quận Ba Đình,6.2,9,4.1, 1 đôi,20,370
+hotel, Quận Ba Đình,6.2,9,4.1, 1 đôi lớn,30,300
+hotel,Điền xá quang tiến sóc sơn,9.0,28,6.629310344827586, 1 đôi,20,750
+hotel,Điền xá quang tiến sóc sơn,9.0,28,6.629310344827586, 1 đôi lớn,24,800
+hotel,Điền xá quang tiến sóc sơn,9.0,28,6.629310344827586, 1 đơn,36,990
+hotel, Quận Hoàn Kiếm,9.1,184,2.841800643086817, 1 đôi cực lớn,25,666
+hotel, Quận Hoàn Kiếm,9.1,184,2.841800643086817, 1 đôi cực lớn,35,920
+hotel, Quận Ba Đình,9.1,46,2.5, 2 đơn,30,615
+hotel, Quận Ba Đình,9.1,46,2.5, 12 đôi cực lớn,35,1845
+hotel, Quận Ba Đình,9.5,43,3.3749019607843134, 2 đơn,45,2072
+hotel, Quận Ba Đình,9.5,43,3.3749019607843134, 1 đôi cực lớn,48,2632
+hotel, Quận Ba Đình,9.5,43,3.3749019607843134, 1 sofa,50,2872
+hotel, Quận Ba Đình,9.5,43,3.3749019607843134, 2 đơn,46,3432
+hotel, Quận Ba Đình,9.5,43,3.3749019607843134, 1 đôi cực lớn,46,2352
+hotel, Quận Ba Đình,9.5,43,3.3749019607843134, 2 đơn,78,2392
+hotel, Quận Ba Đình,9.5,43,3.3749019607843134, 1 đôi lớn,90,2952
+hotel, Quận Hoàn Kiếm,8.7,323,2.6, 1 đôi lớn,22,1285
+hotel, Quận Hoàn Kiếm,8.7,323,2.6, 1 đôi lớn,22,1485
+hotel, Quận Hoàn Kiếm,8.7,323,2.6, 1 đôi lớn,25,1575
+hotel, Quận Hoàn Kiếm,8.7,323,2.6, 1 đôi lớn,30,2062
+hotel, Quận Hoàn Kiếm,8.7,323,2.6, 2 đơn,30,2062
+hotel, Quận Hoàn Kiếm,8.7,323,2.6, 1 đôi lớn,35,2362
+hotel, Quận Hoàn Kiếm,8.7,323,2.6, 1 đôi lớn,60,2585
+hotel, Quận Hoàn Kiếm,9.2,235,5.0, 1 đôi lớn,20,1251
+hotel, Quận Hoàn Kiếm,9.2,235,5.0, 1 đôi cực lớn,25,1798
+hotel, Quận Hoàn Kiếm,9.2,235,5.0, 1 đôi lớn,25,1668
+hotel, Quận Hoàn Kiếm,8.5,166,2.8, 1 đôi cực lớn,19,1390
+hotel, Quận Hoàn Kiếm,8.5,166,2.8, 2 đơn,20,2576
+hotel, Quận Hoàn Kiếm,8.5,166,2.8, 1 đôi lớn,28,2602
+hotel, Quận Hoàn Kiếm,8.5,166,2.8, 2 đơn,32,2361
+hotel, Quận Hoàn Kiếm,8.5,166,2.8, 1 đôi,45,2910
+hotel, Quận Hoàn Kiếm,8.5,166,2.8, 2 đơn,25,2939
+hotel, Quận Hoàn Kiếm,9.0,395,2.0, 2 đơn,25,524
+hotel, Quận Hoàn Kiếm,9.0,395,2.0, 1 đôi,20,575
+hotel, Quận Hoàn Kiếm,9.0,395,2.0, 1 đơn,28,894
+hotel, Quận Hoàn Kiếm,9.0,395,2.0, 1 đôi lớn,28,740
+hotel, Quận Hoàn Kiếm,9.0,395,2.0, 1 sofa,23,1076
+hotel, Quận Hoàn Kiếm,8.3,95,2.0, 1 đôi,25,797
+hotel, Quận Hoàn Kiếm,8.3,95,2.0, 1 đôi,25,901
+hotel, Quận Hoàn Kiếm,8.3,95,2.0, 1 đơn,35,1213
+hotel, Quận Hoàn Kiếm,8.3,95,2.0, 1 đôi,40,1642
+hotel, Quận Hoàn Kiếm,8.3,95,2.0, 1 đôi,40,1663
+hotel, Quận Ba Đình,9.0,49,4.7, 1 đôi lớn,50,1737
+hotel, Quận Ba Đình,9.0,49,4.7, 1 đôi lớn,60,2074
+hotel, Quận Ba Đình,9.0,49,4.7, 1 đôi lớn,45,1904
+hotel, Quận Ba Đình,9.4,226,4.4, 1 đôi lớn,18,560
+hotel, Quận Ba Đình,9.4,226,4.4, 2 đôi lớn,22,630
+hotel, Quận Ba Đình,9.4,226,4.4, 1 đôi lớn,22,699
+hotel, Sóc Sơn,8.0,43,6.629310344827586, 1 đôi lớn,28,464
+hotel, Sóc Sơn,8.0,43,6.629310344827586, 1 đôi lớn,30,468
+hotel, Sóc Sơn,8.0,43,6.629310344827586, 1 đôi lớn,50,520
+hotel, Sóc Sơn,8.0,43,6.629310344827586, 2 đôi lớn,35,612
+hotel, Sóc Sơn,8.0,43,6.629310344827586, 1 đôi cực lớn,60,680
+apartment, South Tu Liem District,8.8,26,7.7, 1 đôi lớn,35,408
+apartment, South Tu Liem District,8.8,26,7.7, 1 đôi lớn,22,650
+apartment, Quận Ba Đình,10.0,3,2.4, 1 đôi cực lớn,43,460
+apartment, Quận Ba Đình,10.0,3,2.4, 1 đôi cực lớn,35,483
+apartment, Quận Ba Đình,10.0,3,2.4, 1 đôi cực lớn,50,480
+apartment, Quận Ba Đình,10.0,3,2.4, 1 đôi cực lớn,32,552
+apartment, Quận Hoàn Kiếm,0.0,0,2.841800643086817, 1 đôi lớn,43,450
+apartment, Cau Giay,8.0,19,6.042268041237113, 1 đôi lớn,46,522
+apartment, Quận Tây Hồ,10.0,1,4.2, 1 đôi,43,750
+apartment, Quận Tây Hồ,10.0,1,4.2, 1 đôi cực lớn,43,750
+apartment, Quận Tây Hồ,10.0,1,4.2, 2 đơn,43,1500
+apartment, Quận Ba Đình,8.5,132,2.6, 1 đôi cực lớn,17,366
+apartment, Quận Ba Đình,8.5,132,2.6, 1 đôi cực lớn,18,497
+apartment, Quận Ba Đình,8.5,132,2.6, 1 tầng,25,130
+apartment, Quận Thanh Xuân,8.8,20,8.6, 2 đơn,43,1133
+apartment, Quận Ba Đình,7.9,110,2.4, 1 sofa,43,423
+apartment, Quận Ba Đình,7.9,110,2.4, 1 đôi,43,450
+apartment, Quận Hai Bà Trưng,0.0,0,3.5823529411764703, 2 đôi cực lớn,43,400
+apartment,Đường vành đai 3 Vinhomes Skylake,5.0,1,6.629310344827586, 1 đôi lớn,43,2500
+apartment, Quận Hoàn Kiếm,9.5,37,2.7, 1 đôi lớn,43,799
+apartment, Quận Hoàn Kiếm,8.1,7,2.0, 1 đôi,43,570
+apartment, Quận Ba Đình,2.0,1,3.3749019607843134, 1 đôi lớn,43,700
+apartment, Cau Giay,8.6,48,5.1, 1 đôi lớn,65,1242
+apartment, Cau Giay,8.6,48,5.1, 1 đôi lớn,32,966
+apartment, Cau Giay,0.0,0,8.6, 1 đôi lớn,43,1336
+apartment, Quận Tây Hồ,8.8,61,4.7, 1 đôi lớn,43,825
+apartment, Quận Tây Hồ,8.8,61,4.7, 1 đôi lớn,38,869
+apartment, Quận Tây Hồ,8.8,61,4.7, 1 đôi lớn,43,1210
+apartment, Quận Tây Hồ,8.8,61,4.7, 1 đôi lớn,43,1375
+apartment,Vinhomes Ocean Park,10.0,2,6.629310344827586, 1 đôi lớn,43,637
+apartment,Vinhomes Ocean Park,10.0,2,6.629310344827586, 4 tầng,43,573
+apartment,Vinhomes Ocean Park,10.0,2,6.629310344827586, 1 đôi cực lớn,43,745
+apartment,Vinhomes Ocean Park,10.0,2,6.629310344827586, 1 đôi cực lớn,43,828
+apartment,Vinhomes Ocean Park,10.0,2,6.629310344827586, 1 đôi cực lớn,43,662
+apartment,Vinhomes Ocean Park,10.0,2,6.629310344827586, 3 đơn,43,800
+apartment,52 Phạm Hùng 29,0.0,0,6.629310344827586, 2 đơn,43,1800
+apartment, Quận Hai Bà Trưng,0.0,0,3.5823529411764703, 1 đôi cực lớn,43,400
+apartment, Cau Giay,7.6,8,6.042268041237113, 1 đôi cực lớn,43,1080
+apartment, Cau Giay,7.6,8,6.042268041237113, 1 đôi cực lớn,43,1125
+apartment, Cau Giay,7.6,8,6.042268041237113, 1 đôi cực lớn,43,1350
+apartment, Cau Giay,7.6,8,6.042268041237113, 1 đôi,43,1440
+apartment, Cau Giay,7.6,8,6.042268041237113, 1 đôi cực lớn,43,1980
+apartment, Quận Hoàn Kiếm,9.5,2,3.6, 2 đơn,43,1000
+apartment, Quận Ba Đình,7.4,59,3.9, 1 đôi cực lớn,50,1170
+apartment, Quận Ba Đình,7.4,59,3.9, 1 đôi cực lớn,19,756
+apartment, Quận Ba Đình,7.4,59,3.9, 1 đôi lớn,25,873
+apartment, Quận Ba Đình,7.4,59,3.9, 1 đôi cực lớn,30,963
+apartment, Quận Hoàn Kiếm,8.7,213,2.841800643086817, 1 đôi lớn,25,2791
+apartment, Quận Hoàn Kiếm,8.7,213,2.841800643086817, 2 đơn,25,3290
+apartment, Quận Hoàn Kiếm,8.7,213,2.841800643086817, 1 đôi,30,4089
+apartment, Quận Hoàn Kiếm,8.7,213,2.841800643086817, 1 đôi,30,4089
+apartment, Quận Hoàn Kiếm,8.7,213,2.841800643086817, 1 đôi,56,4888
+apartment, Quận Hoàn Kiếm,8.7,213,2.841800643086817, 2 đôi lớn,50,3689
+apartment, Quận Hoàn Kiếm,8.7,213,2.841800643086817, 1 đôi lớn,50,4488
+apartment,Phạm Hùng,0.0,0,6.629310344827586, 2 đôi cực lớn,43,1900
+apartment, Quận Hai Bà Trưng,0.0,0,3.5823529411764703, 1 đôi cực lớn,43,400
+apartment, Quận Hai Bà Trưng,7.2,4,4.9, 1 đôi lớn,43,1290
+apartment, Quận Hai Bà Trưng,7.2,4,4.9, 1 đôi lớn,43,1421
+apartment, Quận Hoàn Kiếm,8.5,5,2.841800643086817, 1 đôi lớn,58,1600
+apartment, Quận Hoàn Kiếm,8.5,5,2.841800643086817, 1 đôi lớn,43,1900
+apartment, Quận Hoàn Kiếm,8.0,3,2.841800643086817, 1 đôi,38,1400
+apartment, Quận Long Biên,7.7,11,4.3, 2 đơn,22,900
+apartment, Quận Long Biên,7.7,11,4.3, 1 đôi,25,1100
+apartment,8 Đường Lê Đức Thọ,0.0,0,8.6, 2 đơn,43,1701
+apartment,Phạm Hùng Vinhomes Skylake,9.0,11,7.4, 1 đơn,43,1600
+apartment,Phạm Hùng Vinhomes Skylake,9.0,11,7.4, 2 đơn,43,1850
+apartment, Quận Ba Đình,8.1,16,3.3749019607843134, 1 đôi cực lớn,50,900
+apartment, Quận Ba Đình,8.1,16,3.3749019607843134, 1 đôi cực lớn,48,975
+apartment, Cau Giay,8.0,1,6.3, 1 đôi lớn,40,1290
+apartment, Cau Giay,8.0,1,6.3, 1 đôi lớn,43,1740
+apartment, Cau Giay,8.0,1,6.3, 2 đơn,43,2290
+apartment, Quận Tây Hồ,8.0,32,5.1, 1 đôi cực lớn,35,420
+apartment, Quận Tây Hồ,8.0,32,5.1, 1 đôi cực lớn,43,450
+apartment, Quận Tây Hồ,8.0,32,5.1, 1 đơn,43,480
+apartment, Quận Tây Hồ,8.0,32,5.1, 1 đôi lớn,43,520
+apartment, Quận Đống Đa,9.0,3,3.283333333333333, 1 đôi,43,1620
+apartment, Cau Giay,8.8,177,6.8, 2 đơn,43,468
+apartment, Cau Giay,8.8,177,6.8, 1 đôi,43,585
+apartment, Quận Tây Hồ,8.9,105,4.7, 2 đơn,43,2625
+apartment, Quận Tây Hồ,8.9,105,4.7, 2 đơn,43,3047
+apartment, Quận Tây Hồ,8.9,105,4.7, 2 đơn,43,2625
+apartment, Quận Tây Hồ,8.9,105,4.7, 1 đôi,43,3047
+apartment, Quận Tây Hồ,7.5,12,4.572727272727271, 1 đơn,43,715
+apartment, Cau Giay,0.0,0,6.4, 1 đôi cực lớn,43,1080
+apartment, Cau Giay,0.0,0,6.4, 2 đơn,43,1980
+apartment, Cau Giay,0.0,0,6.4, 2 đơn,43,1440
+apartment, Cau Giay,7.3,17,7.4, 2 đơn,55,3524
+apartment, Cau Giay,7.3,17,7.4, 2 đơn,33,4146
+apartment, Cau Giay,7.3,17,7.4, 1 đôi cực lớn,36,1757
+apartment, Cau Giay,7.3,17,7.4, 2 đơn,44,2067
+apartment, Cau Giay,7.3,17,7.4, 2 đơn,70,2248
+apartment, Cau Giay,7.3,17,7.4, 1 đôi cực lớn,77,2644
+apartment, Quận Hai Bà Trưng,7.7,3,5.3, 1 đôi cực lớn,43,1470
+apartment, Quận Hai Bà Trưng,7.7,3,5.3, 1 đôi lớn,43,1470
+apartment, Quận Hai Bà Trưng,7.7,3,5.3, 1 đơn,43,1470
+apartment, Quận Hai Bà Trưng,7.7,3,5.3, 3 đơn,43,1470
+apartment, Quận Hai Bà Trưng,7.7,3,5.3, 1 đôi,43,1470
+apartment, Quận Hai Bà Trưng,7.7,3,5.3, 1 đôi lớn,43,1960
+apartment, Quận Hoàn Kiếm,0.0,0,2.841800643086817, 3 đơn,43,366
+apartment, Cau Giay,0.0,0,6.042268041237113, 1 đôi lớn,43,1377
+apartment, Cau Giay,0.0,0,6.042268041237113, 1 đôi lớn,43,1458
+apartment, Quận Thanh Xuân,10.0,4,6.629310344827586, 2 đơn,43,1200

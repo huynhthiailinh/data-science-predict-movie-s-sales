@@ -1,0 +1,9533 @@
+type_hotel,location,rating,reviewer,distance,type_bed,area,price
+0,hotel,"
+85 Ma May Street, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,0", · 571 đánh giá,"
+4,7 km
+","
+1 giường đôi lớn
+
+",18 m²,"
+VND 1.200.000
+"
+1,hotel,"
+85 Ma May Street, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,0", · 571 đánh giá,"
+4,7 km
+","
+2 giường đơn
+
+",25 m²,"
+VND 1.140.000
+"
+2,hotel,"
+85 Ma May Street, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,0", · 571 đánh giá,"
+4,7 km
+","
+2 giường đơn
+
+",28 m²,"
+VND 1.400.000
+"
+3,hotel,"
+85 Ma May Street, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,0", · 571 đánh giá,"
+4,7 km
+","
+1 giường đôi lớn
+
+",35 m²,"
+VND 2.000.000
+"
+4,hotel,"
+85 Ma May Street, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,0", · 571 đánh giá,"
+4,7 km
+","
+1 giường đơn
+
+",35 m²,"
+VND 2.100.000
+"
+5,hotel,"
+39 Thợ Nhuộm, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,4", · 3.039 đánh giá,"
+1,9 km
+","
+1 giường đôi
+
+",22 m²,"
+VND 2.683.296
+"
+6,hotel,"
+39 Thợ Nhuộm, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,4", · 3.039 đánh giá,"
+1,9 km
+","
+1 giường đôi cực lớn
+
+",25 m²,"
+VND 3.049.200
+"
+7,hotel,"
+39 Thợ Nhuộm, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,4", · 3.039 đánh giá,"
+1,9 km
+","
+1 giường đôi lớn
+
+",25 m²,"
+VND 3.005.292
+"
+8,hotel,"
+39 Thợ Nhuộm, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,4", · 3.039 đánh giá,"
+1,9 km
+","
+2 giường đôi lớn
+
+",28 m²,"
+VND 3.415.104
+"
+9,hotel,"
+39 Thợ Nhuộm, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,4", · 3.039 đánh giá,"
+1,9 km
+",,28 m²,"
+VND 3.327.287
+"
+10,hotel,"
+39 Thợ Nhuộm, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,4", · 3.039 đánh giá,"
+1,9 km
+",,28 m²,"
+VND 3.781.008
+"
+11,hotel,"
+39 Thợ Nhuộm, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,4", · 3.039 đánh giá,"
+1,9 km
+",,45 m²,"
+VND 3.756.614
+"
+12,hotel,"
+716 Bach Dang, Hai Ba Trung District, Quận Hai Bà Trưng, Hà Nội, Việt Nam
+","8,1", · 18 đánh giá,0,"
+2 giường đơn
+
+",27 m²,"
+                        
+
+    VND 1.537.735
+
+
+					"
+13,hotel,"
+716 Bach Dang, Hai Ba Trung District, Quận Hai Bà Trưng, Hà Nội, Việt Nam
+","8,1", · 18 đánh giá,0,"
+1 giường đôi lớn
+
+",30 m²,"
+VND 3.037.500
+"
+14,hotel,"
+716 Bach Dang, Hai Ba Trung District, Quận Hai Bà Trưng, Hà Nội, Việt Nam
+","8,1", · 18 đánh giá,0,"
+2 giường đơn
+
+",40 m²,"
+VND 3.206.250
+"
+15,hotel,"
+716 Bach Dang, Hai Ba Trung District, Quận Hai Bà Trưng, Hà Nội, Việt Nam
+","8,1", · 18 đánh giá,0,"
+1 giường đôi lớn
+
+",0,"
+VND 3.645.000
+"
+16,hotel,"
+22 Chan Cam, Hoan Kiem, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,5", · 553 đánh giá,"
+2,5 km
+","
+1 giường đôi lớn
+
+",23 m²,"
+VND 1.200.000
+"
+17,hotel,"
+22 Chan Cam, Hoan Kiem, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,5", · 553 đánh giá,"
+2,5 km
+","
+2 giường đơn
+
+",23 m²,"
+VND 1.344.000
+"
+18,hotel,"
+22 Chan Cam, Hoan Kiem, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,5", · 553 đánh giá,"
+2,5 km
+","
+2 giường đơn
+
+",28 m²,"
+VND 1.536.000
+"
+19,hotel,"
+22 Chan Cam, Hoan Kiem, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,5", · 553 đánh giá,"
+2,5 km
+","
+1 giường đôi lớn
+
+",28 m²,"
+VND 1.776.000
+"
+20,hotel,"
+33 Đường Thành, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,6", · 450 đánh giá,"
+1,6 km
+","
+2 giường đơn
+
+",28 m²,"
+VND 4.885.100
+"
+21,hotel,"
+33 Đường Thành, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,6", · 450 đánh giá,"
+1,6 km
+","
+1 giường đôi cực lớn
+
+",52 m²,"
+VND 5.435.100
+"
+22,hotel,"
+33 Đường Thành, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,6", · 450 đánh giá,"
+1,6 km
+",,54 m²,"
+VND 8.723.000
+"
+23,hotel,"
+3 Yen Thai Street, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,6", · 221 đánh giá,"
+2,4 km
+","
+1 giường đơn
+
+",16 m²,"
+VND 1.250.000
+"
+24,hotel,"
+3 Yen Thai Street, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,6", · 221 đánh giá,"
+2,4 km
+","
+1 giường đơn
+
+",28 m²,"
+VND 2.000.000
+"
+25,hotel,"
+3 Yen Thai Street, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,6", · 221 đánh giá,"
+2,4 km
+",,33 m²,"
+VND 2.250.000
+"
+26,hotel,"
+3 Yen Thai Street, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,6", · 221 đánh giá,"
+2,4 km
+",,38 m²,"
+VND 2.362.499
+"
+27,hotel,"
+06 Luong Ngoc Quyen Str Hoan Kiem Dist, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,2", · 72 đánh giá,"
+4,7 km
+","
+1 giường đôi lớn
+
+",22 m²,"
+VND 1.060.000
+"
+28,hotel,"
+06 Luong Ngoc Quyen Str Hoan Kiem Dist, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,2", · 72 đánh giá,"
+4,7 km
+","
+1 giường đôi lớn
+
+",25 m²,"
+VND 1.390.000
+"
+29,hotel,"
+06 Luong Ngoc Quyen Str Hoan Kiem Dist, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,2", · 72 đánh giá,"
+4,7 km
+","
+1 giường đơn
+
+",28 m²,"
+VND 1.499.999
+"
+30,hotel,"
+06 Luong Ngoc Quyen Str Hoan Kiem Dist, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,2", · 72 đánh giá,"
+4,7 km
+","
+1 giường đôi cực lớn
+
+",32 m²,"
+VND 1.509.999
+"
+31,hotel,"
+22A Ta Hien Street, Hang Buom, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,1", · 595 đánh giá,"
+4,9 km
+","
+2 giường đơn
+
+",26 m²,"
+VND 2.000.320
+"
+32,hotel,"
+22A Ta Hien Street, Hang Buom, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,1", · 595 đánh giá,"
+4,9 km
+","
+1 giường đôi cực lớn
+
+",28 m²,"
+VND 2.210.880
+"
+33,hotel,"
+22A Ta Hien Street, Hang Buom, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,1", · 595 đánh giá,"
+4,9 km
+","
+1 giường đôi cực lớn
+
+",34 m²,"
+VND 2.632.000
+"
+34,hotel,"
+22A Ta Hien Street, Hang Buom, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,1", · 595 đánh giá,"
+4,9 km
+","
+2 giường đơn
+
+",32 m²,"
+VND 2.895.200
+"
+35,hotel,"
+22A Ta Hien Street, Hang Buom, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,1", · 595 đánh giá,"
+4,9 km
+","
+1 giường đơn
+
+",32 m²,"
+VND 3.158.400
+"
+36,hotel,"
+22A Ta Hien Street, Hang Buom, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,1", · 595 đánh giá,"
+4,9 km
+","
+1 giường đôi cực lớn
+
+",35 m²,"
+VND 3.579.520
+"
+37,hotel,"
+22A Ta Hien Street, Hang Buom, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,1", · 595 đánh giá,"
+4,9 km
+","
+3 giường đơn
+
+",38 m²,"
+VND 3.680.589
+"
+38,hotel,"
+22A Ta Hien Street, Hang Buom, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,1", · 595 đánh giá,"
+4,9 km
+","
+1 giường đơn
+
+",35 m²,"
+VND 4.000.640
+"
+39,hotel,"
+22A Ta Hien Street, Hang Buom, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,1", · 595 đánh giá,"
+4,9 km
+","
+1 giường đôi cực lớn
+
+",50 m²,"
+VND 3.790.080
+"
+40,hotel,"
+22A Ta Hien Street, Hang Buom, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,1", · 595 đánh giá,"
+4,9 km
+","
+3 giường đơn
+
+",50 m²,"
+VND 4.527.040
+"
+41,hotel,"
+05-07 Hàng Hòm, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,4", · 609 đánh giá,"
+4,2 km
+","
+1 giường đôi lớn
+
+",20 m²,"
+VND 2.524.500
+"
+42,hotel,"
+05-07 Hàng Hòm, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,4", · 609 đánh giá,"
+4,2 km
+","
+1 giường đôi lớn
+
+",23 m²,"
+VND 2.722.500
+"
+43,hotel,"
+05-07 Hàng Hòm, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,4", · 609 đánh giá,"
+4,2 km
+","
+2 giường đơn
+
+",24 m²,"
+VND 2.722.500
+"
+44,hotel,"
+30A Cua Dong, Hoan Kiem, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,6", · 110 đánh giá,"
+1,8 km
+","
+1 giường đôi cực lớn
+
+",20 m²,"
+VND 1.280.000
+"
+45,hotel,"
+30A Cua Dong, Hoan Kiem, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,6", · 110 đánh giá,"
+1,8 km
+","
+1 giường đôi cực lớn
+
+",25 m²,"
+VND 1.520.000
+"
+46,hotel,"
+30A Cua Dong, Hoan Kiem, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,6", · 110 đánh giá,"
+1,8 km
+","
+1 giường đôi cực lớn
+
+",30 m²,"
+VND 1.600.000
+"
+47,hotel,"
+30A Cua Dong, Hoan Kiem, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,6", · 110 đánh giá,"
+1,8 km
+","
+1 giường đôi
+
+",35 m²,"
+VND 2.400.000
+"
+48,hotel,"
+30A Cua Dong, Hoan Kiem, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,6", · 110 đánh giá,"
+1,8 km
+","
+1 giường đôi cực lớn
+
+",35 m²,"
+VND 2.560.000
+"
+49,hotel,"
+32 Lo Su Street, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,3", · 207 đánh giá,"
+2,3 km
+","
+2 giường đôi lớn
+
+",27 m²,"
+VND 3.290.000
+"
+50,hotel,"
+32 Lo Su Street, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,3", · 207 đánh giá,"
+2,3 km
+","
+1 giường đôi lớn
+
+",32 m²,"
+VND 2.632.000
+"
+51,hotel,"
+32 Lo Su Street, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,3", · 207 đánh giá,"
+2,3 km
+","
+2 giường đơn
+
+",40 m²,"
+VND 3.850.000
+"
+52,hotel,"
+32 Lo Su Street, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,3", · 207 đánh giá,"
+2,3 km
+","
+2 giường đơn
+
+",37 m²,"
+VND 3.157.000
+"
+53,hotel,"
+11 Hang Dau, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,8", · 544 đánh giá,0,"
+1 giường đôi lớn
+
+",18 m²,"
+VND 1.274.783
+"
+54,hotel,"
+11 Hang Dau, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,8", · 544 đánh giá,0,"
+2 giường đơn
+
+",30 m²,"
+VND 6.748.846
+"
+55,hotel,"
+11 Hang Dau, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,8", · 544 đánh giá,0,"
+1 giường đôi cực lớn
+
+",30 m²,"
+VND 1.903.197
+"
+56,hotel,"
+11 Hang Dau, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,8", · 544 đánh giá,0,"
+1 giường đơn
+
+",30 m²,"
+VND 10.075.748
+"
+57,hotel,"
+60 Cầu Gỗ, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,2", · 194 đánh giá,"
+2,7 km
+","
+1 giường đôi lớn
+
+",22 m²,"
+VND 1.470.600
+"
+58,hotel,"
+60 Cầu Gỗ, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,2", · 194 đánh giá,"
+2,7 km
+","
+2 giường đơn
+
+",22 m²,"
+VND 1.539.000
+"
+59,hotel,"
+60 Cầu Gỗ, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,2", · 194 đánh giá,"
+2,7 km
+","
+1 giường đơn
+
+",28 m²,"
+VND 1.881.000
+"
+60,hotel,"
+60 Cầu Gỗ, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,2", · 194 đánh giá,"
+2,7 km
+","
+1 giường đôi
+
+",24 m²,"
+VND 2.052.000
+"
+61,hotel,"
+60 Cầu Gỗ, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,2", · 194 đánh giá,"
+2,7 km
+","
+1 giường đôi lớn
+
+",26 m²,"
+VND 2.223.000
+"
+62,hotel,"
+60 Cầu Gỗ, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,2", · 194 đánh giá,"
+2,7 km
+","
+1 giường đôi lớn
+
+",30 m²,"
+VND 2.394.000
+"
+63,hotel,"
+17 Nguyen Van To Street, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,6", · 527 đánh giá,"
+1,5 km
+","
+1 giường đôi lớn
+
+",18 m²,"
+VND 286.200
+"
+64,hotel,"
+17 Nguyen Van To Street, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,6", · 527 đánh giá,"
+1,5 km
+","
+2 giường đơn
+
+",18 m²,"
+VND 702.270
+"
+65,hotel,"
+17 Nguyen Van To Street, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,6", · 527 đánh giá,"
+1,5 km
+","
+1 giường đôi lớn
+
+",22 m²,"
+VND 855.270
+"
+66,hotel,"
+17 Nguyen Van To Street, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,6", · 527 đánh giá,"
+1,5 km
+","
+1 giường đôi lớn
+
+",25 m²,"
+VND 702.270
+"
+67,hotel,"
+4A Hàng Giấy, Đồng Xuân, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,0", · 562 đánh giá,"
+2 km
+","
+2 giường đơn
+
+",24 m²,"
+VND 900.000
+"
+68,hotel,"
+4A Hàng Giấy, Đồng Xuân, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,0", · 562 đánh giá,"
+2 km
+","
+1 giường đôi
+
+",32 m²,"
+VND 1.125.000
+"
+69,hotel,"
+4A Hàng Giấy, Đồng Xuân, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,0", · 562 đánh giá,"
+2 km
+","
+1 giường đôi
+
+",35 m²,"
+VND 1.080.000
+"
+70,hotel,"
+22/5 Hang Voi Street, Ly Thai To Ward, Hoan Kiem District, Vietnam, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,4", · 1.857 đánh giá,"
+2,5 km
+","
+2 giường đơn
+
+",25 m²,"
+VND 1.390.000
+"
+71,hotel,"
+22/5 Hang Voi Street, Ly Thai To Ward, Hoan Kiem District, Vietnam, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,4", · 1.857 đánh giá,"
+2,5 km
+","
+1 giường đôi lớn
+
+",28 m²,"
+VND 1.690.000
+"
+72,hotel,"
+22/5 Hang Voi Street, Ly Thai To Ward, Hoan Kiem District, Vietnam, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,4", · 1.857 đánh giá,"
+2,5 km
+","
+1 giường đôi lớn
+
+",30 m²,"
+VND 1.990.000
+"
+73,hotel,"
+22/5 Hang Voi Street, Ly Thai To Ward, Hoan Kiem District, Vietnam, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,4", · 1.857 đánh giá,"
+2,5 km
+","
+2 giường đôi lớn
+
+",45 m²,"
+VND 3.679.999
+"
+74,hotel,"
+22/5 Hang Voi Street, Ly Thai To Ward, Hoan Kiem District, Vietnam, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,4", · 1.857 đánh giá,"
+2,5 km
+","
+2 giường đơn
+
+",55 m²,"
+VND 4.080.000
+"
+75,hotel,"
+9 Hang Muoi, Ly Thai To, Hoan Kiem, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,1", · 289 đánh giá,"
+2,7 km
+","
+2 giường đơn
+
+",22 m²,"
+VND 1.620.000
+"
+76,hotel,"
+9 Hang Muoi, Ly Thai To, Hoan Kiem, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,1", · 289 đánh giá,"
+2,7 km
+","
+1 giường đôi
+
+",25 m²,"
+VND 1.800.000
+"
+77,hotel,"
+9 Hang Muoi, Ly Thai To, Hoan Kiem, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,1", · 289 đánh giá,"
+2,7 km
+","
+2 giường đơn
+
+",30 m²,"
+VND 2.520.000
+"
+78,hotel,"
+9 Hang Muoi, Ly Thai To, Hoan Kiem, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,1", · 289 đánh giá,"
+2,7 km
+","
+1 giường đôi cực lớn
+
+",28 m²,"
+VND 3.240.000
+"
+79,hotel,"
+41 Hang Be Street, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,6", · 1.329 đánh giá,"
+2,7 km
+","
+2 giường đơn
+
+",22 m²,"
+VND 1.400.000
+"
+80,hotel,"
+41 Hang Be Street, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,6", · 1.329 đánh giá,"
+2,7 km
+","
+1 giường đôi lớn
+
+",25 m²,"
+VND 1.475.000
+"
+81,hotel,"
+41 Hang Be Street, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,6", · 1.329 đánh giá,"
+2,7 km
+","
+1 giường đôi lớn
+
+",22 m²,"
+VND 1.500.000
+"
+82,hotel,"
+41 Hang Be Street, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,6", · 1.329 đánh giá,"
+2,7 km
+","
+2 giường đơn
+
+",26 m²,"
+VND 1.750.000
+"
+83,hotel,"
+41 Hang Be Street, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,6", · 1.329 đánh giá,"
+2,7 km
+","
+2 giường đơn
+
+",30 m²,"
+VND 1.950.000
+"
+84,hotel,"
+02 Nguyen Dinh Hoan, Cau Giay, Hà Nội, Việt Nam
+","8,9", · 291 đánh giá,"
+5,1 km
+","
+2 giường đơn
+
+",22 m²,"
+VND 1.500.000
+"
+85,hotel,"
+02 Nguyen Dinh Hoan, Cau Giay, Hà Nội, Việt Nam
+","8,9", · 291 đánh giá,"
+5,1 km
+","
+1 giường đôi cực lớn
+
+",25 m²,"
+VND 1.598.000
+"
+86,hotel,"
+02 Nguyen Dinh Hoan, Cau Giay, Hà Nội, Việt Nam
+","8,9", · 291 đánh giá,"
+5,1 km
+","
+1 giường đơn
+
+",25 m²,"
+VND 1.600.000
+"
+87,hotel,"
+02 Nguyen Dinh Hoan, Cau Giay, Hà Nội, Việt Nam
+","8,9", · 291 đánh giá,"
+5,1 km
+","
+1 giường đôi cực lớn
+
+",22 m²,"
+VND 1.630.000
+"
+88,hotel,"
+02 Nguyen Dinh Hoan, Cau Giay, Hà Nội, Việt Nam
+","8,9", · 291 đánh giá,"
+5,1 km
+","
+2 giường đôi cực lớn
+
+",28 m²,"
+VND 1.858.000
+"
+89,hotel,"
+02 Nguyen Dinh Hoan, Cau Giay, Hà Nội, Việt Nam
+","8,9", · 291 đánh giá,"
+5,1 km
+","
+2 giường đơn
+
+",30 m²,"
+VND 1.858.000
+"
+90,hotel,"
+02 Nguyen Dinh Hoan, Cau Giay, Hà Nội, Việt Nam
+","8,9", · 291 đánh giá,"
+5,1 km
+","
+1 giường đôi cực lớn
+
+",28 m²,"
+VND 1.998.000
+"
+91,hotel,"
+02 Nguyen Dinh Hoan, Cau Giay, Hà Nội, Việt Nam
+","8,9", · 291 đánh giá,"
+5,1 km
+","
+1 giường đơn
+
+",58 m²,"
+VND 1.900.000
+"
+92,hotel,"
+11 Cau Go, Old Quarter, Hoan Kiem, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,2", · 339 đánh giá,"
+2,8 km
+","
+1 giường đôi cực lớn
+
+",25 m²,"
+VND 1.665.000
+"
+93,hotel,"
+11 Cau Go, Old Quarter, Hoan Kiem, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,2", · 339 đánh giá,"
+2,8 km
+","
+1 giường đôi lớn
+
+",18 m²,"
+VND 3.330.000
+"
+94,hotel,"
+11 Cau Go, Old Quarter, Hoan Kiem, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,2", · 339 đánh giá,"
+2,8 km
+","
+1 giường đơn
+
+",23 m²,"
+VND 1.890.000
+"
+95,hotel,"
+11 Cau Go, Old Quarter, Hoan Kiem, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,2", · 339 đánh giá,"
+2,8 km
+","
+1 giường đôi lớn
+
+",32 m²,"
+VND 3.780.000
+"
+96,hotel,"
+11 Cau Go, Old Quarter, Hoan Kiem, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,2", · 339 đánh giá,"
+2,8 km
+","
+1 giường đơn
+
+",32 m²,"
+VND 1.980.000
+"
+97,hotel,"
+11 Cau Go, Old Quarter, Hoan Kiem, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,2", · 339 đánh giá,"
+2,8 km
+","
+1 giường đôi lớn
+
+",30 m²,"
+VND 3.960.000
+"
+98,hotel,"
+11 Cau Go, Old Quarter, Hoan Kiem, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,2", · 339 đánh giá,"
+2,8 km
+","
+2 giường đôi lớn
+
+",40 m²,"
+VND 2.115.000
+"
+99,hotel,"
+No 2 Cho Cau Go , Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,5", · 628 đánh giá,"
+2,7 km
+","
+1 giường đôi lớn
+
+",20 m²,"
+VND 1.544.400
+"
+100,hotel,"
+No 2 Cho Cau Go , Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,5", · 628 đánh giá,"
+2,7 km
+","
+1 giường đôi cực lớn
+
+",20 m²,"
+VND 2.489.872
+"
+101,hotel,"
+No 2 Cho Cau Go , Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,5", · 628 đánh giá,"
+2,7 km
+","
+1 giường đôi cực lớn
+
+",20 m²,"
+VND 2.779.392
+"
+102,hotel,"
+No 2 Cho Cau Go , Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,5", · 628 đánh giá,"
+2,7 km
+","
+1 giường đôi lớn
+
+",25 m²,"
+VND 3.068.911
+"
+103,hotel,"
+No 2 Cho Cau Go , Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,5", · 628 đánh giá,"
+2,7 km
+","
+2 giường đôi lớn
+
+",42 m²,"
+VND 3.474.240
+"
+104,hotel,"
+No 2 Cho Cau Go , Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,5", · 628 đánh giá,"
+2,7 km
+","
+2 giường đôi
+
+",38 m²,"
+VND 6.253.632
+"
+105,hotel,"
+No 2 Cho Cau Go , Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,5", · 628 đánh giá,"
+2,7 km
+","
+1 giường đôi cực lớn
+
+",20 m²,"
+VND 1.716.000
+"
+106,hotel,"
+41- 43 Hàng Bông, Hoàn Kiếm , Hà Nội, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,0", · 66 đánh giá,"
+2,5 km
+","
+1 giường đôi lớn
+
+",25 m²,"
+VND 2.325.600
+"
+107,hotel,"
+41- 43 Hàng Bông, Hoàn Kiếm , Hà Nội, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,0", · 66 đánh giá,"
+2,5 km
+","
+2 giường đơn
+
+",25 m²,"
+VND 2.325.600
+"
+108,hotel,"
+41- 43 Hàng Bông, Hoàn Kiếm , Hà Nội, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,0", · 66 đánh giá,"
+2,5 km
+","
+1 giường đôi
+
+",28 m²,"
+VND 2.674.440
+"
+109,hotel,"
+41- 43 Hàng Bông, Hoàn Kiếm , Hà Nội, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,0", · 66 đánh giá,"
+2,5 km
+","
+1 giường đôi
+
+",28 m²,"
+VND 3.040.000
+"
+110,hotel,"
+41- 43 Hàng Bông, Hoàn Kiếm , Hà Nội, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,0", · 66 đánh giá,"
+2,5 km
+","
+1 giường đôi lớn
+
+",35 m²,"
+VND 3.880.000
+"
+111,hotel,"
+41- 43 Hàng Bông, Hoàn Kiếm , Hà Nội, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,0", · 66 đánh giá,"
+2,5 km
+","
+2 giường đơn
+
+",50 m²,"
+VND 5.200.000
+"
+112,hotel,"
+47 Lo Su, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,1", · 485 đánh giá,"
+2,3 km
+","
+1 giường đôi
+
+",25 m²,"
+VND 1.638.203
+"
+113,hotel,"
+47 Lo Su, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,1", · 485 đánh giá,"
+2,3 km
+","
+2 giường đơn
+
+",28 m²,"
+VND 1.638.203
+"
+114,hotel,"
+47 Lo Su, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,1", · 485 đánh giá,"
+2,3 km
+","
+2 giường đơn
+
+",28 m²,"
+VND 1.804.800
+"
+115,hotel,"
+47 Lo Su, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,1", · 485 đánh giá,"
+2,3 km
+","
+1 giường đơn
+
+",28 m²,"
+VND 1.804.800
+"
+116,hotel,"
+47 Lo Su, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,1", · 485 đánh giá,"
+2,3 km
+","
+1 giường đôi cực lớn
+
+",38 m²,"
+VND 2.387.889
+"
+117,hotel,"
+47 Lo Su, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,1", · 485 đánh giá,"
+2,3 km
+","
+1 giường đơn
+
+",45 m²,"
+VND 2.665.551
+"
+118,hotel,"
+47 Lo Su, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,1", · 485 đánh giá,"
+2,3 km
+","
+1 giường đôi cực lớn
+
+",32 m²,"
+VND 2.943.213
+"
+119,hotel,"
+47 Lo Su, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,1", · 485 đánh giá,"
+2,3 km
+","
+1 giường đôi
+
+",50 m²,"
+VND 3.331.939
+"
+120,hotel,"
+47 Lo Su, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,1", · 485 đánh giá,"
+2,3 km
+","
+2 giường đơn
+
+",60 m²,"
+VND 3.609.600
+"
+121,hotel,"
+37 - 39 Hang Bac , Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,9", · 294 đánh giá,"
+4,7 km
+","
+1 giường đôi cực lớn
+
+",20 m²,"
+VND 1.393.203
+"
+122,hotel,"
+37 - 39 Hang Bac , Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,9", · 294 đánh giá,"
+4,7 km
+","
+2 giường đơn
+
+",20 m²,"
+VND 1.567.353
+"
+123,hotel,"
+37 - 39 Hang Bac , Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,9", · 294 đánh giá,"
+4,7 km
+","
+2 giường đơn
+
+",22 m²,"
+VND 6.896.353
+"
+124,hotel,"
+37 - 39 Hang Bac , Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,9", · 294 đánh giá,"
+4,7 km
+","
+1 giường đôi lớn
+
+",22 m²,"
+VND 1.393.203
+"
+125,hotel,"
+37 - 39 Hang Bac , Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,9", · 294 đánh giá,"
+4,7 km
+","
+1 giường đôi lớn
+
+",26 m²,"
+VND 1.567.353
+"
+126,hotel,"
+37 - 39 Hang Bac , Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,9", · 294 đánh giá,"
+4,7 km
+","
+1 giường đơn
+
+",25 m²,"
+VND 6.896.353
+"
+127,hotel,"
+37 - 39 Hang Bac , Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,9", · 294 đánh giá,"
+4,7 km
+","
+1 giường đôi
+
+",25 m²,"
+VND 1.578.963
+"
+128,hotel,"
+34 Hang Tre Street, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,3", · 494 đánh giá,"
+2,3 km
+","
+1 giường đôi cực lớn
+
+",23 m²,"
+VND 1.260.000
+"
+129,hotel,"
+34 Hang Tre Street, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,3", · 494 đánh giá,"
+2,3 km
+","
+1 giường đơn
+
+",35 m²,"
+VND 1.134.000
+"
+130,hotel,"
+34 Hang Tre Street, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,3", · 494 đánh giá,"
+2,3 km
+","
+1 giường đôi cực lớn
+
+",35 m²,"
+VND 1.663.200
+"
+131,hotel,"
+34 Hang Tre Street, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,3", · 494 đánh giá,"
+2,3 km
+","
+1 giường đơn
+
+",40 m²,"
+VND 1.848.000
+"
+132,hotel,"
+34 Hang Tre Street, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,3", · 494 đánh giá,"
+2,3 km
+","
+1 giường đôi cực lớn
+
+",45 m²,"
+VND 2.128.000
+"
+133,local hotel,"
+Phan Kế Bính Số 148, Quận Ba Đình, Hà Nội, Việt Nam
+","9,0", · 32 đánh giá,"
+4,6 km
+","
+1 giường đôi lớn
+
+",Studio nguyên căn,"
+VND 1.270.114
+"
+134,local hotel,"
+Phan Kế Bính Số 148, Quận Ba Đình, Hà Nội, Việt Nam
+","9,0", · 32 đánh giá,"
+4,6 km
+","
+2 giường đơn
+
+",Căn hộ nguyên căn,"
+VND 2.763.429
+"
+135,local hotel,"
+Phan Kế Bính Số 148, Quận Ba Đình, Hà Nội, Việt Nam
+","9,0", · 32 đánh giá,"
+4,6 km
+","
+1 giường đôi lớn
+
+",Studio nguyên căn,"
+VND 2.944.114
+"
+136,local hotel,"
+Phan Kế Bính Số 148, Quận Ba Đình, Hà Nội, Việt Nam
+","9,0", · 32 đánh giá,"
+4,6 km
+","
+2 giường đơn
+
+",Căn hộ nguyên căn,"
+VND 1.845.238
+"
+137,local hotel,"
+29 Liễu Giai Vinhomes Metropolis, Quận Ba Đình, Hà Nội, Việt Nam
+","9,5", · 47 đánh giá,"
+3,9 km
+",,60 m²,"
+VND 3.980.000
+"
+138,local hotel,"
+29 Liễu Giai Vinhomes Metropolis, Quận Ba Đình, Hà Nội, Việt Nam
+","9,5", · 47 đánh giá,"
+3,9 km
+",,75 m²,"
+VND 3.980.000
+"
+139,local hotel,"
+29 Liễu Giai Vinhomes Metropolis, Quận Ba Đình, Hà Nội, Việt Nam
+","9,5", · 47 đánh giá,"
+3,9 km
+",,80 m²,"
+VND 5.560.000
+"
+140,local hotel,"
+29 Liễu Giai Vinhomes Metropolis, Quận Ba Đình, Hà Nội, Việt Nam
+","9,5", · 47 đánh giá,"
+3,9 km
+",,85 m²,"
+VND 5.580.000
+"
+141,local hotel,"
+29 Liễu Giai Vinhomes Metropolis, Quận Ba Đình, Hà Nội, Việt Nam
+","9,5", · 47 đánh giá,"
+3,9 km
+",,85 m²,"
+VND 5.580.000
+"
+142,local hotel,"
+29 Liễu Giai Vinhomes Metropolis, Quận Ba Đình, Hà Nội, Việt Nam
+","9,5", · 47 đánh giá,"
+3,9 km
+",,85 m²,"
+VND 5.580.000
+"
+143,local hotel,"
+29 Liễu Giai Vinhomes Metropolis, Quận Ba Đình, Hà Nội, Việt Nam
+","9,5", · 47 đánh giá,"
+3,9 km
+",,85 m²,"
+VND 5.780.000
+"
+144,local hotel,"
+29 Liễu Giai Vinhomes Metropolis, Quận Ba Đình, Hà Nội, Việt Nam
+","9,5", · 47 đánh giá,"
+3,9 km
+",,85 m²,"
+VND 5.780.000
+"
+145,local hotel,"
+29 Liễu Giai Vinhomes Metropolis, Quận Ba Đình, Hà Nội, Việt Nam
+","9,5", · 47 đánh giá,"
+3,9 km
+",,110 m²,"
+VND 7.000.000
+"
+146,local hotel,"
+29 Liễu Giai Vinhomes Metropolis, Quận Ba Đình, Hà Nội, Việt Nam
+","9,5", · 47 đánh giá,"
+3,9 km
+",,150 m²,"
+VND 8.300.000
+"
+147,local hotel,"
+11 Lieu Giai, Ba Dinh, Quận Ba Đình, Hà Nội, Việt Nam
+","8,4", · 100 đánh giá,"
+3,9 km
+","
+1 giường đôi lớn
+
+",28 m²,"
+VND 3.780.000
+"
+148,local hotel,"
+11 Lieu Giai, Ba Dinh, Quận Ba Đình, Hà Nội, Việt Nam
+","8,4", · 100 đánh giá,"
+3,9 km
+","
+2 giường đơn
+
+",35 m²,"
+VND 3.465.000
+"
+149,local hotel,"
+11 Lieu Giai, Ba Dinh, Quận Ba Đình, Hà Nội, Việt Nam
+","8,4", · 100 đánh giá,"
+3,9 km
+","
+1 giường đôi cực lớn
+
+",43 m²,"
+VND 4.095.000
+"
+150,local hotel,"
+11 Lieu Giai, Ba Dinh, Quận Ba Đình, Hà Nội, Việt Nam
+","8,4", · 100 đánh giá,"
+3,9 km
+","
+1 giường đôi cực lớn
+
+",50 m²,"
+VND 3.780.000
+"
+151,local hotel,"
+11 Lieu Giai, Ba Dinh, Quận Ba Đình, Hà Nội, Việt Nam
+","8,4", · 100 đánh giá,"
+3,9 km
+",,55 m²,"
+VND 4.410.000
+"
+152,local hotel,"
+82, Dao Tan Street, Ba Dinh District, Quận Ba Đình, Hà Nội, Việt Nam
+","8,4", · 60 đánh giá,"
+4,8 km
+","
+1 giường đôi lớn
+
+",18 m²,"
+VND 2.193.714
+"
+153,local hotel,"
+82, Dao Tan Street, Ba Dinh District, Quận Ba Đình, Hà Nội, Việt Nam
+","8,4", · 60 đánh giá,"
+4,8 km
+","
+2 giường đơn
+
+",22 m²,"
+VND 2.659.410
+"
+154,local hotel,"
+82, Dao Tan Street, Ba Dinh District, Quận Ba Đình, Hà Nội, Việt Nam
+","8,4", · 60 đánh giá,"
+4,8 km
+","
+2 giường đơn
+
+",25 m²,"
+VND 2.128.230
+"
+155,local hotel,"
+82, Dao Tan Street, Ba Dinh District, Quận Ba Đình, Hà Nội, Việt Nam
+","8,4", · 60 đánh giá,"
+4,8 km
+","
+1 giường đôi lớn
+
+",35 m²,"
+VND 2.467.476
+"
+156,local hotel,"
+69 Nguyễn Trường Tộ, Trúc Bạch, Ba Đình, Hanoi, Vietnam, Quận Ba Đình, Hà Nội, Việt Nam
+","9,4", · 26 đánh giá,"
+2,3 km
+","
+1 giường đôi lớn
+
+",Studio nguyên căn,"
+VND 2.960.000
+"
+157,local hotel,"
+69 Nguyễn Trường Tộ, Trúc Bạch, Ba Đình, Hanoi, Vietnam, Quận Ba Đình, Hà Nội, Việt Nam
+","9,4", · 26 đánh giá,"
+2,3 km
+","
+1 giường đôi lớn
+
+",Studio nguyên căn,"
+VND 3.280.000
+"
+158,local hotel,"
+69 Nguyễn Trường Tộ, Trúc Bạch, Ba Đình, Hanoi, Vietnam, Quận Ba Đình, Hà Nội, Việt Nam
+","9,4", · 26 đánh giá,"
+2,3 km
+","
+1 giường đôi lớn
+
+",Studio nguyên căn,"
+VND 3.600.000
+"
+159,local hotel,"
+số 30A, Ngõ 173 Hoàng Hoa Thám. phường Ngọc Hà, quận Ba Đình Tòa nhà 6 tầng, Quận Ba Đình, Hà Nội, Việt Nam
+","9,9", · 15 đánh giá,"
+2,9 km
+","
+1 giường đôi cực lớn
+
+",Studio nguyên căn,"
+VND 1.100.000
+"
+160,local hotel,"
+số 30A, Ngõ 173 Hoàng Hoa Thám. phường Ngọc Hà, quận Ba Đình Tòa nhà 6 tầng, Quận Ba Đình, Hà Nội, Việt Nam
+","9,9", · 15 đánh giá,"
+2,9 km
+","
+1 giường đôi cực lớn
+
+",Studio nguyên căn,"
+VND 1.100.000
+"
+161,local hotel,"
+số 30A, Ngõ 173 Hoàng Hoa Thám. phường Ngọc Hà, quận Ba Đình Tòa nhà 6 tầng, Quận Ba Đình, Hà Nội, Việt Nam
+","9,9", · 15 đánh giá,"
+2,9 km
+","
+1 giường đôi cực lớn
+
+",Studio nguyên căn,"
+VND 1.100.000
+"
+162,local hotel,"
+số 30A, Ngõ 173 Hoàng Hoa Thám. phường Ngọc Hà, quận Ba Đình Tòa nhà 6 tầng, Quận Ba Đình, Hà Nội, Việt Nam
+","9,9", · 15 đánh giá,"
+2,9 km
+","
+1 giường đôi cực lớn
+
+",Studio nguyên căn,"
+VND 1.100.000
+"
+163,local hotel,"
+số 30A, Ngõ 173 Hoàng Hoa Thám. phường Ngọc Hà, quận Ba Đình Tòa nhà 6 tầng, Quận Ba Đình, Hà Nội, Việt Nam
+","9,9", · 15 đánh giá,"
+2,9 km
+","
+1 giường đôi cực lớn
+
+",Studio nguyên căn,"
+VND 1.100.000
+"
+164,local hotel,"
+17E Phan Dinh Phung, Quận Ba Đình, Hà Nội, Việt Nam
+","9,0", · 1.407 đánh giá,"
+1,9 km
+","
+2 giường đơn
+
+",18 m²,"
+VND 924.160
+"
+165,local hotel,"
+17E Phan Dinh Phung, Quận Ba Đình, Hà Nội, Việt Nam
+","9,0", · 1.407 đánh giá,"
+1,9 km
+","
+1 giường đôi lớn
+
+",20 m²,"
+VND 1.155.200
+"
+166,local hotel,"
+17E Phan Dinh Phung, Quận Ba Đình, Hà Nội, Việt Nam
+","9,0", · 1.407 đánh giá,"
+1,9 km
+","
+1 giường đôi lớn
+
+",30 m²,"
+VND 1.265.400
+"
+167,local hotel,"
+17E Phan Dinh Phung, Quận Ba Đình, Hà Nội, Việt Nam
+","9,0", · 1.407 đánh giá,"
+1,9 km
+","
+1 giường đơn
+
+",30 m²,"
+VND 1.406.000
+"
+168,local hotel,"
+54 Lieu Giai Street, Quận Ba Đình, Hà Nội, Việt Nam
+","9,1", · 579 đánh giá,0,"
+1 giường đôi cực lớn
+
+",42 m²,"
+VND 6.129.423
+"
+169,local hotel,"
+54 Lieu Giai Street, Quận Ba Đình, Hà Nội, Việt Nam
+","9,1", · 579 đánh giá,0,"
+1 giường đôi cực lớn
+
+",42 m²,"
+VND 6.129.423
+"
+170,local hotel,"
+54 Lieu Giai Street, Quận Ba Đình, Hà Nội, Việt Nam
+","9,1", · 579 đánh giá,0,,61 m²,"
+VND 7.000.175
+"
+171,local hotel,"
+54 Lieu Giai Street, Quận Ba Đình, Hà Nội, Việt Nam
+","9,1", · 579 đánh giá,0,,61 m²,"
+VND 8.261.397
+"
+172,local hotel,"
+54 Lieu Giai Street, Quận Ba Đình, Hà Nội, Việt Nam
+","9,1", · 579 đánh giá,0,,99 m²,"
+VND 6.201.175
+"
+173,local hotel,"
+54 Lieu Giai Street, Quận Ba Đình, Hà Nội, Việt Nam
+","9,1", · 579 đánh giá,0,,147 m²,"
+VND 7.355.331
+"
+174,local hotel,"
+8 Ngõ 55 Đường Hoàng Hoa Thám, Quận Ba Đình, Hà Nội, Việt Nam
+",10, · 6 đánh giá,0,"
+1 giường đôi cực lớn
+
+",Studio nguyên căn,"
+VND 1.100.000
+"
+175,local hotel,"
+8 Ngõ 55 Đường Hoàng Hoa Thám, Quận Ba Đình, Hà Nội, Việt Nam
+",10, · 6 đánh giá,0,"
+1 giường đôi cực lớn
+
+",Studio nguyên căn,"
+VND 1.100.000
+"
+177,local hotel,"
+8 Ngõ 55 Đường Hoàng Hoa Thám, Quận Ba Đình, Hà Nội, Việt Nam
+",10, · 6 đánh giá,0,"
+1 giường đôi cực lớn
+
+",Studio nguyên căn,"
+VND 1.100.000
+"
+178,local hotel,"
+143 Kim Mã, Quận Ba Đình, Hà Nội, Việt Nam
+","8,6", · 205 đánh giá,"
+2,8 km
+","
+1 giường đôi cực lớn
+
+",25 m²,"
+VND 649.800
+"
+179,local hotel,"
+143 Kim Mã, Quận Ba Đình, Hà Nội, Việt Nam
+","8,6", · 205 đánh giá,"
+2,8 km
+","
+1 giường đôi cực lớn
+
+",25 m²,"
+VND 1.555.200
+"
+180,local hotel,"
+143 Kim Mã, Quận Ba Đình, Hà Nội, Việt Nam
+","8,6", · 205 đánh giá,"
+2,8 km
+","
+1 giường đôi cực lớn
+
+",25 m²,"
+VND 1.684.210
+"
+181,local hotel,"
+143 Kim Mã, Quận Ba Đình, Hà Nội, Việt Nam
+","8,6", · 205 đánh giá,"
+2,8 km
+","
+1 giường đôi cực lớn
+
+",30 m²,"
+VND 1.964.912
+"
+182,local hotel,"
+143 Kim Mã, Quận Ba Đình, Hà Nội, Việt Nam
+","8,6", · 205 đánh giá,"
+2,8 km
+","
+1 giường đôi cực lớn
+
+",25 m²,"
+VND 2.245.614
+"
+183,local hotel,"
+6B Lang Ha Street, Quận Ba Đình, Hà Nội, Việt Nam
+","7,1", · 44 đánh giá,"
+3,6 km
+","
+2 giường đơn
+
+",25 m²,"
+                VND 3.372.761
+            "
+184,local hotel,"
+6B Lang Ha Street, Quận Ba Đình, Hà Nội, Việt Nam
+","7,1", · 44 đánh giá,"
+3,6 km
+","
+1 giường đôi lớn
+
+",25 m²,"
+VND 3.898.800
+"
+185,local hotel,"
+6B Lang Ha Street, Quận Ba Đình, Hà Nội, Việt Nam
+","7,1", · 44 đánh giá,"
+3,6 km
+","
+2 giường đơn
+
+",60 m²,"
+VND 4.546.800
+"
+186,local hotel,"
+6B Lang Ha Street, Quận Ba Đình, Hà Nội, Việt Nam
+","7,1", · 44 đánh giá,"
+3,6 km
+","
+1 giường đôi lớn
+
+",0,"
+VND 3.639.600
+"
+187,local hotel,"
+Ngõ 99 Phố Lê Hồng Phong, Quận Ba Đình, Hà Nội, Việt Nam
+",10, · 3 đánh giá,"
+2,4 km
+","
+1 giường đôi cực lớn
+
+",Studio nguyên căn,"
+VND 920.000
+"
+188,local hotel,"
+Ngõ 99 Phố Lê Hồng Phong, Quận Ba Đình, Hà Nội, Việt Nam
+",10, · 3 đánh giá,"
+2,4 km
+","
+1 giường đôi cực lớn
+
+",Studio nguyên căn,"
+VND 966.000
+"
+189,local hotel,"
+Ngõ 99 Phố Lê Hồng Phong, Quận Ba Đình, Hà Nội, Việt Nam
+",10, · 3 đánh giá,"
+2,4 km
+","
+1 giường đôi cực lớn
+
+",Studio nguyên căn,"
+VND 960.000
+"
+190,local hotel,"
+Ngõ 99 Phố Lê Hồng Phong, Quận Ba Đình, Hà Nội, Việt Nam
+",10, · 3 đánh giá,"
+2,4 km
+","
+1 giường đôi cực lớn
+
+",Studio nguyên căn,"
+VND 1.008.000
+"
+191,local hotel,"
+59 Nguyen Khac Hieu, Truc Bach, Ba Dinh, Quận Ba Đình, Hà Nội, Việt Nam
+","9,0", · 200 đánh giá,0,,Căn hộ nguyên căn,"
+VND 1.200.000
+"
+192,local hotel,"
+59 Nguyen Khac Hieu, Truc Bach, Ba Dinh, Quận Ba Đình, Hà Nội, Việt Nam
+","9,0", · 200 đánh giá,0,,Căn hộ nguyên căn,"
+VND 1.260.000
+"
+193,local hotel,"
+59 Nguyen Khac Hieu, Truc Bach, Ba Dinh, Quận Ba Đình, Hà Nội, Việt Nam
+","9,0", · 200 đánh giá,0,,Căn hộ nguyên căn,"
+VND 1.380.000
+"
+194,local hotel,"
+45 Hang Bun , Quận Ba Đình, Hà Nội, Việt Nam
+","8,2", · 62 đánh giá,"
+2,4 km
+","
+1 giường đôi cực lớn
+
+",25 m²,"
+VND 1.100.000
+"
+195,local hotel,"
+45 Hang Bun , Quận Ba Đình, Hà Nội, Việt Nam
+","8,2", · 62 đánh giá,"
+2,4 km
+","
+1 giường đôi lớn
+
+",25 m²,"
+VND 1.300.000
+"
+196,local hotel,"
+45 Hang Bun , Quận Ba Đình, Hà Nội, Việt Nam
+","8,2", · 62 đánh giá,"
+2,4 km
+","
+2 giường đơn
+
+",45 m²,"
+VND 1.700.000
+"
+197,local hotel,"
+45 Hang Bun , Quận Ba Đình, Hà Nội, Việt Nam
+","8,2", · 62 đánh giá,"
+2,4 km
+","
+1 giường đôi lớn
+
+",30 m²,"
+VND 1.700.000
+"
+198,local hotel,"
+45 Hang Bun , Quận Ba Đình, Hà Nội, Việt Nam
+","8,2", · 62 đánh giá,"
+2,4 km
+","
+3 giường đơn
+
+",50 m²,"
+VND 2.600.000
+"
+199,local hotel,"
+62 Phạm Huy Thông Ngọc Khánh , Ba Đình , Hanoi , Vietnam, Quận Ba Đình, Hà Nội, Việt Nam
+","9,4", · 225 đánh giá,"
+4,4 km
+","
+1 giường đôi lớn
+
+",18 m²,"
+VND 1.120.000
+"
+200,local hotel,"
+62 Phạm Huy Thông Ngọc Khánh , Ba Đình , Hanoi , Vietnam, Quận Ba Đình, Hà Nội, Việt Nam
+","9,4", · 225 đánh giá,"
+4,4 km
+","
+1 giường đôi lớn
+
+",22 m²,"
+VND 1.398.000
+"
+201,local hotel,"
+62 Phạm Huy Thông Ngọc Khánh , Ba Đình , Hanoi , Vietnam, Quận Ba Đình, Hà Nội, Việt Nam
+","9,4", · 225 đánh giá,"
+4,4 km
+","
+2 giường đôi lớn
+
+",22 m²,"
+VND 1.260.000
+"
+203,local hotel,"
+Số 1 ngõ 7 Liễu Giai, Quận Ba Đình, Hà Nội, Việt Nam
+","9,0", · 56 đánh giá,"
+3,9 km
+","
+1 giường đôi cực lớn
+
+",Studio nguyên căn,"
+VND 1.700.000
+"
+205,local hotel,"
+B7 Giảng Võ, Quận Ba Đình, Hà Nội, Việt Nam
+","9,5", · 43 đánh giá,0,"
+2 giường đơn
+
+",45 m²,"
+VND 5.180.000
+"
+206,local hotel,"
+B7 Giảng Võ, Quận Ba Đình, Hà Nội, Việt Nam
+","9,5", · 43 đánh giá,0,"
+1 giường đôi cực lớn
+
+",48 m²,"
+VND 6.580.000
+"
+207,local hotel,"
+B7 Giảng Võ, Quận Ba Đình, Hà Nội, Việt Nam
+","9,5", · 43 đánh giá,0,"
+1 giường sofa
+
+",50 m²,"
+VND 7.180.000
+"
+208,local hotel,"
+B7 Giảng Võ, Quận Ba Đình, Hà Nội, Việt Nam
+","9,5", · 43 đánh giá,0,"
+2 giường đơn
+
+",46 m²,"
+VND 8.580.000
+"
+209,local hotel,"
+B7 Giảng Võ, Quận Ba Đình, Hà Nội, Việt Nam
+","9,5", · 43 đánh giá,0,"
+1 giường đôi cực lớn
+
+",46 m²,"
+VND 5.880.000
+"
+210,local hotel,"
+B7 Giảng Võ, Quận Ba Đình, Hà Nội, Việt Nam
+","9,5", · 43 đánh giá,0,"
+2 giường đơn
+
+",78 m²,"
+VND 5.980.000
+"
+211,local hotel,"
+B7 Giảng Võ, Quận Ba Đình, Hà Nội, Việt Nam
+","9,5", · 43 đánh giá,0,,90 m²,"
+VND 7.380.000
+"
+212,local hotel,"
+146 Giảng Võ, Quận Ba Đình, Hà Nội, Việt Nam
+","8,8", · 209 đánh giá,0,"
+1 giường đôi cực lớn
+
+",32 m²,"
+                VND 2.982.787
+            "
+213,local hotel,"
+146 Giảng Võ, Quận Ba Đình, Hà Nội, Việt Nam
+","8,8", · 209 đánh giá,0,"
+2 giường đơn
+
+",38 m²,"
+VND 3.216.510
+"
+214,local hotel,"
+146 Giảng Võ, Quận Ba Đình, Hà Nội, Việt Nam
+","8,8", · 209 đánh giá,0,"
+1 giường đôi cực lớn
+
+",38 m²,"
+VND 4.327.052
+"
+215,local hotel,"
+146 Giảng Võ, Quận Ba Đình, Hà Nội, Việt Nam
+","8,8", · 209 đánh giá,0,"
+1 giường đôi cực lớn
+
+",46 m²,"
+VND 4.543.405
+"
+216,local hotel,"
+146 Giảng Võ, Quận Ba Đình, Hà Nội, Việt Nam
+","8,8", · 209 đánh giá,0,"
+2 giường đơn
+
+",65 m²,"
+VND 3.672.900
+"
+217,local hotel,"
+146 Giảng Võ, Quận Ba Đình, Hà Nội, Việt Nam
+","8,8", · 209 đánh giá,0,,76 m²,"
+VND 4.554.396
+"
+218,local hotel,"
+146 Giảng Võ, Quận Ba Đình, Hà Nội, Việt Nam
+","8,8", · 209 đánh giá,0,,0,"
+VND 4.782.116
+"
+219,local hotel,"
+99 Lane 135 Doi Can street, Ba Dinh district, Hanoi, Vietnam, Quận Ba Đình, Hà Nội, Việt Nam
+","8,5", · 132 đánh giá,"
+2,6 km
+","
+1 giường đôi cực lớn
+
+",17 m²,"
+VND 733.320
+"
+220,local hotel,"
+99 Lane 135 Doi Can street, Ba Dinh district, Hanoi, Vietnam, Quận Ba Đình, Hà Nội, Việt Nam
+","8,5", · 132 đánh giá,"
+2,6 km
+","
+1 giường đôi cực lớn
+
+",18 m²,"
+VND 995.220
+"
+221,local hotel,"
+99 Lane 135 Doi Can street, Ba Dinh district, Hanoi, Vietnam, Quận Ba Đình, Hà Nội, Việt Nam
+","8,5", · 132 đánh giá,"
+2,6 km
+","
+1 giường tầng
+
+",25 m²,"
+VND 261.900
+"
+222,local hotel,"
+29 Liễu Giai, Quận Ba Đình, Hà Nội, Việt Nam
+","8,5", · 25 đánh giá,"
+3,9 km
+",,Căn hộ nguyên căn,"
+VND 3.940.000
+"
+223,local hotel,"
+29 Liễu Giai, Quận Ba Đình, Hà Nội, Việt Nam
+","8,5", · 25 đánh giá,"
+3,9 km
+",,Căn hộ nguyên căn,"
+VND 5.900.000
+"
+224,local hotel,"
+29 Liễu Giai, Quận Ba Đình, Hà Nội, Việt Nam
+","8,5", · 25 đánh giá,"
+3,9 km
+",,Căn hộ nguyên căn,"
+VND 9.998.000
+"
+225,local hotel,"
+Số 3 ngõ 77 lê hồng phong, ba đình, Quận Ba Đình, Hà Nội, Việt Nam
+","7,9", · 111 đánh giá,"
+2,4 km
+",,Căn hộ nguyên căn,"
+VND 810.000
+"
+226,local hotel,"
+Số 3 ngõ 77 lê hồng phong, ba đình, Quận Ba Đình, Hà Nội, Việt Nam
+","7,9", · 111 đánh giá,"
+2,4 km
+",,Căn hộ nguyên căn,"
+VND 900.000
+"
+227,local hotel,"
+Số 3 ngõ 77 lê hồng phong, ba đình, Quận Ba Đình, Hà Nội, Việt Nam
+","7,9", · 111 đánh giá,"
+2,4 km
+",,Căn hộ nguyên căn,"
+VND 810.000
+"
+228,local hotel,"
+160 Ngọc Hà 20, tầng 1, Quận Ba Đình, Hà Nội, Việt Nam
+","7,7", · 112 đánh giá,"
+2,7 km
+","
+1 giường tầng
+
+",50 m²,"
+VND 540.000
+"
+229,local hotel,"
+160 Ngọc Hà 20, tầng 1, Quận Ba Đình, Hà Nội, Việt Nam
+","7,7", · 112 đánh giá,"
+2,7 km
+","
+2 giường đôi lớn
+
+",30 m²,"
+VND 700.000
+"
+230,local hotel,"
+160 Ngọc Hà 20, tầng 1, Quận Ba Đình, Hà Nội, Việt Nam
+","7,7", · 112 đánh giá,"
+2,7 km
+","
+1 giường đôi lớn
+
+",30 m²,"
+VND 800.000
+"
+231,local hotel,"
+160 Ngọc Hà 20, tầng 1, Quận Ba Đình, Hà Nội, Việt Nam
+","7,7", · 112 đánh giá,"
+2,7 km
+","
+4 giường tầng
+
+",30 m²,"
+VND 500.000
+"
+232,local hotel,"
+160 Ngọc Hà 20, tầng 1, Quận Ba Đình, Hà Nội, Việt Nam
+","7,7", · 112 đánh giá,"
+2,7 km
+","
+4 giường tầng
+
+",40 m²,"
+VND 540.000
+"
+233,local hotel,"
+160 Ngọc Hà 20, tầng 1, Quận Ba Đình, Hà Nội, Việt Nam
+","7,7", · 112 đánh giá,"
+2,7 km
+","
+2 giường đôi
+
+",30 m²,"
+VND 486.000
+"
+234,local hotel,"
+109 Ngõ 189 Hoàng Hoa Thám, Quận Ba Đình, Hà Nội, Việt Nam
+",0,0,0,"
+1 giường đôi lớn
+
+",35 m²,"
+VND 577.500
+"
+235,local hotel,"
+87 Nguyễn Trường Tộ Truc Bach Ward, Ba Dinh District, Hanoi, Quận Ba Đình, Hà Nội, Việt Nam
+","9,1", · 45 đánh giá,"
+2,5 km
+","
+2 giường đơn
+
+",25 m²,"
+VND 2.034.900
+"
+236,local hotel,"
+87 Nguyễn Trường Tộ Truc Bach Ward, Ba Dinh District, Hanoi, Quận Ba Đình, Hà Nội, Việt Nam
+","9,1", · 45 đánh giá,"
+2,5 km
+","
+1 giường đôi
+
+",30 m²,"
+VND 2.394.000
+"
+237,local hotel,"
+87 Nguyễn Trường Tộ Truc Bach Ward, Ba Dinh District, Hanoi, Quận Ba Đình, Hà Nội, Việt Nam
+","9,1", · 45 đánh giá,"
+2,5 km
+","
+2 giường đơn
+
+",33 m²,"
+VND 2.356.200
+"
+238,local hotel,"
+87 Nguyễn Trường Tộ Truc Bach Ward, Ba Dinh District, Hanoi, Quận Ba Đình, Hà Nội, Việt Nam
+","9,1", · 45 đánh giá,"
+2,5 km
+","
+1 giường đôi lớn
+
+",35 m²,"
+VND 2.772.000
+"
+239,local hotel,"
+87 Nguyễn Trường Tộ Truc Bach Ward, Ba Dinh District, Hanoi, Quận Ba Đình, Hà Nội, Việt Nam
+","9,1", · 45 đánh giá,"
+2,5 km
+","
+2 giường đơn
+
+",45 m²,"
+VND 2.677.500
+"
+240,local hotel,"
+20 Linh Lang, Quận Ba Đình, Hà Nội, Việt Nam
+","9,1", · 49 đánh giá,"
+4,5 km
+","
+1 giường đôi cực lớn
+
+",Căn hộ nguyên căn,"
+VND 1.450.000
+"
+242,local hotel,"
+20 Linh Lang, Quận Ba Đình, Hà Nội, Việt Nam
+","9,1", · 49 đánh giá,"
+4,5 km
+",,Căn hộ nguyên căn,"
+VND 1.500.000
+"
+243,local hotel,"
+20 Linh Lang, Quận Ba Đình, Hà Nội, Việt Nam
+","9,1", · 49 đánh giá,"
+4,5 km
+",,Căn hộ nguyên căn,"
+VND 1.500.000
+"
+244,local hotel,"
+Phan Kế Bính Số 148, Quận Ba Đình, Hà Nội, Việt Nam
+","9,0", · 32 đánh giá,"
+4,6 km
+","
+1 giường đôi lớn
+
+",Studio nguyên căn,"
+VND 1.270.114
+"
+245,local hotel,"
+Phan Kế Bính Số 148, Quận Ba Đình, Hà Nội, Việt Nam
+","9,0", · 32 đánh giá,"
+4,6 km
+","
+2 giường đơn
+
+",Căn hộ nguyên căn,"
+VND 2.763.429
+"
+246,local hotel,"
+Phan Kế Bính Số 148, Quận Ba Đình, Hà Nội, Việt Nam
+","9,0", · 32 đánh giá,"
+4,6 km
+","
+1 giường đôi lớn
+
+",Studio nguyên căn,"
+VND 2.944.114
+"
+247,local hotel,"
+Phan Kế Bính Số 148, Quận Ba Đình, Hà Nội, Việt Nam
+","9,0", · 32 đánh giá,"
+4,6 km
+","
+2 giường đơn
+
+",Căn hộ nguyên căn,"
+VND 1.845.238
+"
+248,local hotel,"
+29 Liễu Giai Vinhomes Metropolis, Quận Ba Đình, Hà Nội, Việt Nam
+","9,5", · 47 đánh giá,"
+3,9 km
+",,60 m²,"
+VND 3.980.000
+"
+249,local hotel,"
+29 Liễu Giai Vinhomes Metropolis, Quận Ba Đình, Hà Nội, Việt Nam
+","9,5", · 47 đánh giá,"
+3,9 km
+",,75 m²,"
+VND 3.980.000
+"
+250,local hotel,"
+29 Liễu Giai Vinhomes Metropolis, Quận Ba Đình, Hà Nội, Việt Nam
+","9,5", · 47 đánh giá,"
+3,9 km
+",,80 m²,"
+VND 5.560.000
+"
+251,local hotel,"
+29 Liễu Giai Vinhomes Metropolis, Quận Ba Đình, Hà Nội, Việt Nam
+","9,5", · 47 đánh giá,"
+3,9 km
+",,85 m²,"
+VND 5.580.000
+"
+252,local hotel,"
+29 Liễu Giai Vinhomes Metropolis, Quận Ba Đình, Hà Nội, Việt Nam
+","9,5", · 47 đánh giá,"
+3,9 km
+",,85 m²,"
+VND 5.580.000
+"
+253,local hotel,"
+29 Liễu Giai Vinhomes Metropolis, Quận Ba Đình, Hà Nội, Việt Nam
+","9,5", · 47 đánh giá,"
+3,9 km
+",,85 m²,"
+VND 5.580.000
+"
+254,local hotel,"
+29 Liễu Giai Vinhomes Metropolis, Quận Ba Đình, Hà Nội, Việt Nam
+","9,5", · 47 đánh giá,"
+3,9 km
+",,85 m²,"
+VND 5.780.000
+"
+255,local hotel,"
+29 Liễu Giai Vinhomes Metropolis, Quận Ba Đình, Hà Nội, Việt Nam
+","9,5", · 47 đánh giá,"
+3,9 km
+",,85 m²,"
+VND 5.780.000
+"
+256,local hotel,"
+29 Liễu Giai Vinhomes Metropolis, Quận Ba Đình, Hà Nội, Việt Nam
+","9,5", · 47 đánh giá,"
+3,9 km
+",,110 m²,"
+VND 7.000.000
+"
+257,local hotel,"
+29 Liễu Giai Vinhomes Metropolis, Quận Ba Đình, Hà Nội, Việt Nam
+","9,5", · 47 đánh giá,"
+3,9 km
+",,150 m²,"
+VND 8.300.000
+"
+258,local hotel,"
+11 Lieu Giai, Ba Dinh, Quận Ba Đình, Hà Nội, Việt Nam
+","8,4", · 100 đánh giá,"
+3,9 km
+","
+1 giường đôi lớn
+
+",28 m²,"
+VND 3.780.000
+"
+259,local hotel,"
+11 Lieu Giai, Ba Dinh, Quận Ba Đình, Hà Nội, Việt Nam
+","8,4", · 100 đánh giá,"
+3,9 km
+","
+2 giường đơn
+
+",35 m²,"
+VND 3.465.000
+"
+260,local hotel,"
+11 Lieu Giai, Ba Dinh, Quận Ba Đình, Hà Nội, Việt Nam
+","8,4", · 100 đánh giá,"
+3,9 km
+","
+1 giường đôi cực lớn
+
+",43 m²,"
+VND 4.095.000
+"
+261,local hotel,"
+11 Lieu Giai, Ba Dinh, Quận Ba Đình, Hà Nội, Việt Nam
+","8,4", · 100 đánh giá,"
+3,9 km
+","
+1 giường đôi cực lớn
+
+",50 m²,"
+VND 3.780.000
+"
+262,local hotel,"
+11 Lieu Giai, Ba Dinh, Quận Ba Đình, Hà Nội, Việt Nam
+","8,4", · 100 đánh giá,"
+3,9 km
+",,55 m²,"
+VND 4.410.000
+"
+263,local hotel,"
+82, Dao Tan Street, Ba Dinh District, Quận Ba Đình, Hà Nội, Việt Nam
+","8,4", · 60 đánh giá,"
+4,8 km
+","
+1 giường đôi lớn
+
+",18 m²,"
+VND 2.193.714
+"
+264,local hotel,"
+82, Dao Tan Street, Ba Dinh District, Quận Ba Đình, Hà Nội, Việt Nam
+","8,4", · 60 đánh giá,"
+4,8 km
+","
+2 giường đơn
+
+",22 m²,"
+VND 2.659.410
+"
+265,local hotel,"
+82, Dao Tan Street, Ba Dinh District, Quận Ba Đình, Hà Nội, Việt Nam
+","8,4", · 60 đánh giá,"
+4,8 km
+","
+2 giường đơn
+
+",25 m²,"
+VND 2.128.230
+"
+266,local hotel,"
+82, Dao Tan Street, Ba Dinh District, Quận Ba Đình, Hà Nội, Việt Nam
+","8,4", · 60 đánh giá,"
+4,8 km
+","
+1 giường đôi lớn
+
+",35 m²,"
+VND 2.467.476
+"
+267,local hotel,"
+69 Nguyễn Trường Tộ, Trúc Bạch, Ba Đình, Hanoi, Vietnam, Quận Ba Đình, Hà Nội, Việt Nam
+","9,4", · 26 đánh giá,"
+2,3 km
+","
+1 giường đôi lớn
+
+",Studio nguyên căn,"
+VND 2.960.000
+"
+268,local hotel,"
+69 Nguyễn Trường Tộ, Trúc Bạch, Ba Đình, Hanoi, Vietnam, Quận Ba Đình, Hà Nội, Việt Nam
+","9,4", · 26 đánh giá,"
+2,3 km
+","
+1 giường đôi lớn
+
+",Studio nguyên căn,"
+VND 3.280.000
+"
+269,local hotel,"
+69 Nguyễn Trường Tộ, Trúc Bạch, Ba Đình, Hanoi, Vietnam, Quận Ba Đình, Hà Nội, Việt Nam
+","9,4", · 26 đánh giá,"
+2,3 km
+","
+1 giường đôi lớn
+
+",Studio nguyên căn,"
+VND 3.600.000
+"
+270,local hotel,"
+số 30A, Ngõ 173 Hoàng Hoa Thám. phường Ngọc Hà, quận Ba Đình Tòa nhà 6 tầng, Quận Ba Đình, Hà Nội, Việt Nam
+","9,9", · 15 đánh giá,"
+2,9 km
+","
+1 giường đôi cực lớn
+
+",Studio nguyên căn,"
+VND 1.100.000
+"
+271,local hotel,"
+số 30A, Ngõ 173 Hoàng Hoa Thám. phường Ngọc Hà, quận Ba Đình Tòa nhà 6 tầng, Quận Ba Đình, Hà Nội, Việt Nam
+","9,9", · 15 đánh giá,"
+2,9 km
+","
+1 giường đôi cực lớn
+
+",Studio nguyên căn,"
+VND 1.100.000
+"
+272,local hotel,"
+số 30A, Ngõ 173 Hoàng Hoa Thám. phường Ngọc Hà, quận Ba Đình Tòa nhà 6 tầng, Quận Ba Đình, Hà Nội, Việt Nam
+","9,9", · 15 đánh giá,"
+2,9 km
+","
+1 giường đôi cực lớn
+
+",Studio nguyên căn,"
+VND 1.100.000
+"
+273,local hotel,"
+số 30A, Ngõ 173 Hoàng Hoa Thám. phường Ngọc Hà, quận Ba Đình Tòa nhà 6 tầng, Quận Ba Đình, Hà Nội, Việt Nam
+","9,9", · 15 đánh giá,"
+2,9 km
+","
+1 giường đôi cực lớn
+
+",Studio nguyên căn,"
+VND 1.100.000
+"
+274,local hotel,"
+số 30A, Ngõ 173 Hoàng Hoa Thám. phường Ngọc Hà, quận Ba Đình Tòa nhà 6 tầng, Quận Ba Đình, Hà Nội, Việt Nam
+","9,9", · 15 đánh giá,"
+2,9 km
+","
+1 giường đôi cực lớn
+
+",Studio nguyên căn,"
+VND 1.100.000
+"
+275,local hotel,"
+17E Phan Dinh Phung, Quận Ba Đình, Hà Nội, Việt Nam
+","9,0", · 1.407 đánh giá,"
+1,9 km
+","
+2 giường đơn
+
+",18 m²,"
+VND 924.160
+"
+276,local hotel,"
+17E Phan Dinh Phung, Quận Ba Đình, Hà Nội, Việt Nam
+","9,0", · 1.407 đánh giá,"
+1,9 km
+","
+1 giường đôi lớn
+
+",20 m²,"
+VND 1.155.200
+"
+277,local hotel,"
+17E Phan Dinh Phung, Quận Ba Đình, Hà Nội, Việt Nam
+","9,0", · 1.407 đánh giá,"
+1,9 km
+","
+1 giường đôi lớn
+
+",30 m²,"
+VND 1.265.400
+"
+278,local hotel,"
+17E Phan Dinh Phung, Quận Ba Đình, Hà Nội, Việt Nam
+","9,0", · 1.407 đánh giá,"
+1,9 km
+","
+1 giường đơn
+
+",30 m²,"
+VND 1.406.000
+"
+279,local hotel,"
+54 Lieu Giai Street, Quận Ba Đình, Hà Nội, Việt Nam
+","9,1", · 579 đánh giá,0,"
+1 giường đôi cực lớn
+
+",42 m²,"
+VND 6.129.423
+"
+280,local hotel,"
+54 Lieu Giai Street, Quận Ba Đình, Hà Nội, Việt Nam
+","9,1", · 579 đánh giá,0,"
+1 giường đôi cực lớn
+
+",42 m²,"
+VND 6.129.423
+"
+281,local hotel,"
+54 Lieu Giai Street, Quận Ba Đình, Hà Nội, Việt Nam
+","9,1", · 579 đánh giá,0,,61 m²,"
+VND 7.000.175
+"
+282,local hotel,"
+54 Lieu Giai Street, Quận Ba Đình, Hà Nội, Việt Nam
+","9,1", · 579 đánh giá,0,,61 m²,"
+VND 8.261.397
+"
+283,local hotel,"
+54 Lieu Giai Street, Quận Ba Đình, Hà Nội, Việt Nam
+","9,1", · 579 đánh giá,0,,99 m²,"
+VND 6.201.175
+"
+284,local hotel,"
+54 Lieu Giai Street, Quận Ba Đình, Hà Nội, Việt Nam
+","9,1", · 579 đánh giá,0,,147 m²,"
+VND 7.355.331
+"
+285,local hotel,"
+8 Ngõ 55 Đường Hoàng Hoa Thám, Quận Ba Đình, Hà Nội, Việt Nam
+",10, · 6 đánh giá,0,"
+1 giường đôi cực lớn
+
+",Studio nguyên căn,"
+VND 1.100.000
+"
+286,local hotel,"
+8 Ngõ 55 Đường Hoàng Hoa Thám, Quận Ba Đình, Hà Nội, Việt Nam
+",10, · 6 đánh giá,0,"
+1 giường đôi cực lớn
+
+",Studio nguyên căn,"
+VND 1.100.000
+"
+288,local hotel,"
+8 Ngõ 55 Đường Hoàng Hoa Thám, Quận Ba Đình, Hà Nội, Việt Nam
+",10, · 6 đánh giá,0,"
+1 giường đôi cực lớn
+
+",Studio nguyên căn,"
+VND 1.100.000
+"
+289,local hotel,"
+143 Kim Mã, Quận Ba Đình, Hà Nội, Việt Nam
+","8,6", · 205 đánh giá,"
+2,8 km
+","
+1 giường đôi cực lớn
+
+",25 m²,"
+VND 649.800
+"
+290,local hotel,"
+143 Kim Mã, Quận Ba Đình, Hà Nội, Việt Nam
+","8,6", · 205 đánh giá,"
+2,8 km
+","
+1 giường đôi cực lớn
+
+",25 m²,"
+VND 1.555.200
+"
+291,local hotel,"
+143 Kim Mã, Quận Ba Đình, Hà Nội, Việt Nam
+","8,6", · 205 đánh giá,"
+2,8 km
+","
+1 giường đôi cực lớn
+
+",25 m²,"
+VND 1.684.210
+"
+292,local hotel,"
+143 Kim Mã, Quận Ba Đình, Hà Nội, Việt Nam
+","8,6", · 205 đánh giá,"
+2,8 km
+","
+1 giường đôi cực lớn
+
+",30 m²,"
+VND 1.964.912
+"
+293,local hotel,"
+143 Kim Mã, Quận Ba Đình, Hà Nội, Việt Nam
+","8,6", · 205 đánh giá,"
+2,8 km
+","
+1 giường đôi cực lớn
+
+",25 m²,"
+VND 2.245.614
+"
+294,local hotel,"
+6B Lang Ha Street, Quận Ba Đình, Hà Nội, Việt Nam
+","7,1", · 44 đánh giá,"
+3,6 km
+","
+2 giường đơn
+
+",25 m²,"
+                VND 3.372.761
+            "
+295,local hotel,"
+6B Lang Ha Street, Quận Ba Đình, Hà Nội, Việt Nam
+","7,1", · 44 đánh giá,"
+3,6 km
+","
+1 giường đôi lớn
+
+",25 m²,"
+VND 3.898.800
+"
+296,local hotel,"
+6B Lang Ha Street, Quận Ba Đình, Hà Nội, Việt Nam
+","7,1", · 44 đánh giá,"
+3,6 km
+","
+2 giường đơn
+
+",60 m²,"
+VND 4.546.800
+"
+297,local hotel,"
+6B Lang Ha Street, Quận Ba Đình, Hà Nội, Việt Nam
+","7,1", · 44 đánh giá,"
+3,6 km
+","
+1 giường đôi lớn
+
+",0,"
+VND 3.639.600
+"
+298,local hotel,"
+Ngõ 99 Phố Lê Hồng Phong, Quận Ba Đình, Hà Nội, Việt Nam
+",10, · 3 đánh giá,"
+2,4 km
+","
+1 giường đôi cực lớn
+
+",Studio nguyên căn,"
+VND 920.000
+"
+299,local hotel,"
+Ngõ 99 Phố Lê Hồng Phong, Quận Ba Đình, Hà Nội, Việt Nam
+",10, · 3 đánh giá,"
+2,4 km
+","
+1 giường đôi cực lớn
+
+",Studio nguyên căn,"
+VND 966.000
+"
+300,local hotel,"
+Ngõ 99 Phố Lê Hồng Phong, Quận Ba Đình, Hà Nội, Việt Nam
+",10, · 3 đánh giá,"
+2,4 km
+","
+1 giường đôi cực lớn
+
+",Studio nguyên căn,"
+VND 960.000
+"
+301,local hotel,"
+Ngõ 99 Phố Lê Hồng Phong, Quận Ba Đình, Hà Nội, Việt Nam
+",10, · 3 đánh giá,"
+2,4 km
+","
+1 giường đôi cực lớn
+
+",Studio nguyên căn,"
+VND 1.008.000
+"
+302,local hotel,"
+59 Nguyen Khac Hieu, Truc Bach, Ba Dinh, Quận Ba Đình, Hà Nội, Việt Nam
+","9,0", · 200 đánh giá,0,,Căn hộ nguyên căn,"
+VND 1.200.000
+"
+303,local hotel,"
+59 Nguyen Khac Hieu, Truc Bach, Ba Dinh, Quận Ba Đình, Hà Nội, Việt Nam
+","9,0", · 200 đánh giá,0,,Căn hộ nguyên căn,"
+VND 1.260.000
+"
+304,local hotel,"
+59 Nguyen Khac Hieu, Truc Bach, Ba Dinh, Quận Ba Đình, Hà Nội, Việt Nam
+","9,0", · 200 đánh giá,0,,Căn hộ nguyên căn,"
+VND 1.380.000
+"
+305,local hotel,"
+45 Hang Bun , Quận Ba Đình, Hà Nội, Việt Nam
+","8,2", · 62 đánh giá,"
+2,4 km
+","
+1 giường đôi cực lớn
+
+",25 m²,"
+VND 1.100.000
+"
+306,local hotel,"
+45 Hang Bun , Quận Ba Đình, Hà Nội, Việt Nam
+","8,2", · 62 đánh giá,"
+2,4 km
+","
+1 giường đôi lớn
+
+",25 m²,"
+VND 1.300.000
+"
+307,local hotel,"
+45 Hang Bun , Quận Ba Đình, Hà Nội, Việt Nam
+","8,2", · 62 đánh giá,"
+2,4 km
+","
+2 giường đơn
+
+",45 m²,"
+VND 1.700.000
+"
+308,local hotel,"
+45 Hang Bun , Quận Ba Đình, Hà Nội, Việt Nam
+","8,2", · 62 đánh giá,"
+2,4 km
+","
+1 giường đôi lớn
+
+",30 m²,"
+VND 1.700.000
+"
+309,local hotel,"
+45 Hang Bun , Quận Ba Đình, Hà Nội, Việt Nam
+","8,2", · 62 đánh giá,"
+2,4 km
+","
+3 giường đơn
+
+",50 m²,"
+VND 2.600.000
+"
+310,local hotel,"
+62 Phạm Huy Thông Ngọc Khánh , Ba Đình , Hanoi , Vietnam, Quận Ba Đình, Hà Nội, Việt Nam
+","9,4", · 225 đánh giá,"
+4,4 km
+","
+1 giường đôi lớn
+
+",18 m²,"
+VND 1.120.000
+"
+311,local hotel,"
+62 Phạm Huy Thông Ngọc Khánh , Ba Đình , Hanoi , Vietnam, Quận Ba Đình, Hà Nội, Việt Nam
+","9,4", · 225 đánh giá,"
+4,4 km
+","
+1 giường đôi lớn
+
+",22 m²,"
+VND 1.398.000
+"
+312,local hotel,"
+62 Phạm Huy Thông Ngọc Khánh , Ba Đình , Hanoi , Vietnam, Quận Ba Đình, Hà Nội, Việt Nam
+","9,4", · 225 đánh giá,"
+4,4 km
+","
+2 giường đôi lớn
+
+",22 m²,"
+VND 1.260.000
+"
+314,local hotel,"
+Số 1 ngõ 7 Liễu Giai, Quận Ba Đình, Hà Nội, Việt Nam
+","9,0", · 56 đánh giá,"
+3,9 km
+","
+1 giường đôi cực lớn
+
+",Studio nguyên căn,"
+VND 1.700.000
+"
+316,local hotel,"
+B7 Giảng Võ, Quận Ba Đình, Hà Nội, Việt Nam
+","9,5", · 43 đánh giá,0,"
+2 giường đơn
+
+",45 m²,"
+VND 5.180.000
+"
+317,local hotel,"
+B7 Giảng Võ, Quận Ba Đình, Hà Nội, Việt Nam
+","9,5", · 43 đánh giá,0,"
+1 giường đôi cực lớn
+
+",48 m²,"
+VND 6.580.000
+"
+318,local hotel,"
+B7 Giảng Võ, Quận Ba Đình, Hà Nội, Việt Nam
+","9,5", · 43 đánh giá,0,"
+1 giường sofa
+
+",50 m²,"
+VND 7.180.000
+"
+319,local hotel,"
+B7 Giảng Võ, Quận Ba Đình, Hà Nội, Việt Nam
+","9,5", · 43 đánh giá,0,"
+2 giường đơn
+
+",46 m²,"
+VND 8.580.000
+"
+320,local hotel,"
+B7 Giảng Võ, Quận Ba Đình, Hà Nội, Việt Nam
+","9,5", · 43 đánh giá,0,"
+1 giường đôi cực lớn
+
+",46 m²,"
+VND 5.880.000
+"
+321,local hotel,"
+B7 Giảng Võ, Quận Ba Đình, Hà Nội, Việt Nam
+","9,5", · 43 đánh giá,0,"
+2 giường đơn
+
+",78 m²,"
+VND 5.980.000
+"
+322,local hotel,"
+B7 Giảng Võ, Quận Ba Đình, Hà Nội, Việt Nam
+","9,5", · 43 đánh giá,0,,90 m²,"
+VND 7.380.000
+"
+323,local hotel,"
+146 Giảng Võ, Quận Ba Đình, Hà Nội, Việt Nam
+","8,8", · 209 đánh giá,0,"
+1 giường đôi cực lớn
+
+",32 m²,"
+                VND 2.982.787
+            "
+324,local hotel,"
+146 Giảng Võ, Quận Ba Đình, Hà Nội, Việt Nam
+","8,8", · 209 đánh giá,0,"
+2 giường đơn
+
+",38 m²,"
+VND 3.216.510
+"
+325,local hotel,"
+146 Giảng Võ, Quận Ba Đình, Hà Nội, Việt Nam
+","8,8", · 209 đánh giá,0,"
+1 giường đôi cực lớn
+
+",38 m²,"
+VND 4.327.052
+"
+326,local hotel,"
+146 Giảng Võ, Quận Ba Đình, Hà Nội, Việt Nam
+","8,8", · 209 đánh giá,0,"
+1 giường đôi cực lớn
+
+",46 m²,"
+VND 4.543.405
+"
+327,local hotel,"
+146 Giảng Võ, Quận Ba Đình, Hà Nội, Việt Nam
+","8,8", · 209 đánh giá,0,"
+2 giường đơn
+
+",65 m²,"
+VND 3.672.900
+"
+328,local hotel,"
+146 Giảng Võ, Quận Ba Đình, Hà Nội, Việt Nam
+","8,8", · 209 đánh giá,0,,76 m²,"
+VND 4.554.396
+"
+329,local hotel,"
+146 Giảng Võ, Quận Ba Đình, Hà Nội, Việt Nam
+","8,8", · 209 đánh giá,0,,0,"
+VND 4.782.116
+"
+330,local hotel,"
+99 Lane 135 Doi Can street, Ba Dinh district, Hanoi, Vietnam, Quận Ba Đình, Hà Nội, Việt Nam
+","8,5", · 132 đánh giá,"
+2,6 km
+","
+1 giường đôi cực lớn
+
+",17 m²,"
+VND 733.320
+"
+331,local hotel,"
+99 Lane 135 Doi Can street, Ba Dinh district, Hanoi, Vietnam, Quận Ba Đình, Hà Nội, Việt Nam
+","8,5", · 132 đánh giá,"
+2,6 km
+","
+1 giường đôi cực lớn
+
+",18 m²,"
+VND 995.220
+"
+332,local hotel,"
+99 Lane 135 Doi Can street, Ba Dinh district, Hanoi, Vietnam, Quận Ba Đình, Hà Nội, Việt Nam
+","8,5", · 132 đánh giá,"
+2,6 km
+","
+1 giường tầng
+
+",25 m²,"
+VND 261.900
+"
+333,local hotel,"
+29 Liễu Giai, Quận Ba Đình, Hà Nội, Việt Nam
+","8,5", · 25 đánh giá,"
+3,9 km
+",,Căn hộ nguyên căn,"
+VND 3.940.000
+"
+334,local hotel,"
+29 Liễu Giai, Quận Ba Đình, Hà Nội, Việt Nam
+","8,5", · 25 đánh giá,"
+3,9 km
+",,Căn hộ nguyên căn,"
+VND 5.900.000
+"
+335,local hotel,"
+29 Liễu Giai, Quận Ba Đình, Hà Nội, Việt Nam
+","8,5", · 25 đánh giá,"
+3,9 km
+",,Căn hộ nguyên căn,"
+VND 9.998.000
+"
+336,local hotel,"
+Số 3 ngõ 77 lê hồng phong, ba đình, Quận Ba Đình, Hà Nội, Việt Nam
+","7,9", · 111 đánh giá,"
+2,4 km
+",,Căn hộ nguyên căn,"
+VND 810.000
+"
+337,local hotel,"
+Số 3 ngõ 77 lê hồng phong, ba đình, Quận Ba Đình, Hà Nội, Việt Nam
+","7,9", · 111 đánh giá,"
+2,4 km
+",,Căn hộ nguyên căn,"
+VND 900.000
+"
+338,local hotel,"
+Số 3 ngõ 77 lê hồng phong, ba đình, Quận Ba Đình, Hà Nội, Việt Nam
+","7,9", · 111 đánh giá,"
+2,4 km
+",,Căn hộ nguyên căn,"
+VND 810.000
+"
+339,local hotel,"
+160 Ngọc Hà 20, tầng 1, Quận Ba Đình, Hà Nội, Việt Nam
+","7,7", · 112 đánh giá,"
+2,7 km
+","
+1 giường tầng
+
+",50 m²,"
+VND 540.000
+"
+340,local hotel,"
+160 Ngọc Hà 20, tầng 1, Quận Ba Đình, Hà Nội, Việt Nam
+","7,7", · 112 đánh giá,"
+2,7 km
+","
+2 giường đôi lớn
+
+",30 m²,"
+VND 700.000
+"
+341,local hotel,"
+160 Ngọc Hà 20, tầng 1, Quận Ba Đình, Hà Nội, Việt Nam
+","7,7", · 112 đánh giá,"
+2,7 km
+","
+1 giường đôi lớn
+
+",30 m²,"
+VND 800.000
+"
+342,local hotel,"
+160 Ngọc Hà 20, tầng 1, Quận Ba Đình, Hà Nội, Việt Nam
+","7,7", · 112 đánh giá,"
+2,7 km
+","
+4 giường tầng
+
+",30 m²,"
+VND 500.000
+"
+343,local hotel,"
+160 Ngọc Hà 20, tầng 1, Quận Ba Đình, Hà Nội, Việt Nam
+","7,7", · 112 đánh giá,"
+2,7 km
+","
+4 giường tầng
+
+",40 m²,"
+VND 540.000
+"
+344,local hotel,"
+160 Ngọc Hà 20, tầng 1, Quận Ba Đình, Hà Nội, Việt Nam
+","7,7", · 112 đánh giá,"
+2,7 km
+","
+2 giường đôi
+
+",30 m²,"
+VND 486.000
+"
+345,local hotel,"
+109 Ngõ 189 Hoàng Hoa Thám, Quận Ba Đình, Hà Nội, Việt Nam
+",0,0,0,"
+1 giường đôi lớn
+
+",35 m²,"
+VND 577.500
+"
+346,local hotel,"
+87 Nguyễn Trường Tộ Truc Bach Ward, Ba Dinh District, Hanoi, Quận Ba Đình, Hà Nội, Việt Nam
+","9,1", · 45 đánh giá,"
+2,5 km
+","
+2 giường đơn
+
+",25 m²,"
+VND 2.034.900
+"
+347,local hotel,"
+87 Nguyễn Trường Tộ Truc Bach Ward, Ba Dinh District, Hanoi, Quận Ba Đình, Hà Nội, Việt Nam
+","9,1", · 45 đánh giá,"
+2,5 km
+","
+1 giường đôi
+
+",30 m²,"
+VND 2.394.000
+"
+348,local hotel,"
+87 Nguyễn Trường Tộ Truc Bach Ward, Ba Dinh District, Hanoi, Quận Ba Đình, Hà Nội, Việt Nam
+","9,1", · 45 đánh giá,"
+2,5 km
+","
+2 giường đơn
+
+",33 m²,"
+VND 2.356.200
+"
+349,local hotel,"
+87 Nguyễn Trường Tộ Truc Bach Ward, Ba Dinh District, Hanoi, Quận Ba Đình, Hà Nội, Việt Nam
+","9,1", · 45 đánh giá,"
+2,5 km
+","
+1 giường đôi lớn
+
+",35 m²,"
+VND 2.772.000
+"
+350,local hotel,"
+87 Nguyễn Trường Tộ Truc Bach Ward, Ba Dinh District, Hanoi, Quận Ba Đình, Hà Nội, Việt Nam
+","9,1", · 45 đánh giá,"
+2,5 km
+","
+2 giường đơn
+
+",45 m²,"
+VND 2.677.500
+"
+351,local hotel,"
+20 Linh Lang, Quận Ba Đình, Hà Nội, Việt Nam
+","9,1", · 49 đánh giá,"
+4,5 km
+","
+1 giường đôi cực lớn
+
+",Căn hộ nguyên căn,"
+VND 1.450.000
+"
+353,local hotel,"
+20 Linh Lang, Quận Ba Đình, Hà Nội, Việt Nam
+","9,1", · 49 đánh giá,"
+4,5 km
+",,Căn hộ nguyên căn,"
+VND 1.500.000
+"
+354,local hotel,"
+20 Linh Lang, Quận Ba Đình, Hà Nội, Việt Nam
+","9,1", · 49 đánh giá,"
+4,5 km
+",,Căn hộ nguyên căn,"
+VND 1.500.000
+"
+355,hotel,"
+17 Hang Ga, Hang Bo, Hoan Kiem, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,2", · 489 đánh giá,"
+2 km
+","
+2 giường đơn
+
+",20 m²,"
+VND 1.100.000
+"
+356,hotel,"
+17 Hang Ga, Hang Bo, Hoan Kiem, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,2", · 489 đánh giá,"
+2 km
+","
+1 giường đôi
+
+",25 m²,"
+VND 1.290.000
+"
+357,hotel,"
+17 Hang Ga, Hang Bo, Hoan Kiem, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,2", · 489 đánh giá,"
+2 km
+","
+1 giường đôi
+
+",25 m²,"
+VND 1.290.000
+"
+358,hotel,"
+17 Hang Ga, Hang Bo, Hoan Kiem, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,2", · 489 đánh giá,"
+2 km
+","
+2 giường đơn
+
+",30 m²,"
+VND 1.400.000
+"
+359,hotel,"
+17 Hang Ga, Hang Bo, Hoan Kiem, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,2", · 489 đánh giá,"
+2 km
+","
+1 giường đôi cực lớn
+
+",45 m²,"
+VND 1.880.000
+"
+360,hotel,"
+17 Hang Ga, Hang Bo, Hoan Kiem, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,2", · 489 đánh giá,"
+2 km
+","
+2 giường đơn
+
+",45 m²,"
+VND 2.400.000
+"
+361,hotel,"
+20 Lo Su Street , Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,2", · 669 đánh giá,0,"
+2 giường đơn
+
+",20 m²,"
+VND 1.485.000
+"
+362,hotel,"
+20 Lo Su Street , Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,2", · 669 đánh giá,0,"
+1 giường đôi lớn
+
+",21 m²,"
+VND 1.584.000
+"
+363,hotel,"
+20 Lo Su Street , Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,2", · 669 đánh giá,0,"
+2 giường đơn
+
+",22 m²,"
+VND 1.881.000
+"
+364,hotel,"
+20 Lo Su Street , Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,2", · 669 đánh giá,0,"
+1 giường đôi lớn
+
+",25 m²,"
+VND 2.156.880
+"
+365,hotel,"
+20 Lo Su Street , Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,2", · 669 đánh giá,0,"
+2 giường đơn
+
+",32 m²,"
+VND 1.941.192
+"
+366,hotel,"
+20 Lo Su Street , Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,2", · 669 đánh giá,0,"
+1 giường đôi
+
+",32 m²,"
+VND 2.805.000
+"
+367,hotel,"
+20 Lo Su Street , Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,2", · 669 đánh giá,0,"
+2 giường đôi lớn
+
+",45 m²,"
+VND 3.432.000
+"
+368,hotel,"
+20 Lo Su Street , Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,2", · 669 đánh giá,0,"
+2 giường đôi lớn
+
+",40 m²,"
+VND 3.630.000
+"
+369,hotel,"
+20 Lo Su Street , Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,2", · 669 đánh giá,0,"
+2 giường đơn
+
+",45 m²,"
+VND 3.630.000
+"
+370,hotel,"
+67, Hang Thiec Road, Hoan Kiem, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,1", · 342 đánh giá,"
+5,2 km
+","
+1 giường đôi cực lớn
+
+",25 m²,"
+VND 704.000
+"
+371,hotel,"
+67, Hang Thiec Road, Hoan Kiem, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,1", · 342 đánh giá,"
+5,2 km
+","
+2 giường đơn
+
+",25 m²,"
+VND 1.344.000
+"
+372,hotel,"
+67, Hang Thiec Road, Hoan Kiem, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,1", · 342 đánh giá,"
+5,2 km
+","
+1 giường đôi cực lớn
+
+",28 m²,"
+VND 1.472.000
+"
+373,hotel,"
+67, Hang Thiec Road, Hoan Kiem, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,1", · 342 đánh giá,"
+5,2 km
+","
+2 giường đơn
+
+",35 m²,"
+VND 2.048.000
+"
+374,hotel,"
+94 Ly Thuong Kiet Street, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,4", · 88 đánh giá,"
+2 km
+","
+2 giường đơn
+
+",25 m²,"
+VND 2.480.000
+"
+375,hotel,"
+94 Ly Thuong Kiet Street, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,4", · 88 đánh giá,"
+2 km
+","
+1 giường đôi lớn
+
+",25 m²,"
+VND 2.790.000
+"
+376,hotel,"
+94 Ly Thuong Kiet Street, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,4", · 88 đánh giá,"
+2 km
+","
+1 giường đôi lớn
+
+",27 m²,"
+VND 2.940.000
+"
+377,hotel,"
+94 Ly Thuong Kiet Street, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,4", · 88 đánh giá,"
+2 km
+","
+1 giường đôi lớn
+
+",37 m²,"
+VND 3.560.000
+"
+378,hotel,"
+1C Tong Dan, Hoan Kiem, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,2", · 59 đánh giá,"
+3,3 km
+","
+1 giường đôi lớn
+
+",25 m²,"
+VND 986.000
+"
+379,hotel,"
+1C Tong Dan, Hoan Kiem, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,2", · 59 đánh giá,"
+3,3 km
+","
+2 giường đơn
+
+",25 m²,"
+VND 4.237.978
+"
+380,hotel,"
+1C Tong Dan, Hoan Kiem, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,2", · 59 đánh giá,"
+3,3 km
+","
+1 giường đôi lớn
+
+",30 m²,"
+VND 4.708.866
+"
+381,hotel,"
+1C Tong Dan, Hoan Kiem, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,2", · 59 đánh giá,"
+3,3 km
+","
+2 giường đơn
+
+",35 m²,"
+VND 5.640.750
+"
+382,hotel,"
+1C Tong Dan, Hoan Kiem, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,2", · 59 đánh giá,"
+3,3 km
+","
+1 giường đôi
+
+",40 m²,"
+VND 6.267.501
+"
+383,hotel,"
+1C Tong Dan, Hoan Kiem, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,2", · 59 đánh giá,"
+3,3 km
+","
+2 giường đơn
+
+",50 m²,"
+VND 6.666.341
+"
+384,hotel,"
+1C Tong Dan, Hoan Kiem, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,2", · 59 đánh giá,"
+3,3 km
+","
+1 giường đôi
+
+",50 m²,"
+VND 7.407.046
+"
+385,hotel,"
+1C Tong Dan, Hoan Kiem, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,2", · 59 đánh giá,"
+3,3 km
+","
+3 giường đơn
+
+",25 m²,"
+VND 7.691.932
+"
+386,hotel,"
+26 Nam Ngư, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,7", · 28 đánh giá,0,"
+2 giường đôi cực lớn
+
+",17 m²,"
+VND 1.438.880
+"
+387,hotel,"
+26 Nam Ngư, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,7", · 28 đánh giá,0,"
+1 giường đôi
+
+",21 m²,"
+VND 1.564.000
+"
+388,hotel,"
+26 Nam Ngư, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,7", · 28 đánh giá,0,"
+1 giường đôi
+
+",30 m²,"
+VND 1.294.992
+"
+389,hotel,"
+26 Nam Ngư, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,7", · 28 đánh giá,0,"
+1 giường đôi lớn
+
+",170 m²,"
+VND 1.407.600
+"
+390,hotel,"
+22 Miếu Đầm, Mễ Trì, Từ Liêm, Hà Nội, Vietnam, Hà Nội, Việt Nam
+","8,4", · 24 đánh giá,"
+7,7 km
+","
+1 giường đôi lớn
+
+",25 m²,"
+VND 2.100.000
+"
+391,hotel,"
+22 Miếu Đầm, Mễ Trì, Từ Liêm, Hà Nội, Vietnam, Hà Nội, Việt Nam
+","8,4", · 24 đánh giá,"
+7,7 km
+","
+1 giường đôi lớn
+
+",27 m²,"
+VND 2.400.000
+"
+392,hotel,"
+22 Miếu Đầm, Mễ Trì, Từ Liêm, Hà Nội, Vietnam, Hà Nội, Việt Nam
+","8,4", · 24 đánh giá,"
+7,7 km
+","
+1 giường đôi lớn
+
+",30 m²,"
+VND 2.700.000
+"
+393,hotel,"
+22 Miếu Đầm, Mễ Trì, Từ Liêm, Hà Nội, Vietnam, Hà Nội, Việt Nam
+","8,4", · 24 đánh giá,"
+7,7 km
+","
+1 giường đôi cực lớn
+
+",35 m²,"
+VND 3.100.000
+"
+394,hotel,"
+22 Miếu Đầm, Mễ Trì, Từ Liêm, Hà Nội, Vietnam, Hà Nội, Việt Nam
+","8,4", · 24 đánh giá,"
+7,7 km
+","
+1 giường đơn
+
+",38 m²,"
+VND 3.600.000
+"
+395,hotel,"
+6 Ngõ 80 Trần Duy Hưng, Cau Giay, Hà Nội, Việt Nam
+","9,1", · 121 đánh giá,0,"
+1 giường đôi lớn
+
+",22 m²,"
+VND 603.500
+"
+396,hotel,"
+6 Ngõ 80 Trần Duy Hưng, Cau Giay, Hà Nội, Việt Nam
+","9,1", · 121 đánh giá,0,"
+1 giường đôi lớn
+
+",22 m²,"
+VND 1.148.775
+"
+397,hotel,"
+6 Ngõ 80 Trần Duy Hưng, Cau Giay, Hà Nội, Việt Nam
+","9,1", · 121 đánh giá,0,"
+1 giường đôi lớn
+
+",25 m²,"
+VND 1.216.350
+"
+398,hotel,"
+6 Ngõ 80 Trần Duy Hưng, Cau Giay, Hà Nội, Việt Nam
+","9,1", · 121 đánh giá,0,"
+1 giường đơn
+
+",39 m²,"
+VND 1.500.165
+"
+399,hotel,"
+C3/D6 New Cau Giay Residence, Tran Thai Tong Street, Dich Vong Ward, Cau Giay District, Hanoi, Vietnam, Cau Giay, Hà Nội, Việt Nam
+","8,7", · 12 đánh giá,"
+6,5 km
+","
+1 giường đôi lớn
+
+",20 m²,"
+VND 1.149.000
+"
+400,hotel,"
+C3/D6 New Cau Giay Residence, Tran Thai Tong Street, Dich Vong Ward, Cau Giay District, Hanoi, Vietnam, Cau Giay, Hà Nội, Việt Nam
+","8,7", · 12 đánh giá,"
+6,5 km
+","
+1 giường đôi lớn
+
+",25 m²,"
+VND 1.296.000
+"
+401,hotel,"
+C3/D6 New Cau Giay Residence, Tran Thai Tong Street, Dich Vong Ward, Cau Giay District, Hanoi, Vietnam, Cau Giay, Hà Nội, Việt Nam
+","8,7", · 12 đánh giá,"
+6,5 km
+","
+1 giường đôi cực lớn
+
+",30 m²,"
+VND 1.440.000
+"
+402,hotel,"
+46 - 48 Bat Su Street, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,2", · 667 đánh giá,"
+4,2 km
+","
+1 giường đôi lớn
+
+",20 m²,"
+VND 1.550.000
+"
+403,hotel,"
+46 - 48 Bat Su Street, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,2", · 667 đánh giá,"
+4,2 km
+","
+2 giường đơn
+
+",20 m²,"
+VND 1.650.000
+"
+404,hotel,"
+46 - 48 Bat Su Street, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,2", · 667 đánh giá,"
+4,2 km
+","
+1 giường đơn
+
+",30 m²,"
+VND 2.000.000
+"
+405,hotel,"
+46 - 48 Bat Su Street, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,2", · 667 đánh giá,"
+4,2 km
+","
+1 giường đôi lớn
+
+",30 m²,"
+VND 2.000.000
+"
+406,hotel,"
+46 - 48 Bat Su Street, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,2", · 667 đánh giá,"
+4,2 km
+","
+1 giường đơn
+
+",30 m²,"
+VND 2.500.000
+"
+407,hotel,"
+46 - 48 Bat Su Street, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,2", · 667 đánh giá,"
+4,2 km
+","
+1 giường đôi lớn
+
+",35 m²,"
+VND 2.900.000
+"
+408,hotel,"
+46 - 48 Bat Su Street, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,2", · 667 đánh giá,"
+4,2 km
+","
+2 giường đôi lớn
+
+",35 m²,"
+VND 3.200.000
+"
+409,hotel,"
+46 - 48 Bat Su Street, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,2", · 667 đánh giá,"
+4,2 km
+","
+2 giường đôi lớn
+
+",40 m²,"
+VND 3.600.000
+"
+410,hotel,"
+143 Kim Mã, Quận Ba Đình, Hà Nội, Việt Nam
+","8,6", · 205 đánh giá,"
+2,8 km
+","
+1 giường đôi cực lớn
+
+",25 m²,"
+VND 649.800
+"
+411,hotel,"
+143 Kim Mã, Quận Ba Đình, Hà Nội, Việt Nam
+","8,6", · 205 đánh giá,"
+2,8 km
+","
+1 giường đôi cực lớn
+
+",25 m²,"
+VND 1.555.200
+"
+412,hotel,"
+143 Kim Mã, Quận Ba Đình, Hà Nội, Việt Nam
+","8,6", · 205 đánh giá,"
+2,8 km
+","
+1 giường đôi cực lớn
+
+",25 m²,"
+VND 1.684.210
+"
+413,hotel,"
+143 Kim Mã, Quận Ba Đình, Hà Nội, Việt Nam
+","8,6", · 205 đánh giá,"
+2,8 km
+","
+1 giường đôi cực lớn
+
+",30 m²,"
+VND 1.964.912
+"
+414,hotel,"
+143 Kim Mã, Quận Ba Đình, Hà Nội, Việt Nam
+","8,6", · 205 đánh giá,"
+2,8 km
+","
+1 giường đôi cực lớn
+
+",25 m²,"
+VND 2.245.614
+"
+415,hotel,"
+55 Bat Su Street, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,7", · 573 đánh giá,"
+4,1 km
+","
+1 giường đôi
+
+",25 m²,"
+VND 442.000
+"
+416,hotel,"
+55 Bat Su Street, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,7", · 573 đánh giá,"
+4,1 km
+","
+1 giường tầng
+
+",40 m²,"
+VND 299.000
+"
+417,hotel,"
+55 Bat Su Street, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,7", · 573 đánh giá,"
+4,1 km
+","
+1 giường đơn
+
+",25 m²,"
+VND 351.000
+"
+418,hotel,"
+55 Bat Su Street, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,7", · 573 đánh giá,"
+4,1 km
+","
+1 giường đơn
+
+",25 m²,"
+VND 383.500
+"
+419,hotel,"
+Nhà Chung 15A Nha Chung Alley, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,2", · 129 đánh giá,"
+2,8 km
+","
+1 giường đôi lớn
+
+",25 m²,"
+VND 810.000
+"
+420,hotel,"
+23 Lo Su Street, Hoan Kiem District, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,2", · 709 đánh giá,"
+2,4 km
+","
+1 giường đôi lớn
+
+",20 m²,"
+VND 1.260.000
+"
+421,hotel,"
+23 Lo Su Street, Hoan Kiem District, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,2", · 709 đánh giá,"
+2,4 km
+","
+1 giường đôi lớn
+
+",25 m²,"
+VND 1.369.200
+"
+422,hotel,"
+23 Lo Su Street, Hoan Kiem District, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,2", · 709 đánh giá,"
+2,4 km
+","
+1 giường đơn
+
+",35 m²,"
+VND 1.675.800
+"
+423,hotel,"
+23 Lo Su Street, Hoan Kiem District, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,2", · 709 đánh giá,"
+2,4 km
+","
+1 giường đôi cực lớn
+
+",45 m²,"
+VND 1.717.800
+"
+424,hotel,"
+23 Lo Su Street, Hoan Kiem District, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,2", · 709 đánh giá,"
+2,4 km
+","
+2 giường đơn
+
+",40 m²,"
+VND 2.100.000
+"
+425,hotel,"
+23 Lo Su Street, Hoan Kiem District, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,2", · 709 đánh giá,"
+2,4 km
+","
+1 giường đôi cực lớn
+
+",55 m²,"
+VND 8.550.000
+"
+426,hotel,"
+23 Lo Su Street, Hoan Kiem District, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,2", · 709 đánh giá,"
+2,4 km
+","
+1 giường đơn
+
+",58 m²,"
+VND 2.184.000
+"
+427,hotel,"
+18/76 Trần Thái Tông, Phường Dịch Vọng Hậu, quận Cầu Giấy, Hà Nội, Cau Giay, Hà Nội, Việt Nam
+","9,2", · 95 đánh giá,"
+6,7 km
+","
+1 giường đôi cực lớn
+
+",55 m²,"
+VND 1.969.500
+"
+428,hotel,"
+18/76 Trần Thái Tông, Phường Dịch Vọng Hậu, quận Cầu Giấy, Hà Nội, Cau Giay, Hà Nội, Việt Nam
+","9,2", · 95 đánh giá,"
+6,7 km
+","
+1 giường đôi cực lớn
+
+",45 m²,"
+VND 2.132.800
+"
+429,hotel,"
+57 Lo Su Street, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,4", · 431 đánh giá,"
+2,3 km
+","
+2 giường đơn
+
+",18 m²,"
+VND 1.234.628
+"
+430,hotel,"
+57 Lo Su Street, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,4", · 431 đánh giá,"
+2,3 km
+","
+1 giường đôi cực lớn
+
+",20 m²,"
+VND 1.371.428
+"
+431,hotel,"
+57 Lo Su Street, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,4", · 431 đánh giá,"
+2,3 km
+","
+2 giường đơn
+
+",21 m²,"
+VND 1.583.062
+"
+432,hotel,"
+57 Lo Su Street, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,4", · 431 đánh giá,"
+2,3 km
+","
+1 giường đôi cực lớn
+
+",26 m²,"
+VND 1.719.863
+"
+433,hotel,"
+57 Lo Su Street, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,4", · 431 đánh giá,"
+2,3 km
+","
+1 giường đôi cực lớn
+
+",23 m²,"
+VND 1.723.780
+"
+434,hotel,"
+57 Lo Su Street, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,4", · 431 đánh giá,"
+2,3 km
+","
+2 giường đơn
+
+",25 m²,"
+VND 1.860.580
+"
+435,hotel,"
+57 Lo Su Street, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,4", · 431 đánh giá,"
+2,3 km
+","
+1 giường đôi cực lớn
+
+",27 m²,"
+VND 2.124.804
+"
+436,hotel,"
+57 Lo Su Street, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,4", · 431 đánh giá,"
+2,3 km
+","
+1 giường đôi cực lớn
+
+",45 m²,"
+VND 2.261.604
+"
+437,hotel,"
+72A Nguyễn Trãi, phường Thượng Đình, quận Thanh Xuân R5.3312A, Quận Thanh Xuân, Hà Nội, Việt Nam
+",0,0,"
+5,1 km
+",,Căn hộ nguyên căn,"
+VND 4.653.000
+"
+438,hotel,"
+29 Liễu Giai Vinhomes Metropolis, Quận Ba Đình, Hà Nội, Việt Nam
+","9,5", · 47 đánh giá,"
+3,9 km
+",,60 m²,"
+VND 3.980.000
+"
+439,hotel,"
+29 Liễu Giai Vinhomes Metropolis, Quận Ba Đình, Hà Nội, Việt Nam
+","9,5", · 47 đánh giá,"
+3,9 km
+",,75 m²,"
+VND 3.980.000
+"
+440,hotel,"
+29 Liễu Giai Vinhomes Metropolis, Quận Ba Đình, Hà Nội, Việt Nam
+","9,5", · 47 đánh giá,"
+3,9 km
+",,80 m²,"
+VND 5.560.000
+"
+441,hotel,"
+29 Liễu Giai Vinhomes Metropolis, Quận Ba Đình, Hà Nội, Việt Nam
+","9,5", · 47 đánh giá,"
+3,9 km
+",,85 m²,"
+VND 5.580.000
+"
+442,hotel,"
+29 Liễu Giai Vinhomes Metropolis, Quận Ba Đình, Hà Nội, Việt Nam
+","9,5", · 47 đánh giá,"
+3,9 km
+",,85 m²,"
+VND 5.580.000
+"
+443,hotel,"
+29 Liễu Giai Vinhomes Metropolis, Quận Ba Đình, Hà Nội, Việt Nam
+","9,5", · 47 đánh giá,"
+3,9 km
+",,85 m²,"
+VND 5.580.000
+"
+444,hotel,"
+29 Liễu Giai Vinhomes Metropolis, Quận Ba Đình, Hà Nội, Việt Nam
+","9,5", · 47 đánh giá,"
+3,9 km
+",,85 m²,"
+VND 5.780.000
+"
+445,hotel,"
+29 Liễu Giai Vinhomes Metropolis, Quận Ba Đình, Hà Nội, Việt Nam
+","9,5", · 47 đánh giá,"
+3,9 km
+",,85 m²,"
+VND 5.780.000
+"
+446,hotel,"
+29 Liễu Giai Vinhomes Metropolis, Quận Ba Đình, Hà Nội, Việt Nam
+","9,5", · 47 đánh giá,"
+3,9 km
+",,110 m²,"
+VND 7.000.000
+"
+447,hotel,"
+29 Liễu Giai Vinhomes Metropolis, Quận Ba Đình, Hà Nội, Việt Nam
+","9,5", · 47 đánh giá,"
+3,9 km
+",,150 m²,"
+VND 8.300.000
+"
+448,hotel,"
+11 Lieu Giai, Ba Dinh, Quận Ba Đình, Hà Nội, Việt Nam
+","8,4", · 100 đánh giá,"
+3,9 km
+","
+1 giường đôi lớn
+
+",28 m²,"
+VND 3.780.000
+"
+449,hotel,"
+11 Lieu Giai, Ba Dinh, Quận Ba Đình, Hà Nội, Việt Nam
+","8,4", · 100 đánh giá,"
+3,9 km
+","
+2 giường đơn
+
+",35 m²,"
+VND 3.465.000
+"
+450,hotel,"
+11 Lieu Giai, Ba Dinh, Quận Ba Đình, Hà Nội, Việt Nam
+","8,4", · 100 đánh giá,"
+3,9 km
+","
+1 giường đôi cực lớn
+
+",43 m²,"
+VND 4.095.000
+"
+451,hotel,"
+11 Lieu Giai, Ba Dinh, Quận Ba Đình, Hà Nội, Việt Nam
+","8,4", · 100 đánh giá,"
+3,9 km
+","
+1 giường đôi cực lớn
+
+",50 m²,"
+VND 3.780.000
+"
+452,hotel,"
+11 Lieu Giai, Ba Dinh, Quận Ba Đình, Hà Nội, Việt Nam
+","8,4", · 100 đánh giá,"
+3,9 km
+",,55 m²,"
+VND 4.410.000
+"
+453,hotel,"
+27 Tong Duy Tan, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,4", · 215 đánh giá,"
+1,7 km
+","
+1 giường đôi lớn
+
+",20 m²,"
+VND 913.275
+"
+454,hotel,"
+27 Tong Duy Tan, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,4", · 215 đánh giá,"
+1,7 km
+","
+2 giường đơn
+
+",25 m²,"
+VND 922.500
+"
+455,hotel,"
+27 Tong Duy Tan, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,4", · 215 đánh giá,"
+1,7 km
+","
+1 giường đôi lớn
+
+",30 m²,"
+VND 1.143.450
+"
+456,hotel,"
+27 Tong Duy Tan, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,4", · 215 đánh giá,"
+1,7 km
+",,40 m²,"
+VND 1.155.000
+"
+457,hotel,"
+29 Hang Manh, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,5", · 319 đánh giá,"
+2,4 km
+","
+1 giường đôi cực lớn
+
+",25 m²,"
+VND 1.170.000
+"
+458,hotel,"
+29 Hang Manh, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,5", · 319 đánh giá,"
+2,4 km
+","
+2 giường đơn
+
+",25 m²,"
+VND 1.350.000
+"
+459,hotel,"
+29 Hang Manh, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,5", · 319 đánh giá,"
+2,4 km
+","
+1 giường đôi cực lớn
+
+",22 m²,"
+VND 1.620.000
+"
+460,hotel,"
+29 Hang Manh, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,5", · 319 đánh giá,"
+2,4 km
+","
+2 giường đơn
+
+",25 m²,"
+VND 1.800.000
+"
+461,hotel,"
+29 Hang Manh, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,5", · 319 đánh giá,"
+2,4 km
+","
+1 giường đơn
+
+",30 m²,"
+VND 2.250.000
+"
+462,hotel,"
+3 Hang Dau, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,6", · 148 đánh giá,"
+2,2 km
+","
+1 giường đôi lớn
+
+",25 m²,"
+VND 1.000.000
+"
+463,hotel,"
+3 Hang Dau, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,6", · 148 đánh giá,"
+2,2 km
+","
+1 giường đôi lớn
+
+",25 m²,"
+VND 1.508.000
+"
+464,hotel,"
+3 Hang Dau, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,6", · 148 đánh giá,"
+2,2 km
+","
+2 giường đơn
+
+",28 m²,"
+VND 1.740.000
+"
+465,hotel,"
+3 Hang Dau, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,6", · 148 đánh giá,"
+2,2 km
+","
+2 giường đơn
+
+",32 m²,"
+VND 2.320.000
+"
+466,hotel,"
+3 Hang Dau, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,6", · 148 đánh giá,"
+2,2 km
+","
+1 giường đôi lớn
+
+",32 m²,"
+VND 2.900.000
+"
+467,hotel,"
+3 Hang Dau, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,6", · 148 đánh giá,"
+2,2 km
+","
+1 giường đôi lớn
+
+",60 m²,"
+VND 3.016.000
+"
+468,hotel,"
+3 Hang Dau, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,6", · 148 đánh giá,"
+2,2 km
+","
+1 giường đơn
+
+",60 m²,"
+VND 3.480.000
+"
+469,hotel,"
+47, Nguyen Dinh Thi, Tay Ho, Quận Tây Hồ, Hà Nội, Việt Nam
+","8,5", · 251 đánh giá,"
+3,1 km
+",,Căn hộ nguyên căn,"
+VND 700.000
+"
+470,hotel,"
+47, Nguyen Dinh Thi, Tay Ho, Quận Tây Hồ, Hà Nội, Việt Nam
+","8,5", · 251 đánh giá,"
+3,1 km
+",,Căn hộ nguyên căn,"
+VND 1.050.000
+"
+471,hotel,"
+12 Ngo Gach, Hang Buom, Hoan Kiem, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,3", · 507 đánh giá,"
+4,5 km
+","
+1 giường đôi lớn
+
+",20 m²,"
+VND 583.200
+"
+472,hotel,"
+12 Ngo Gach, Hang Buom, Hoan Kiem, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,3", · 507 đánh giá,"
+4,5 km
+","
+2 giường đơn
+
+",20 m²,"
+VND 729.000
+"
+473,hotel,"
+12 Ngo Gach, Hang Buom, Hoan Kiem, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,3", · 507 đánh giá,"
+4,5 km
+","
+1 giường đơn
+
+",22 m²,"
+VND 801.900
+"
+474,hotel,"
+12 Ngo Gach, Hang Buom, Hoan Kiem, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,3", · 507 đánh giá,"
+4,5 km
+","
+1 giường đôi lớn
+
+",25 m²,"
+VND 947.700
+"
+475,hotel,"
+40 Hàng Buồm, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,5", · 43 đánh giá,0,"
+1 giường đôi lớn
+
+",20 m²,"
+                        
+
+    VND 1.601.846
+
+
+					"
+476,hotel,"
+40 Hàng Buồm, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,5", · 43 đánh giá,0,"
+2 giường đơn
+
+",25 m²,"
+VND 1.827.000
+"
+477,hotel,"
+40 Hàng Buồm, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,5", · 43 đánh giá,0,"
+1 giường đôi lớn
+
+",35 m²,"
+VND 2.205.000
+"
+478,hotel,"
+40 Hàng Buồm, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,5", · 43 đánh giá,0,"
+2 giường đơn
+
+",30 m²,"
+VND 2.835.000
+"
+479,hotel,"
+40 Hàng Buồm, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,5", · 43 đánh giá,0,"
+1 giường đôi lớn
+
+",55 m²,"
+VND 3.150.000
+"
+480,hotel,"
+40 Hàng Buồm, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,5", · 43 đánh giá,0,"
+2 giường đơn
+
+",60 m²,"
+VND 4.347.000
+"
+481,hotel,"
+40 Hàng Buồm, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,5", · 43 đánh giá,0,"
+3 giường đơn
+
+",0,"
+VND 4.725.000
+"
+482,apartment,"
+Phan Kế Bính Số 148, Quận Ba Đình, Hà Nội, Việt Nam
+","9,0", · 32 đánh giá,"
+4,6 km
+","
+1 giường đôi lớn
+
+",Studio nguyên căn,"
+VND 1.270.114
+"
+483,apartment,"
+Phan Kế Bính Số 148, Quận Ba Đình, Hà Nội, Việt Nam
+","9,0", · 32 đánh giá,"
+4,6 km
+","
+2 giường đơn
+
+",Căn hộ nguyên căn,"
+VND 2.763.429
+"
+484,apartment,"
+Phan Kế Bính Số 148, Quận Ba Đình, Hà Nội, Việt Nam
+","9,0", · 32 đánh giá,"
+4,6 km
+","
+1 giường đôi lớn
+
+",Studio nguyên căn,"
+VND 2.944.114
+"
+485,apartment,"
+Phan Kế Bính Số 148, Quận Ba Đình, Hà Nội, Việt Nam
+","9,0", · 32 đánh giá,"
+4,6 km
+","
+2 giường đơn
+
+",Căn hộ nguyên căn,"
+VND 1.845.238
+"
+486,apartment,"
+02 Nguyen Dinh Hoan, Cau Giay, Hà Nội, Việt Nam
+","8,9", · 291 đánh giá,"
+5,1 km
+","
+2 giường đơn
+
+",30 m²,"
+VND 1.858.000
+"
+487,apartment,"
+02 Nguyen Dinh Hoan, Cau Giay, Hà Nội, Việt Nam
+","8,9", · 291 đánh giá,"
+5,1 km
+","
+1 giường đôi cực lớn
+
+",22 m²,"
+VND 1.998.000
+"
+488,apartment,"
+02 Nguyen Dinh Hoan, Cau Giay, Hà Nội, Việt Nam
+","8,9", · 291 đánh giá,"
+5,1 km
+","
+1 giường đơn
+
+",25 m²,"
+VND 1.500.000
+"
+489,apartment,"
+02 Nguyen Dinh Hoan, Cau Giay, Hà Nội, Việt Nam
+","8,9", · 291 đánh giá,"
+5,1 km
+","
+1 giường đôi cực lớn
+
+",25 m²,"
+VND 1.598.000
+"
+490,apartment,"
+02 Nguyen Dinh Hoan, Cau Giay, Hà Nội, Việt Nam
+","8,9", · 291 đánh giá,"
+5,1 km
+","
+2 giường đôi cực lớn
+
+",22 m²,"
+VND 1.600.000
+"
+491,apartment,"
+02 Nguyen Dinh Hoan, Cau Giay, Hà Nội, Việt Nam
+","8,9", · 291 đánh giá,"
+5,1 km
+","
+2 giường đơn
+
+",28 m²,"
+VND 1.630.000
+"
+492,apartment,"
+02 Nguyen Dinh Hoan, Cau Giay, Hà Nội, Việt Nam
+","8,9", · 291 đánh giá,"
+5,1 km
+","
+1 giường đôi cực lớn
+
+",28 m²,"
+VND 1.858.000
+"
+493,apartment,"
+02 Nguyen Dinh Hoan, Cau Giay, Hà Nội, Việt Nam
+","8,9", · 291 đánh giá,"
+5,1 km
+","
+1 giường đơn
+
+",58 m²,"
+VND 1.900.000
+"
+494,apartment,"
+59 Cua Dong, Hoan Kiem, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,4", · 635 đánh giá,"
+1,8 km
+","
+1 giường đôi lớn
+
+",18 m²,"
+                        
+
+    VND 808.821
+
+
+					"
+495,apartment,"
+59 Cua Dong, Hoan Kiem, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,4", · 635 đánh giá,"
+1,8 km
+","
+2 giường đơn
+
+",28 m²,"
+VND 1.328.000
+"
+496,apartment,"
+59 Cua Dong, Hoan Kiem, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,4", · 635 đánh giá,"
+1,8 km
+","
+1 giường đơn
+
+",40 m²,"
+VND 1.472.000
+"
+497,apartment,"
+59 Cua Dong, Hoan Kiem, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,4", · 635 đánh giá,"
+1,8 km
+","
+1 giường đôi lớn
+
+",35 m²,"
+VND 1.552.000
+"
+498,apartment,"
+59 Cua Dong, Hoan Kiem, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,4", · 635 đánh giá,"
+1,8 km
+","
+1 giường đôi lớn
+
+",0,"
+VND 1.680.000
+"
+500,apartment,"
+185 Trích Sài, Quận Tây Hồ, Hà Nội, Việt Nam
+","8,3", · 179 đánh giá,0,"
+1 giường đôi lớn
+
+",Căn hộ nguyên căn,"
+VND 1.629.960
+"
+501,apartment,"
+185 Trích Sài, Quận Tây Hồ, Hà Nội, Việt Nam
+","8,3", · 179 đánh giá,0,"
+1 giường đôi lớn
+
+",Studio nguyên căn,"
+VND 1.598.000
+"
+502,apartment,"
+185 Trích Sài, Quận Tây Hồ, Hà Nội, Việt Nam
+","8,3", · 179 đánh giá,0,"
+1 giường đôi lớn
+
+",Căn hộ nguyên căn,"
+VND 1.980.000
+"
+503,apartment,"
+185 Trích Sài, Quận Tây Hồ, Hà Nội, Việt Nam
+","8,3", · 179 đánh giá,0,,Căn hộ nguyên căn,"
+VND 2.598.000
+"
+504,apartment,"
+185 Trích Sài, Quận Tây Hồ, Hà Nội, Việt Nam
+","8,3", · 179 đánh giá,0,,Căn hộ nguyên căn,"
+VND 1.300.000
+"
+505,apartment,"
+Lot D2/D6, No. 05 Tho Thap Street, Dich Vong Hau Ward, Cau Giay District, Cau Giay, Hà Nội, Việt Nam
+","8,7", · 88 đánh giá,"
+6,6 km
+","
+1 giường đôi cực lớn
+
+",Studio nguyên căn,"
+VND 2.455.750
+"
+506,apartment,"
+Lot D2/D6, No. 05 Tho Thap Street, Dich Vong Hau Ward, Cau Giay District, Cau Giay, Hà Nội, Việt Nam
+","8,7", · 88 đánh giá,"
+6,6 km
+","
+1 giường đôi cực lớn
+
+",Căn hộ nguyên căn,"
+VND 2.585.000
+"
+507,apartment,"
+Lot D2/D6, No. 05 Tho Thap Street, Dich Vong Hau Ward, Cau Giay District, Cau Giay, Hà Nội, Việt Nam
+","8,7", · 88 đánh giá,"
+6,6 km
+",,Căn hộ nguyên căn,"
+VND 2.545.050
+"
+509,apartment,"
+Lot D2/D6, No. 05 Tho Thap Street, Dich Vong Hau Ward, Cau Giay District, Cau Giay, Hà Nội, Việt Nam
+","8,7", · 88 đánh giá,"
+6,6 km
+",,Căn hộ nguyên căn,"
+VND 2.768.300
+"
+510,apartment,"
+89 Phố Trần Quốc Vượng, Cau Giay, Hà Nội, Việt Nam
+",0,0,0,,Căn hộ nguyên căn,"
+VND 1.568.000
+"
+512,apartment,"
+36 Phố Dịch Vọng Hậu, Cau Giay, Hà Nội, Việt Nam
+","9,2", · 248 đánh giá,"
+7 km
+","
+1 giường đôi cực lớn
+
+",Studio nguyên căn,"
+VND 1.731.950
+"
+514,apartment,"
+36 Phố Dịch Vọng Hậu, Cau Giay, Hà Nội, Việt Nam
+","9,2", · 248 đánh giá,"
+7 km
+","
+1 giường đôi cực lớn
+
+",Căn hộ nguyên căn,"
+VND 1.731.950
+"
+518,apartment,"
+15 Ngõ 9 - Đặng Thai Mai, Quận Tây Hồ, Hà Nội, Việt Nam
+","8,8", · 61 đánh giá,"
+4,7 km
+","
+1 giường đôi lớn
+
+",Studio nguyên căn,"
+VND 1.100.000
+"
+519,apartment,"
+15 Ngõ 9 - Đặng Thai Mai, Quận Tây Hồ, Hà Nội, Việt Nam
+","8,8", · 61 đánh giá,"
+4,7 km
+","
+1 giường đôi lớn
+
+",Studio nguyên căn,"
+VND 1.155.000
+"
+520,apartment,"
+15 Ngõ 9 - Đặng Thai Mai, Quận Tây Hồ, Hà Nội, Việt Nam
+","8,8", · 61 đánh giá,"
+4,7 km
+","
+1 giường đôi lớn
+
+",Studio nguyên căn,"
+VND 1.265.000
+"
+521,apartment,"
+15 Ngõ 9 - Đặng Thai Mai, Quận Tây Hồ, Hà Nội, Việt Nam
+","8,8", · 61 đánh giá,"
+4,7 km
+","
+1 giường đôi lớn
+
+",Studio nguyên căn,"
+VND 1.375.000
+"
+522,apartment,"
+15 Ngõ 9 - Đặng Thai Mai, Quận Tây Hồ, Hà Nội, Việt Nam
+","8,8", · 61 đánh giá,"
+4,7 km
+","
+1 giường đôi lớn
+
+",Căn hộ nguyên căn,"
+VND 1.980.000
+"
+523,apartment,"
+15 Ngõ 9 - Đặng Thai Mai, Quận Tây Hồ, Hà Nội, Việt Nam
+","8,8", · 61 đánh giá,"
+4,7 km
+","
+1 giường đôi lớn
+
+",Căn hộ nguyên căn,"
+VND 2.090.000
+"
+524,apartment,"
+34 Ngõ 39 Đình Thôn Mỹ Đình, Từ Liêm, Hà Nội, Việt Nam
+",0,0,"
+7,8 km
+","
+1 giường đôi lớn
+
+",32 m²,"
+VND 2.147.000
+"
+525,apartment,"
+34 Ngõ 39 Đình Thôn Mỹ Đình, Từ Liêm, Hà Nội, Việt Nam
+",0,0,"
+7,8 km
+","
+1 giường đôi lớn
+
+",28 m²,"
+VND 2.147.000
+"
+526,apartment,"
+34 Ngõ 39 Đình Thôn Mỹ Đình, Từ Liêm, Hà Nội, Việt Nam
+",0,0,"
+7,8 km
+","
+1 giường đôi lớn
+
+",32 m²,"
+VND 2.356.000
+"
+527,apartment,"
+34 Ngõ 39 Đình Thôn Mỹ Đình, Từ Liêm, Hà Nội, Việt Nam
+",0,0,"
+7,8 km
+","
+2 giường đôi lớn
+
+",32 m²,"
+VND 2.755.000
+"
+528,apartment,"
+119 Đường Trần Duy Hưng, Cau Giay, Hà Nội, Việt Nam
+",0,0,0,,Căn hộ nguyên căn,"
+VND 2.600.000
+"
+529,apartment,"
+ 36E Dich Vong Hau Street, Cau Giay District, Hanoi, Cau Giay, Hà Nội, Việt Nam
+","9,0", · 102 đánh giá,"
+6,7 km
+",,Căn hộ nguyên căn,"
+VND 1.710.000
+"
+532,apartment,"
+20 Tống Duy Tân, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,2", · 182 đánh giá,"
+1,7 km
+",,Căn hộ nguyên căn,"
+VND 2.189.025
+"
+533,apartment,"
+20 Tống Duy Tân, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,2", · 182 đánh giá,"
+1,7 km
+",,Căn hộ nguyên căn,"
+VND 2.298.476
+"
+534,apartment,"
+No.8 Alley 22 Phu Vien, Bo De, Long Bien Hanoi, Hà Nội, Việt Nam
+","8,2", · 100 đánh giá,0,"
+1 giường đôi lớn
+
+",25 m²,"
+VND 680.000
+"
+535,apartment,"
+No.8 Alley 22 Phu Vien, Bo De, Long Bien Hanoi, Hà Nội, Việt Nam
+","8,2", · 100 đánh giá,0,"
+1 giường đôi lớn
+
+",35 m²,"
+VND 612.000
+"
+536,apartment,"
+No.8 Alley 22 Phu Vien, Bo De, Long Bien Hanoi, Hà Nội, Việt Nam
+","8,2", · 100 đánh giá,0,"
+1 giường đôi lớn
+
+",25 m²,"
+VND 850.000
+"
+537,apartment,"
+8 Lý Nam Đế, Phường Hàng Mã, Quận Hoàn Kiếm, Hà Nội, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,2", · 108 đánh giá,"
+1,8 km
+","
+1 giường đôi lớn
+
+",35 m²,"
+VND 1.062.000
+"
+538,apartment,"
+8 Lý Nam Đế, Phường Hàng Mã, Quận Hoàn Kiếm, Hà Nội, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,2", · 108 đánh giá,"
+1,8 km
+","
+1 giường đôi lớn
+
+",65 m²,"
+VND 1.296.000
+"
+539,apartment,"
+8 Lý Nam Đế, Phường Hàng Mã, Quận Hoàn Kiếm, Hà Nội, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,2", · 108 đánh giá,"
+1,8 km
+","
+1 giường đôi lớn
+
+",45 m²,"
+VND 1.101.600
+"
+540,apartment,"
+8 Lý Nam Đế, Phường Hàng Mã, Quận Hoàn Kiếm, Hà Nội, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,2", · 108 đánh giá,"
+1,8 km
+",,75 m²,"
+VND 1.350.000
+"
+541,apartment,"
+8 Lý Nam Đế, Phường Hàng Mã, Quận Hoàn Kiếm, Hà Nội, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,2", · 108 đánh giá,"
+1,8 km
+",,75 m²,"
+VND 1.215.000
+"
+542,apartment,"
+118 Nguyen Dinh Hoan, Bo Song Road, Nghia Do, Cau Giay, Cau Giay, Hà Nội, Việt Nam
+","8,4", · 45 đánh giá,"
+4,9 km
+","
+2 giường đơn
+
+",60 m²,"
+VND 3.209.051
+"
+543,apartment,"
+118 Nguyen Dinh Hoan, Bo Song Road, Nghia Do, Cau Giay, Cau Giay, Hà Nội, Việt Nam
+","8,4", · 45 đánh giá,"
+4,9 km
+","
+1 giường đôi lớn
+
+",28 m²,"
+VND 1.286.417
+"
+544,apartment,"
+118 Nguyen Dinh Hoan, Bo Song Road, Nghia Do, Cau Giay, Cau Giay, Hà Nội, Việt Nam
+","8,4", · 45 đánh giá,"
+4,9 km
+","
+2 giường đơn
+
+",30 m²,"
+VND 1.538.107
+"
+545,apartment,"
+118 Nguyen Dinh Hoan, Bo Song Road, Nghia Do, Cau Giay, Cau Giay, Hà Nội, Việt Nam
+","8,4", · 45 đánh giá,"
+4,9 km
+","
+1 giường đôi lớn
+
+",38 m²,"
+VND 1.747.849
+"
+546,apartment,"
+118 Nguyen Dinh Hoan, Bo Song Road, Nghia Do, Cau Giay, Cau Giay, Hà Nội, Việt Nam
+","8,4", · 45 đánh giá,"
+4,9 km
+","
+2 giường đơn
+
+",45 m²,"
+VND 2.831.515
+"
+547,apartment,"
+72A Nguyễn Trãi, phường Thượng Đình, quận Thanh Xuân R5.3312A, Quận Thanh Xuân, Hà Nội, Việt Nam
+",0,0,"
+5,1 km
+",,Căn hộ nguyên căn,"
+VND 4.653.000
+"
+548,apartment,"
+29 Liễu Giai Vinhomes Metropolis, Quận Ba Đình, Hà Nội, Việt Nam
+","9,5", · 47 đánh giá,"
+3,9 km
+",,75 m²,"
+VND 3.980.000
+"
+549,apartment,"
+29 Liễu Giai Vinhomes Metropolis, Quận Ba Đình, Hà Nội, Việt Nam
+","9,5", · 47 đánh giá,"
+3,9 km
+",,60 m²,"
+VND 3.980.000
+"
+550,apartment,"
+29 Liễu Giai Vinhomes Metropolis, Quận Ba Đình, Hà Nội, Việt Nam
+","9,5", · 47 đánh giá,"
+3,9 km
+",,80 m²,"
+VND 5.560.000
+"
+551,apartment,"
+29 Liễu Giai Vinhomes Metropolis, Quận Ba Đình, Hà Nội, Việt Nam
+","9,5", · 47 đánh giá,"
+3,9 km
+",,85 m²,"
+VND 5.580.000
+"
+552,apartment,"
+29 Liễu Giai Vinhomes Metropolis, Quận Ba Đình, Hà Nội, Việt Nam
+","9,5", · 47 đánh giá,"
+3,9 km
+",,85 m²,"
+VND 5.580.000
+"
+553,apartment,"
+29 Liễu Giai Vinhomes Metropolis, Quận Ba Đình, Hà Nội, Việt Nam
+","9,5", · 47 đánh giá,"
+3,9 km
+",,85 m²,"
+VND 5.580.000
+"
+554,apartment,"
+29 Liễu Giai Vinhomes Metropolis, Quận Ba Đình, Hà Nội, Việt Nam
+","9,5", · 47 đánh giá,"
+3,9 km
+",,85 m²,"
+VND 5.780.000
+"
+555,apartment,"
+29 Liễu Giai Vinhomes Metropolis, Quận Ba Đình, Hà Nội, Việt Nam
+","9,5", · 47 đánh giá,"
+3,9 km
+",,85 m²,"
+VND 5.780.000
+"
+556,apartment,"
+29 Liễu Giai Vinhomes Metropolis, Quận Ba Đình, Hà Nội, Việt Nam
+","9,5", · 47 đánh giá,"
+3,9 km
+",,110 m²,"
+VND 7.000.000
+"
+557,apartment,"
+29 Liễu Giai Vinhomes Metropolis, Quận Ba Đình, Hà Nội, Việt Nam
+","9,5", · 47 đánh giá,"
+3,9 km
+",,150 m²,"
+VND 8.300.000
+"
+558,apartment,"
+47, Nguyen Dinh Thi, Tay Ho, Quận Tây Hồ, Hà Nội, Việt Nam
+","8,5", · 251 đánh giá,"
+3,1 km
+",,Căn hộ nguyên căn,"
+VND 700.000
+"
+559,apartment,"
+47, Nguyen Dinh Thi, Tay Ho, Quận Tây Hồ, Hà Nội, Việt Nam
+","8,5", · 251 đánh giá,"
+3,1 km
+",,Căn hộ nguyên căn,"
+VND 1.050.000
+"
+560,apartment,"
+139 Đường Cầu Giấy CTM Complex Building, Cau Giay, Hà Nội, Việt Nam
+","8,5", · 33 đánh giá,"
+5,5 km
+",,Căn hộ nguyên căn,"
+VND 2.016.000
+"
+561,apartment,"
+139 Đường Cầu Giấy CTM Complex Building, Cau Giay, Hà Nội, Việt Nam
+","8,5", · 33 đánh giá,"
+5,5 km
+",,Căn hộ nguyên căn,"
+VND 2.457.000
+"
+562,apartment,"
+202 Nguyen Van Tuyet Street, Trung Liet, Dong Da District, Quận Đống Đa, Hà Nội, Việt Nam
+","9,0", · 245 đánh giá,"
+4,3 km
+",,Căn hộ nguyên căn,"
+VND 1.170.000
+"
+563,apartment,"
+202 Nguyen Van Tuyet Street, Trung Liet, Dong Da District, Quận Đống Đa, Hà Nội, Việt Nam
+","9,0", · 245 đánh giá,"
+4,3 km
+",,Căn hộ nguyên căn,"
+VND 1.512.000
+"
+564,apartment,"
+No 58, Truong Cong Giai Street, Cau Giay District, Cau Giay, Hà Nội, Việt Nam
+","8,6", · 116 đánh giá,"
+6,4 km
+","
+1 giường đôi cực lớn
+
+",Studio nguyên căn,"
+VND 1.556.925
+"
+565,apartment,"
+No 58, Truong Cong Giai Street, Cau Giay District, Cau Giay, Hà Nội, Việt Nam
+","8,6", · 116 đánh giá,"
+6,4 km
+",,Căn hộ nguyên căn,"
+VND 1.588.698
+"
+566,apartment,"
+No 58, Truong Cong Giai Street, Cau Giay District, Cau Giay, Hà Nội, Việt Nam
+","8,6", · 116 đánh giá,"
+6,4 km
+",,Căn hộ nguyên căn,"
+VND 1.827.003
+"
+567,apartment,"
+No 58, Truong Cong Giai Street, Cau Giay District, Cau Giay, Hà Nội, Việt Nam
+","8,6", · 116 đánh giá,"
+6,4 km
+",,Căn hộ nguyên căn,"
+VND 1.688.867
+"
+568,apartment,"
+59 Nguyen Khac Hieu, Truc Bach, Ba Dinh, Quận Ba Đình, Hà Nội, Việt Nam
+","9,0", · 200 đánh giá,0,,Căn hộ nguyên căn,"
+VND 1.200.000
+"
+569,apartment,"
+59 Nguyen Khac Hieu, Truc Bach, Ba Dinh, Quận Ba Đình, Hà Nội, Việt Nam
+","9,0", · 200 đánh giá,0,,Căn hộ nguyên căn,"
+VND 1.260.000
+"
+570,apartment,"
+59 Nguyen Khac Hieu, Truc Bach, Ba Dinh, Quận Ba Đình, Hà Nội, Việt Nam
+","9,0", · 200 đánh giá,0,,Căn hộ nguyên căn,"
+VND 1.380.000
+"
+572,apartment,"
+Số 1 ngõ 7 Liễu Giai, Quận Ba Đình, Hà Nội, Việt Nam
+","9,0", · 56 đánh giá,"
+3,9 km
+","
+1 giường đôi cực lớn
+
+",Studio nguyên căn,"
+VND 1.700.000
+"
+574,apartment,"
+52 Phạm Hùng, Hà Nội, Việt Nam
+",0,0,"
+7,4 km
+",,Căn hộ nguyên căn,"
+VND 3.400.000
+"
+575,hotel,"
+111 Hoang Ngan, Quận Thanh Xuân, Hà Nội, Việt Nam
+","7,3", · 28 đánh giá,"
+5 km
+","
+1 giường đôi
+
+",30 m²,"
+VND 336.000
+"
+576,hotel,"
+111 Hoang Ngan, Quận Thanh Xuân, Hà Nội, Việt Nam
+","7,3", · 28 đánh giá,"
+5 km
+","
+2 giường đơn
+
+",30 m²,"
+VND 348.000
+"
+577,hotel,"
+111 Hoang Ngan, Quận Thanh Xuân, Hà Nội, Việt Nam
+","7,3", · 28 đánh giá,"
+5 km
+","
+3 giường đơn
+
+",40 m²,"
+VND 366.000
+"
+578,hotel,"
+212a Hàng Bông, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,0", · 940 đánh giá,"
+1,8 km
+","
+1 giường đôi cực lớn
+
+",25 m²,"
+VND 452.088
+"
+579,hotel,"
+212a Hàng Bông, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,0", · 940 đánh giá,"
+1,8 km
+","
+2 giường đôi
+
+",25 m²,"
+VND 799.848
+"
+580,hotel,"
+212a Hàng Bông, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,0", · 940 đánh giá,"
+1,8 km
+","
+1 giường đôi cực lớn
+
+",25 m²,"
+VND 999.810
+"
+581,hotel,"
+212a Hàng Bông, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,0", · 940 đánh giá,"
+1,8 km
+","
+2 giường đôi
+
+",50 m²,"
+VND 904.176
+"
+582,hotel,"
+212a Hàng Bông, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,0", · 940 đánh giá,"
+1,8 km
+","
+2 giường đơn
+
+",50 m²,"
+VND 1.130.220
+"
+583,hotel,"
+44 Phố Dịch Vọng Hậu, Cau Giay, Hà Nội, Việt Nam
+","8,9", · 430 đánh giá,"
+6,8 km
+","
+2 giường đôi cực lớn
+
+",Căn hộ nguyên căn,"
+VND 804.000
+"
+584,hotel,"
+44 Phố Dịch Vọng Hậu, Cau Giay, Hà Nội, Việt Nam
+","8,9", · 430 đánh giá,"
+6,8 km
+","
+1 giường sofa
+
+",Căn hộ nguyên căn,"
+VND 948.000
+"
+585,hotel,"
+44 Phố Dịch Vọng Hậu, Cau Giay, Hà Nội, Việt Nam
+","8,9", · 430 đánh giá,"
+6,8 km
+","
+2 giường đơn
+
+",Căn hộ nguyên căn,"
+VND 948.000
+"
+588,hotel,"
+36D, Dich Vong Hau Street, Cau Giay District, Cau Giay, Hà Nội, Việt Nam
+","7,3", · 26 đánh giá,"
+6,8 km
+","
+1 giường đôi lớn
+
+",25 m²,"
+VND 765.000
+"
+589,hotel,"
+36D, Dich Vong Hau Street, Cau Giay District, Cau Giay, Hà Nội, Việt Nam
+","7,3", · 26 đánh giá,"
+6,8 km
+","
+2 giường đơn
+
+",28 m²,"
+VND 850.000
+"
+590,hotel,"
+36D, Dich Vong Hau Street, Cau Giay District, Cau Giay, Hà Nội, Việt Nam
+","7,3", · 26 đánh giá,"
+6,8 km
+","
+1 giường đôi lớn
+
+",40 m²,"
+VND 765.000
+"
+591,hotel,"
+No 34, lane 2, Tran Van Lai St, My Dinh 1 ward, Nam Tu Liem Dist, Hanoi, Vietnam, Hà Nội, Việt Nam
+","7,3", · 69 đánh giá,"
+7,9 km
+","
+1 giường đôi lớn
+
+",Studio nguyên căn,"
+                VND 484.549
+            "
+592,hotel,"
+No 34, lane 2, Tran Van Lai St, My Dinh 1 ward, Nam Tu Liem Dist, Hanoi, Vietnam, Hà Nội, Việt Nam
+","7,3", · 69 đánh giá,"
+7,9 km
+","
+1 giường đôi lớn
+
+",Căn hộ nguyên căn,"
+VND 550.000
+"
+593,hotel,"
+No 34, lane 2, Tran Van Lai St, My Dinh 1 ward, Nam Tu Liem Dist, Hanoi, Vietnam, Hà Nội, Việt Nam
+","7,3", · 69 đánh giá,"
+7,9 km
+","
+1 giường đôi lớn
+
+",Studio nguyên căn,"
+VND 650.000
+"
+594,hotel,"
+No 34, lane 2, Tran Van Lai St, My Dinh 1 ward, Nam Tu Liem Dist, Hanoi, Vietnam, Hà Nội, Việt Nam
+","7,3", · 69 đánh giá,"
+7,9 km
+","
+1 giường đôi lớn
+
+",0,"
+VND 750.000
+"
+595,hotel,"
+4 Vu Huu Loi Street, Quận Hai Bà Trưng, Hà Nội, Việt Nam
+","8,6", · 360 đánh giá,"
+2,2 km
+","
+2 giường đơn
+
+",25 m²,"
+                VND 710.331
+            "
+596,hotel,"
+4 Vu Huu Loi Street, Quận Hai Bà Trưng, Hà Nội, Việt Nam
+","8,6", · 360 đánh giá,"
+2,2 km
+","
+1 giường đôi cực lớn
+
+",28 m²,"
+VND 749.250
+"
+597,hotel,"
+4 Vu Huu Loi Street, Quận Hai Bà Trưng, Hà Nội, Việt Nam
+","8,6", · 360 đánh giá,"
+2,2 km
+","
+2 giường đơn
+
+",50 m²,"
+VND 882.450
+"
+598,hotel,"
+4 Vu Huu Loi Street, Quận Hai Bà Trưng, Hà Nội, Việt Nam
+","8,6", · 360 đánh giá,"
+2,2 km
+","
+1 giường đôi cực lớn
+
+",0,"
+VND 2.664.000
+"
+599,hotel,"
+17A Tran Hung Dao Street, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,1", · 15 đánh giá,0,"
+1 giường đôi lớn
+
+",27 m²,"
+VND 1.449.000
+"
+600,hotel,"
+17A Tran Hung Dao Street, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,1", · 15 đánh giá,0,"
+1 giường đôi lớn
+
+",30 m²,"
+VND 1.575.000
+"
+601,hotel,"
+17A Tran Hung Dao Street, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,1", · 15 đánh giá,0,"
+2 giường đơn
+
+",27 m²,"
+VND 1.998.000
+"
+602,hotel,"
+17A Tran Hung Dao Street, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,1", · 15 đánh giá,0,"
+1 giường đôi lớn
+
+",27 m²,"
+VND 1.998.000
+"
+603,hotel,"
+17A Tran Hung Dao Street, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,1", · 15 đánh giá,0,"
+1 giường đôi lớn
+
+",37 m²,"
+VND 2.538.000
+"
+604,hotel,"
+17A Tran Hung Dao Street, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,1", · 15 đánh giá,0,"
+1 giường đôi lớn
+
+",41 m²,"
+VND 2.538.000
+"
+605,hotel,"
+17A Tran Hung Dao Street, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,1", · 15 đánh giá,0,"
+1 giường đôi lớn
+
+",47 m²,"
+VND 2.862.000
+"
+606,hotel,"
+29 Liễu Giai Vinhomes metropolis, Quận Ba Đình, Hà Nội, Việt Nam
+","9,2", · 19 đánh giá,"
+3,9 km
+",,Căn hộ nguyên căn,"
+VND 1.799.000
+"
+607,hotel,"
+104 Ma May Str, Hoan Kiem District, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,5", · 598 đánh giá,"
+4,7 km
+","
+2 giường đơn
+
+",25 m²,"
+                VND 694.071
+            "
+608,hotel,"
+104 Ma May Str, Hoan Kiem District, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,5", · 598 đánh giá,"
+4,7 km
+",,28 m²,"
+VND 722.000
+"
+609,hotel,"
+104 Ma May Str, Hoan Kiem District, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,5", · 598 đánh giá,"
+4,7 km
+",,0,"
+VND 833.500
+"
+610,hotel,"
+12B Ngõ Bà Triệu, Quận Hai Bà Trưng, Hà Nội, Việt Nam, Quận Hai Bà Trưng, Hà Nội, Việt Nam
+","8,5", · 95 đánh giá,"
+2,8 km
+","
+1 giường đôi cực lớn
+
+",28 m²,"
+VND 483.000
+"
+611,hotel,"
+12B Ngõ Bà Triệu, Quận Hai Bà Trưng, Hà Nội, Việt Nam, Quận Hai Bà Trưng, Hà Nội, Việt Nam
+","8,5", · 95 đánh giá,"
+2,8 km
+","
+1 giường đôi cực lớn
+
+",30 m²,"
+VND 553.000
+"
+612,hotel,"
+19 Au Trieu, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,0", · 34 đánh giá,"
+2 km
+","
+1 giường đôi lớn
+
+",24 m²,"
+VND 504.000
+"
+613,hotel,"
+19 Au Trieu, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,0", · 34 đánh giá,"
+2 km
+","
+2 giường đơn
+
+",24 m²,"
+VND 588.000
+"
+614,hotel,"
+19 Au Trieu, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,0", · 34 đánh giá,"
+2 km
+","
+1 giường đôi lớn
+
+",30 m²,"
+VND 672.000
+"
+615,hotel,"
+19 Au Trieu, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,0", · 34 đánh giá,"
+2 km
+","
+2 giường đôi lớn
+
+",36 m²,"
+VND 756.000
+"
+616,hotel,"
+19 Au Trieu, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,0", · 34 đánh giá,"
+2 km
+","
+1 giường đôi lớn
+
+",39 m²,"
+VND 840.000
+"
+617,hotel,"
+No 25 Lane 6 Tran Quoc Hoan, Dich Vong Hau, Cau Giay, Hà Nội, Việt Nam
+","8,9", · 302 đánh giá,"
+6,6 km
+",,Căn hộ nguyên căn,"
+VND 666.750
+"
+618,hotel,"
+No 25 Lane 6 Tran Quoc Hoan, Dich Vong Hau, Cau Giay, Hà Nội, Việt Nam
+","8,9", · 302 đánh giá,"
+6,6 km
+",,Căn hộ nguyên căn,"
+VND 800.100
+"
+619,hotel,"
+No 25 Lane 6 Tran Quoc Hoan, Dich Vong Hau, Cau Giay, Hà Nội, Việt Nam
+","8,9", · 302 đánh giá,"
+6,6 km
+",,Căn hộ nguyên căn,"
+VND 1.146.950
+"
+620,hotel,"
+Số 1 ngõ 7 Liễu Giai, Quận Ba Đình, Hà Nội, Việt Nam
+","9,0", · 56 đánh giá,"
+3,9 km
+","
+1 giường đôi cực lớn
+
+",Studio nguyên căn,"
+VND 850.000
+"
+622,hotel,"
+26 - 28 - 30 Nha Chung, Hang Trong, Hoan Kiem, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,2", · 255 đánh giá,0,"
+1 giường đôi lớn
+
+",25 m²,"
+VND 1.731.015
+"
+623,hotel,"
+26 - 28 - 30 Nha Chung, Hang Trong, Hoan Kiem, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,2", · 255 đánh giá,0,"
+1 giường đôi lớn
+
+",30 m²,"
+VND 1.839.204
+"
+624,hotel,"
+Số 17A  Ngõ 71  Phố Đỗ Quang , Phường Trung Hòa, Quận Cầu Giấy, Cau Giay, Hà Nội, Việt Nam
+","8,5", · 7 đánh giá,"
+5,4 km
+","
+1 giường đôi lớn
+
+",25 m²,"
+VND 778.275
+"
+625,hotel,"
+Số 17A  Ngõ 71  Phố Đỗ Quang , Phường Trung Hòa, Quận Cầu Giấy, Cau Giay, Hà Nội, Việt Nam
+","8,5", · 7 đánh giá,"
+5,4 km
+","
+1 giường đôi lớn
+
+",30 m²,"
+VND 882.225
+"
+626,hotel,"
+Số 17A  Ngõ 71  Phố Đỗ Quang , Phường Trung Hòa, Quận Cầu Giấy, Cau Giay, Hà Nội, Việt Nam
+","8,5", · 7 đánh giá,"
+5,4 km
+","
+2 giường đơn
+
+",30 m²,"
+VND 986.175
+"
+627,hotel,"
+Số 17A  Ngõ 71  Phố Đỗ Quang , Phường Trung Hòa, Quận Cầu Giấy, Cau Giay, Hà Nội, Việt Nam
+","8,5", · 7 đánh giá,"
+5,4 km
+","
+1 giường đôi lớn
+
+",30 m²,"
+VND 986.175
+"
+628,hotel,"
+491 - 493 Lac Long Quan Street, Quận Tây Hồ, Hà Nội, Việt Nam
+","7,4", · 30 đánh giá,0,"
+1 giường đôi lớn
+
+",25 m²,"
+                VND 759.111
+            "
+629,hotel,"
+491 - 493 Lac Long Quan Street, Quận Tây Hồ, Hà Nội, Việt Nam
+","7,4", · 30 đánh giá,0,"
+2 giường đơn
+
+",30 m²,"
+VND 855.000
+"
+630,hotel,"
+491 - 493 Lac Long Quan Street, Quận Tây Hồ, Hà Nội, Việt Nam
+","7,4", · 30 đánh giá,0,"
+1 giường đôi lớn
+
+",35 m²,"
+VND 1.035.000
+"
+631,hotel,"
+491 - 493 Lac Long Quan Street, Quận Tây Hồ, Hà Nội, Việt Nam
+","7,4", · 30 đánh giá,0,"
+2 giường đơn
+
+",0,"
+VND 1.215.000
+"
+632,hotel,"
+765A Nguyen Van Linh, Sai Dong Ward, Long Bien District, Quận Long Biên, Hà Nội, Việt Nam
+","9,0", · 28 đánh giá,0,"
+1 giường đôi lớn
+
+",25 m²,"
+VND 1.100.000
+"
+633,hotel,"
+765A Nguyen Van Linh, Sai Dong Ward, Long Bien District, Quận Long Biên, Hà Nội, Việt Nam
+","9,0", · 28 đánh giá,0,"
+1 giường đôi lớn
+
+",32 m²,"
+VND 1.300.000
+"
+634,hotel,"
+765A Nguyen Van Linh, Sai Dong Ward, Long Bien District, Quận Long Biên, Hà Nội, Việt Nam
+","9,0", · 28 đánh giá,0,"
+1 giường đôi
+
+",32 m²,"
+VND 1.300.000
+"
+635,hotel,"
+83/10 Xa Dan Street, Dong Da Dist., Hanoi, Quận Đống Đa, Hà Nội, Việt Nam
+","7,5", · 33 đánh giá,"
+3 km
+","
+1 giường đôi lớn
+
+",18 m²,"
+VND 240.000
+"
+636,hotel,"
+83/10 Xa Dan Street, Dong Da Dist., Hanoi, Quận Đống Đa, Hà Nội, Việt Nam
+","7,5", · 33 đánh giá,"
+3 km
+","
+1 giường đôi lớn
+
+",18 m²,"
+VND 680.000
+"
+637,hotel,"
+83/10 Xa Dan Street, Dong Da Dist., Hanoi, Quận Đống Đa, Hà Nội, Việt Nam
+","7,5", · 33 đánh giá,"
+3 km
+","
+1 giường đôi lớn
+
+",22 m²,"
+VND 800.000
+"
+638,hotel,"
+83/10 Xa Dan Street, Dong Da Dist., Hanoi, Quận Đống Đa, Hà Nội, Việt Nam
+","7,5", · 33 đánh giá,"
+3 km
+","
+2 giường đơn
+
+",22 m²,"
+VND 800.000
+"
+639,hotel,"
+83/10 Xa Dan Street, Dong Da Dist., Hanoi, Quận Đống Đa, Hà Nội, Việt Nam
+","7,5", · 33 đánh giá,"
+3 km
+","
+1 giường đôi lớn
+
+",25 m²,"
+VND 1.144.000
+"
+640,hotel,"
+83/10 Xa Dan Street, Dong Da Dist., Hanoi, Quận Đống Đa, Hà Nội, Việt Nam
+","7,5", · 33 đánh giá,"
+3 km
+","
+2 giường đơn
+
+",25 m²,"
+VND 916.000
+"
+641,hotel,"
+83/10 Xa Dan Street, Dong Da Dist., Hanoi, Quận Đống Đa, Hà Nội, Việt Nam
+","7,5", · 33 đánh giá,"
+3 km
+","
+1 giường đôi
+
+",30 m²,"
+VND 1.376.000
+"
+642,hotel,"
+20 Lo Su Street , Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,2", · 669 đánh giá,0,"
+2 giường đơn
+
+",22 m²,"
+VND 940.500
+"
+643,hotel,"
+20 Lo Su Street , Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,2", · 669 đánh giá,0,"
+1 giường đôi
+
+",32 m²,"
+VND 1.402.500
+"
+644,hotel,"
+20 Lo Su Street , Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,2", · 669 đánh giá,0,"
+2 giường đôi lớn
+
+",40 m²,"
+VND 1.815.000
+"
+645,hotel,"
+20 Lo Su Street , Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,2", · 669 đánh giá,0,"
+2 giường đôi lớn
+
+",45 m²,"
+VND 1.633.500
+"
+646,hotel,"
+20 Lo Su Street , Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,2", · 669 đánh giá,0,"
+2 giường đơn
+
+",32 m²,"
+VND 2.266.440
+"
+647,hotel,"
+20 Lo Su Street , Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,2", · 669 đánh giá,0,"
+1 giường đôi lớn
+
+",45 m²,"
+VND 2.039.796
+"
+648,hotel,"
+5 Tu Hoa Street, Tay Ho District, Quận Tây Hồ, Hà Nội, Việt Nam
+","8,7", · 357 đánh giá,0,"
+2 giường đơn
+
+",43 m²,"
+VND 3.912.300
+"
+649,hotel,"
+5 Tu Hoa Street, Tay Ho District, Quận Tây Hồ, Hà Nội, Việt Nam
+","8,7", · 357 đánh giá,0,"
+1 giường đôi cực lớn
+
+",43 m²,"
+VND 4.452.300
+"
+650,hotel,"
+5 Tu Hoa Street, Tay Ho District, Quận Tây Hồ, Hà Nội, Việt Nam
+","8,7", · 357 đánh giá,0,"
+2 giường đơn
+
+",43 m²,"
+VND 4.825.170
+"
+651,hotel,"
+5 Tu Hoa Street, Tay Ho District, Quận Tây Hồ, Hà Nội, Việt Nam
+","8,7", · 357 đánh giá,0,"
+1 giường đôi cực lớn
+
+",60 m²,"
+VND 4.433.940
+"
+652,hotel,"
+5 Tu Hoa Street, Tay Ho District, Quận Tây Hồ, Hà Nội, Việt Nam
+","8,7", · 357 đánh giá,0,"
+2 giường đơn
+
+",80 m²,"
+VND 4.973.940
+"
+653,hotel,"
+7 Đường Cao Tốc 08, Hà Nội, Việt Nam
+",0,0,0,,Căn hộ nguyên căn,"
+VND 800.000
+"
+654,hotel,"
+1 Thanh Nien Road, Quận Ba Đình, 10000 Hà Nội, Việt Nam
+","8,7", · 299 đánh giá,"
+3,1 km
+","
+1 giường đôi cực lớn
+
+",35 m²,"
+VND 2.579.351
+"
+655,hotel,"
+1 Thanh Nien Road, Quận Ba Đình, 10000 Hà Nội, Việt Nam
+","8,7", · 299 đánh giá,"
+3,1 km
+","
+1 giường đôi cực lớn
+
+",35 m²,"
+VND 3.761.554
+"
+656,hotel,"
+1 Thanh Nien Road, Quận Ba Đình, 10000 Hà Nội, Việt Nam
+","8,7", · 299 đánh giá,"
+3,1 km
+","
+1 giường đôi cực lớn
+
+",35 m²,"
+VND 2.583.037
+"
+657,hotel,"
+1 Thanh Nien Road, Quận Ba Đình, 10000 Hà Nội, Việt Nam
+","8,7", · 299 đánh giá,"
+3,1 km
+","
+2 giường đơn
+
+",35 m²,"
+VND 3.766.929
+"
+658,hotel,"
+1 Thanh Nien Road, Quận Ba Đình, 10000 Hà Nội, Việt Nam
+","8,7", · 299 đánh giá,"
+3,1 km
+","
+1 giường đôi cực lớn
+
+",40 m²,"
+VND 3.116.716
+"
+659,hotel,"
+47 Nguyễn Như Đổ, Quận Đống Đa, Hà Nội, Việt Nam
+","8,9", · 72 đánh giá,"
+2,6 km
+","
+1 giường đôi cực lớn
+
+",25 m²,"
+VND 731.700
+"
+660,hotel,"
+47 Nguyễn Như Đổ, Quận Đống Đa, Hà Nội, Việt Nam
+","8,9", · 72 đánh giá,"
+2,6 km
+","
+2 giường đơn
+
+",30 m²,"
+VND 855.250
+"
+661,hotel,"
+47 Nguyễn Như Đổ, Quận Đống Đa, Hà Nội, Việt Nam
+","8,9", · 72 đánh giá,"
+2,6 km
+","
+1 giường đôi cực lớn
+
+",35 m²,"
+VND 1.034.000
+"
+662,hotel,"
+47 Nguyễn Như Đổ, Quận Đống Đa, Hà Nội, Việt Nam
+","8,9", · 72 đánh giá,"
+2,6 km
+","
+2 giường đơn
+
+",35 m²,"
+VND 1.215.000
+"
+663,hotel,"
+15A Trung Yen Lane - Dinh Liet, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,8", · 234 đánh giá,"
+4,7 km
+","
+2 giường đơn
+
+",25 m²,"
+                VND 508.475
+            "
+664,hotel,"
+15A Trung Yen Lane - Dinh Liet, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,8", · 234 đánh giá,"
+4,7 km
+","
+1 giường đôi lớn
+
+",35 m²,"
+VND 540.000
+"
+665,hotel,"
+15A Trung Yen Lane - Dinh Liet, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,8", · 234 đánh giá,"
+4,7 km
+","
+1 giường đơn
+
+",35 m²,"
+VND 652.500
+"
+666,hotel,"
+15A Trung Yen Lane - Dinh Liet, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,8", · 234 đánh giá,"
+4,7 km
+","
+1 giường đôi lớn
+
+",35 m²,"
+VND 787.500
+"
+667,hotel,"
+15A Trung Yen Lane - Dinh Liet, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,8", · 234 đánh giá,"
+4,7 km
+","
+2 giường đơn
+
+",0,"
+VND 945.000
+"
+668,hotel,"
+254D Thuy Khue Street, Quận Tây Hồ, Hà Nội, Việt Nam
+","8,5", · 107 đánh giá,0,"
+1 giường đôi cực lớn
+
+",Studio nguyên căn,"
+VND 1.542.240
+"
+669,hotel,"
+254D Thuy Khue Street, Quận Tây Hồ, Hà Nội, Việt Nam
+","8,5", · 107 đánh giá,0,"
+1 giường đôi cực lớn
+
+",Studio nguyên căn,"
+VND 1.632.960
+"
+670,hotel,"
+254D Thuy Khue Street, Quận Tây Hồ, Hà Nội, Việt Nam
+","8,5", · 107 đánh giá,0,"
+1 giường đôi cực lớn
+
+",Studio nguyên căn,"
+VND 1.814.400
+"
+671,hotel,"
+254D Thuy Khue Street, Quận Tây Hồ, Hà Nội, Việt Nam
+","8,5", · 107 đánh giá,0,"
+1 giường đôi cực lớn
+
+",Căn hộ nguyên căn,"
+VND 2.857.680
+"
+672,hotel,"
+254D Thuy Khue Street, Quận Tây Hồ, Hà Nội, Việt Nam
+","8,5", · 107 đánh giá,0,"
+1 giường đôi cực lớn
+
+",Căn hộ nguyên căn,"
+VND 2.630.880
+"
+673,apartment,"
+19 Phan Đình Phùng, Quận Ba Đình, 043 Hà Nội, Việt Nam
+","6,6", · 10 đánh giá,0,"
+1 giường đôi lớn
+
+",20 m²,"
+                        
+
+    VND 700.808
+
+
+					"
+674,apartment,"
+19 Phan Đình Phùng, Quận Ba Đình, 043 Hà Nội, Việt Nam
+","6,6", · 10 đánh giá,0,"
+2 giường đơn
+
+",30 m²,"
+VND 765.450
+"
+675,apartment,"
+19 Phan Đình Phùng, Quận Ba Đình, 043 Hà Nội, Việt Nam
+","6,6", · 10 đánh giá,0,"
+2 giường đơn
+
+",27 m²,"
+VND 888.300
+"
+676,apartment,"
+19 Phan Đình Phùng, Quận Ba Đình, 043 Hà Nội, Việt Nam
+","6,6", · 10 đánh giá,0,"
+1 giường đôi lớn
+
+",0,"
+VND 982.800
+"
+677,apartment,"
+143 Kim Mã, Quận Ba Đình, Hà Nội, Việt Nam
+","8,6", · 205 đánh giá,"
+2,8 km
+","
+1 giường đôi cực lớn
+
+",25 m²,"
+VND 1.512.000
+"
+678,apartment,"
+143 Kim Mã, Quận Ba Đình, Hà Nội, Việt Nam
+","8,6", · 205 đánh giá,"
+2,8 km
+","
+1 giường đôi cực lớn
+
+",25 m²,"
+VND 342.000
+"
+679,apartment,"
+143 Kim Mã, Quận Ba Đình, Hà Nội, Việt Nam
+","8,6", · 205 đánh giá,"
+2,8 km
+","
+1 giường đôi cực lớn
+
+",25 m²,"
+VND 864.000
+"
+680,apartment,"
+143 Kim Mã, Quận Ba Đình, Hà Nội, Việt Nam
+","8,6", · 205 đánh giá,"
+2,8 km
+","
+1 giường đôi cực lớn
+
+",25 m²,"
+VND 1.080.000
+"
+681,apartment,"
+143 Kim Mã, Quận Ba Đình, Hà Nội, Việt Nam
+","8,6", · 205 đánh giá,"
+2,8 km
+","
+1 giường đôi cực lớn
+
+",30 m²,"
+VND 1.296.000
+"
+682,apartment,"
+76 Yen Phu Street, Quận Tây Hồ, Hà Nội, Việt Nam
+","8,3", · 104 đánh giá,"
+3,5 km
+","
+1 giường đôi lớn
+
+",23 m²,"
+                        
+
+    VND 1.584.192
+
+
+					"
+683,apartment,"
+76 Yen Phu Street, Quận Tây Hồ, Hà Nội, Việt Nam
+","8,3", · 104 đánh giá,"
+3,5 km
+","
+2 giường đơn
+
+",35 m²,"
+VND 1.697.704
+"
+684,apartment,"
+76 Yen Phu Street, Quận Tây Hồ, Hà Nội, Việt Nam
+","8,3", · 104 đánh giá,"
+3,5 km
+","
+1 giường đôi cực lớn
+
+",23 m²,"
+VND 2.237.882
+"
+685,apartment,"
+76 Yen Phu Street, Quận Tây Hồ, Hà Nội, Việt Nam
+","8,3", · 104 đánh giá,"
+3,5 km
+","
+1 giường đôi cực lớn
+
+",41 m²,"
+VND 1.852.040
+"
+686,apartment,"
+76 Yen Phu Street, Quận Tây Hồ, Hà Nội, Việt Nam
+","8,3", · 104 đánh giá,"
+3,5 km
+","
+1 giường đôi cực lớn
+
+",41 m²,"
+VND 2.237.882
+"
+687,apartment,"
+76 Yen Phu Street, Quận Tây Hồ, Hà Nội, Việt Nam
+","8,3", · 104 đánh giá,"
+3,5 km
+",,0,"
+VND 1.852.040
+"
+691,apartment,"
+No.2 Tay Ho Road, Quang An ward, Tay Ho District, Quận Tây Hồ, Hà Nội, Việt Nam
+","9,1", · 83 đánh giá,"
+5 km
+",,Căn hộ nguyên căn,"
+VND 2.358.720
+"
+692,apartment,"
+No.2 Tay Ho Road, Quang An ward, Tay Ho District, Quận Tây Hồ, Hà Nội, Việt Nam
+","9,1", · 83 đánh giá,"
+5 km
+",,Căn hộ nguyên căn,"
+VND 2.948.400
+"
+693,apartment,"
+No.2 Tay Ho Road, Quang An ward, Tay Ho District, Quận Tây Hồ, Hà Nội, Việt Nam
+","9,1", · 83 đánh giá,"
+5 km
+",,Căn hộ nguyên căn,"
+VND 4.218.480
+"
+694,apartment,"
+No.2 Tay Ho Road, Quang An ward, Tay Ho District, Quận Tây Hồ, Hà Nội, Việt Nam
+","9,1", · 83 đánh giá,"
+5 km
+",,Căn hộ nguyên căn,"
+VND 4.399.920
+"
+695,apartment,"
+Ngõ 123 Hoàng Quốc Việt Nhà số 1, Cau Giay, Hà Nội, Việt Nam
+","8,3", · 138 đánh giá,"
+5,4 km
+","
+1 giường đôi cực lớn
+
+",Studio nguyên căn,"
+VND 700.000
+"
+696,apartment,"
+472 Đường Lạc Long Quân, Quận Tây Hồ, Hà Nội, Việt Nam
+","8,3", · 17 đánh giá,"
+6,2 km
+",,Căn hộ nguyên căn,"
+VND 635.000
+"
+697,apartment,"
+472 Đường Lạc Long Quân, Quận Tây Hồ, Hà Nội, Việt Nam
+","8,3", · 17 đánh giá,"
+6,2 km
+",,Căn hộ nguyên căn,"
+VND 690.000
+"
+698,apartment,"
+472 Đường Lạc Long Quân, Quận Tây Hồ, Hà Nội, Việt Nam
+","8,3", · 17 đánh giá,"
+6,2 km
+",,Căn hộ nguyên căn,"
+VND 635.000
+"
+699,apartment,"
+10B Dang Thai Mai Street, Quận Tây Hồ, Hà Nội, Việt Nam
+","8,8", · 160 đánh giá,0,"
+1 giường đôi lớn
+
+",50 m²,"
+                        
+
+    VND 1.940.287
+
+
+					"
+700,apartment,"
+10B Dang Thai Mai Street, Quận Tây Hồ, Hà Nội, Việt Nam
+","8,8", · 160 đánh giá,0,"
+1 giường đôi lớn
+
+",86 m²,"
+VND 2.169.554
+"
+701,apartment,"
+10B Dang Thai Mai Street, Quận Tây Hồ, Hà Nội, Việt Nam
+","8,8", · 160 đánh giá,0,,123 m²,"
+VND 2.516.683
+"
+702,apartment,"
+10B Dang Thai Mai Street, Quận Tây Hồ, Hà Nội, Việt Nam
+","8,8", · 160 đánh giá,0,,135 m²,"
+VND 3.124.158
+"
+703,apartment,"
+10B Dang Thai Mai Street, Quận Tây Hồ, Hà Nội, Việt Nam
+","8,8", · 160 đánh giá,0,,123 m²,"
+VND 4.512.673
+"
+704,apartment,"
+10B Dang Thai Mai Street, Quận Tây Hồ, Hà Nội, Việt Nam
+","8,8", · 160 đánh giá,0,,135 m²,"
+VND 6.016.897
+"
+705,apartment,"
+10B Dang Thai Mai Street, Quận Tây Hồ, Hà Nội, Việt Nam
+","8,8", · 160 đánh giá,0,,0,"
+VND 3.991.979
+"
+706,apartment,"
+119 Trần Duy Hưng, Cau Giay, Hà Nội, Việt Nam
+","8,5", · 21 đánh giá,"
+6,3 km
+",,Căn hộ nguyên căn,"
+VND 955.000
+"
+707,apartment,"
+119 Trần Duy Hưng, Cau Giay, Hà Nội, Việt Nam
+","8,5", · 21 đánh giá,"
+6,3 km
+",,Căn hộ nguyên căn,"
+VND 979.000
+"
+708,apartment,"
+119 Trần Duy Hưng, Cau Giay, Hà Nội, Việt Nam
+","8,5", · 21 đánh giá,"
+6,3 km
+",,Căn hộ nguyên căn,"
+VND 999.000
+"
+709,apartment,"
+119 Trần Duy Hưng, Cau Giay, Hà Nội, Việt Nam
+","8,5", · 21 đánh giá,"
+6,3 km
+",,Căn hộ nguyên căn,"
+VND 1.125.000
+"
+710,apartment,"
+119 Trần Duy Hưng, Cau Giay, Hà Nội, Việt Nam
+","8,5", · 21 đánh giá,"
+6,3 km
+",,Căn hộ nguyên căn,"
+VND 1.012.500
+"
+711,apartment,"
+287 Doi Can, Quận Ba Đình, Hà Nội, Việt Nam
+","8,4", · 177 đánh giá,"
+3,2 km
+","
+1 giường đôi lớn
+
+",38 m²,"
+                        
+
+    VND 1.799.754
+
+
+					"
+712,apartment,"
+287 Doi Can, Quận Ba Đình, Hà Nội, Việt Nam
+","8,4", · 177 đánh giá,"
+3,2 km
+","
+2 giường đơn
+
+",45 m²,"
+VND 2.119.500
+"
+713,apartment,"
+287 Doi Can, Quận Ba Đình, Hà Nội, Việt Nam
+","8,4", · 177 đánh giá,"
+3,2 km
+","
+1 giường đôi
+
+",78 m²,"
+VND 2.335.500
+"
+714,apartment,"
+287 Doi Can, Quận Ba Đình, Hà Nội, Việt Nam
+","8,4", · 177 đánh giá,"
+3,2 km
+","
+2 giường đơn
+
+",100 m²,"
+VND 2.956.500
+"
+715,apartment,"
+287 Doi Can, Quận Ba Đình, Hà Nội, Việt Nam
+","8,4", · 177 đánh giá,"
+3,2 km
+","
+1 giường đôi lớn
+
+",0,"
+VND 3.465.000
+"
+719,apartment,"
+121B, Quan Hoa Street, Cau Giay District, , Cau Giay, Hà Nội, Việt Nam
+","9,3", · 44 đánh giá,"
+5 km
+",,Căn hộ nguyên căn,"
+VND 670.500
+"
+720,apartment,"
+121B, Quan Hoa Street, Cau Giay District, , Cau Giay, Hà Nội, Việt Nam
+","9,3", · 44 đánh giá,"
+5 km
+",,Căn hộ nguyên căn,"
+VND 934.650
+"
+721,apartment,"
+121B, Quan Hoa Street, Cau Giay District, , Cau Giay, Hà Nội, Việt Nam
+","9,3", · 44 đánh giá,"
+5 km
+",,Căn hộ nguyên căn,"
+VND 675.000
+"
+722,apartment,"
+121B, Quan Hoa Street, Cau Giay District, , Cau Giay, Hà Nội, Việt Nam
+","9,3", · 44 đánh giá,"
+5 km
+",,Căn hộ nguyên căn,"
+VND 759.780
+"
+723,apartment,"
+6 Ngõ 60 Phố Linh Lang, Quận Ba Đình, Hà Nội, Việt Nam
+","8,9", · 42 đánh giá,"
+4,4 km
+","
+1 giường đôi lớn
+
+",Căn hộ nguyên căn,"
+VND 629.100
+"
+724,apartment,"
+6 Ngõ 60 Phố Linh Lang, Quận Ba Đình, Hà Nội, Việt Nam
+","8,9", · 42 đánh giá,"
+4,4 km
+","
+1 giường đôi lớn
+
+",Studio nguyên căn,"
+VND 699.000
+"
+725,apartment,"
+107C Phố Vũ Miện (107C làng Yên Phụ), quận Tây hồ, Hà Nội, Quận Tây Hồ, Hà Nội, Việt Nam
+","8,4", · 46 đánh giá,"
+3,8 km
+",,Căn hộ nguyên căn,"
+VND 690.000
+"
+726,apartment,"
+107C Phố Vũ Miện (107C làng Yên Phụ), quận Tây hồ, Hà Nội, Quận Tây Hồ, Hà Nội, Việt Nam
+","8,4", · 46 đánh giá,"
+3,8 km
+",,Căn hộ nguyên căn,"
+VND 690.000
+"
+727,apartment,"
+107C Phố Vũ Miện (107C làng Yên Phụ), quận Tây hồ, Hà Nội, Quận Tây Hồ, Hà Nội, Việt Nam
+","8,4", · 46 đánh giá,"
+3,8 km
+",,Căn hộ nguyên căn,"
+VND 690.000
+"
+728,apartment,"
+35 Đường Quốc Lộ 2, Thái Phù, Sóc Sơn, Hà Nội, Hà Nội, Việt Nam
+",10, · 2 đánh giá,0,"
+1 giường đôi lớn
+
+",25 m²,"
+VND 435.600
+"
+731,apartment,"
+96 To Ngoc Van Street, Quang An , Quận Tây Hồ, Hà Nội, Việt Nam
+","8,4", · 201 đánh giá,"
+5,2 km
+",,Căn hộ nguyên căn,"
+                        
+
+    VND 1.911.251
+
+
+					"
+732,apartment,"
+96 To Ngoc Van Street, Quang An , Quận Tây Hồ, Hà Nội, Việt Nam
+","8,4", · 201 đánh giá,"
+5,2 km
+",,Căn hộ nguyên căn,"
+VND 2.150.000
+"
+733,apartment,"
+96 To Ngoc Van Street, Quang An , Quận Tây Hồ, Hà Nội, Việt Nam
+","8,4", · 201 đánh giá,"
+5,2 km
+",,0,"
+VND 2.310.000
+"
+734,apartment,"
+49 Hai Ba Trung Street, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,8", · 287 đánh giá,0,"
+2 giường đơn
+
+",Căn hộ nguyên căn,"
+VND 2.585.520
+"
+735,apartment,"
+49 Hai Ba Trung Street, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,8", · 287 đánh giá,0,"
+1 giường đôi
+
+",Căn hộ nguyên căn,"
+VND 2.721.600
+"
+736,apartment,"
+49 Hai Ba Trung Street, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,8", · 287 đánh giá,0,"
+1 giường đôi lớn
+
+",Căn hộ nguyên căn,"
+VND 2.812.320
+"
+737,apartment,"
+49 Hai Ba Trung Street, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,8", · 287 đánh giá,0,"
+2 giường đơn
+
+",Căn hộ nguyên căn,"
+VND 2.948.400
+"
+739,apartment,"
+10 Kim Mã Thượng Hi.Home Residence, Số 8, Ngõ 10, Kim Mã Thượng., Quận Ba Đình, Hà Nội, Việt Nam
+","9,0", · 90 đánh giá,"
+4,1 km
+","
+1 giường đôi lớn
+
+",Studio nguyên căn,"
+VND 650.000
+"
+740,apartment,"
+10 Kim Mã Thượng Hi.Home Residence, Số 8, Ngõ 10, Kim Mã Thượng., Quận Ba Đình, Hà Nội, Việt Nam
+","9,0", · 90 đánh giá,"
+4,1 km
+","
+1 giường đôi cực lớn
+
+",Studio nguyên căn,"
+VND 2.000.000
+"
+741,apartment,"
+26 Ngõ 71A Hai Bà Trưng, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+",10, · 20 đánh giá,0,"
+1 giường đôi cực lớn
+
+",Studio nguyên căn,"
+VND 480.000
+"
+744,apartment,"
+84 Đào Tấn, Ba Đình, Quận Ba Đình, Hà Nội, Việt Nam
+","9,0", · 49 đánh giá,"
+4,7 km
+",,50 m²,"
+                        
+
+    VND 1.737.733
+
+
+					"
+745,apartment,"
+84 Đào Tấn, Ba Đình, Quận Ba Đình, Hà Nội, Việt Nam
+","9,0", · 49 đánh giá,"
+4,7 km
+",,60 m²,"
+VND 2.074.000
+"
+746,apartment,"
+84 Đào Tấn, Ba Đình, Quận Ba Đình, Hà Nội, Việt Nam
+","9,0", · 49 đánh giá,"
+4,7 km
+",,0,"
+VND 1.904.000
+"
+747,apartment,"
+202 Nguyen Van Tuyet Street, Trung Liet, Dong Da District, Quận Đống Đa, Hà Nội, Việt Nam
+","9,0", · 245 đánh giá,"
+4,3 km
+",,Căn hộ nguyên căn,"
+VND 2.880.000
+"
+748,apartment,"
+94 Yết Kiêu, Quận Hai Bà Trưng, Hà Nội, Việt Nam
+","8,0", · 17 đánh giá,0,,Căn hộ nguyên căn,"
+VND 675.000
+"
+749,apartment,"
+94 Yết Kiêu, Quận Hai Bà Trưng, Hà Nội, Việt Nam
+","8,0", · 17 đánh giá,0,,Căn hộ nguyên căn,"
+VND 641.250
+"
+750,apartment,"
+94 Yết Kiêu, Quận Hai Bà Trưng, Hà Nội, Việt Nam
+","8,0", · 17 đánh giá,0,,Căn hộ nguyên căn,"
+VND 720.000
+"
+751,apartment,"
+59 Đường Xuân Diệu, Quận Tây Hồ, Hà Nội, Việt Nam
+","9,5", · 2 đánh giá,0,,Căn hộ nguyên căn,"
+VND 1.496.000
+"
+752,apartment,"
+Đỗ Nhuận C5 Do Nhuan Street, Hà Nội, Việt Nam
+","9,7", · 9 đánh giá,"
+7,3 km
+","
+1 giường đôi cực lớn
+
+",40 m²,"
+VND 1.200.000
+"
+753,apartment,"
+Đỗ Nhuận C5 Do Nhuan Street, Hà Nội, Việt Nam
+","9,7", · 9 đánh giá,"
+7,3 km
+",,70 m²,"
+VND 1.410.500
+"
+754,apartment,"
+Đỗ Nhuận C5 Do Nhuan Street, Hà Nội, Việt Nam
+","9,7", · 9 đánh giá,"
+7,3 km
+",,90 m²,"
+VND 3.100.000
+"
+755,apartment,"
+49 Hang Chuoi, Quận Hai Bà Trưng, Hà Nội, Việt Nam
+","9,4", · 43 đánh giá,"
+3,7 km
+",,Căn hộ nguyên căn,"
+VND 2.034.000
+"
+756,apartment,"
+49 Hang Chuoi, Quận Hai Bà Trưng, Hà Nội, Việt Nam
+","9,4", · 43 đánh giá,"
+3,7 km
+",,Căn hộ nguyên căn,"
+VND 2.234.700
+"
+757,apartment,"
+49 Hang Chuoi, Quận Hai Bà Trưng, Hà Nội, Việt Nam
+","9,4", · 43 đánh giá,"
+3,7 km
+",,Căn hộ nguyên căn,"
+VND 2.574.000
+"
+758,apartment,"
+No. 15, Alley 19, Lieu Giai, Ba Dinh District, Quận Ba Đình, Hà Nội, Việt Nam
+","7,4", · 59 đánh giá,"
+3,9 km
+","
+1 giường đôi cực lớn
+
+",50 m²,"
+VND 1.170.000
+"
+759,apartment,"
+No. 15, Alley 19, Lieu Giai, Ba Dinh District, Quận Ba Đình, Hà Nội, Việt Nam
+","7,4", · 59 đánh giá,"
+3,9 km
+","
+1 giường đôi cực lớn
+
+",19 m²,"
+VND 756.000
+"
+760,apartment,"
+No. 15, Alley 19, Lieu Giai, Ba Dinh District, Quận Ba Đình, Hà Nội, Việt Nam
+","7,4", · 59 đánh giá,"
+3,9 km
+","
+1 giường đôi lớn
+
+",25 m²,"
+VND 873.000
+"
+761,apartment,"
+No. 15, Alley 19, Lieu Giai, Ba Dinh District, Quận Ba Đình, Hà Nội, Việt Nam
+","7,4", · 59 đánh giá,"
+3,9 km
+","
+1 giường đôi cực lớn
+
+",30 m²,"
+VND 963.000
+"
+762,apartment,"
+136 Hang Trong, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,7", · 213 đánh giá,0,"
+1 giường đôi lớn
+
+",25 m²,"
+                VND 2.790.222
+            "
+763,apartment,"
+136 Hang Trong, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,7", · 213 đánh giá,0,"
+2 giường đơn
+
+",25 m²,"
+VND 3.290.000
+"
+764,apartment,"
+136 Hang Trong, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,7", · 213 đánh giá,0,"
+1 giường đôi
+
+",30 m²,"
+VND 4.089.000
+"
+765,apartment,"
+136 Hang Trong, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,7", · 213 đánh giá,0,"
+1 giường đôi
+
+",30 m²,"
+VND 4.089.000
+"
+766,apartment,"
+136 Hang Trong, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,7", · 213 đánh giá,0,"
+1 giường đôi
+
+",56 m²,"
+VND 4.888.000
+"
+767,apartment,"
+136 Hang Trong, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,7", · 213 đánh giá,0,,50 m²,"
+VND 3.689.500
+"
+768,apartment,"
+136 Hang Trong, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,7", · 213 đánh giá,0,,0,"
+VND 4.488.500
+"
+769,apartment,"
+Phạm Hùng, Hà Nội, Việt Nam
+",0,0,0,,Căn hộ nguyên căn,"
+VND 1.900.000
+"
+770,apartment,"
+7 Thể Giao, Quận Hai Bà Trưng, Hà Nội, Việt Nam
+",0,0,0,,Căn hộ nguyên căn,"
+VND 400.000
+"
+771,apartment,"
+21 Phan Bội Châu, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,0", · 49 đánh giá,"
+2 km
+","
+1 giường đôi cực lớn
+
+",Căn hộ nguyên căn,"
+VND 540.000
+"
+772,apartment,"
+21 Phan Bội Châu, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,0", · 49 đánh giá,"
+2 km
+","
+1 giường đôi cực lớn
+
+",Studio nguyên căn,"
+VND 585.000
+"
+773,apartment,"
+24 Hàng Vải, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,3", · 9 đánh giá,"
+4,2 km
+","
+1 giường đôi lớn
+
+",Studio nguyên căn,"
+VND 800.000
+"
+774,apartment,"
+24 Hàng Vải, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,3", · 9 đánh giá,"
+4,2 km
+","
+1 giường đôi lớn
+
+",Studio nguyên căn,"
+VND 800.000
+"
+775,apartment,"
+Nguyễn Văn Ngọc, Quận Ba Đình, Hà Nội, Việt Nam
+",0,0,"
+4,3 km
+",,Căn hộ nguyên căn,"
+VND 770.000
+"
+776,apartment,"
+119 Đường Trần Duy Hưng, Cau Giay, Hà Nội, Việt Nam
+",0,0,0,,Căn hộ nguyên căn,"
+VND 855.000
+"
+777,apartment,"
+2 Thai Ha Street Dong Da District, Quận Đống Đa, 100000 Hà Nội, Việt Nam
+","8,9", · 108 đánh giá,0,"
+2 giường đơn
+
+",53 m²,"
+VND 2.624.000
+"
+778,apartment,"
+2 Thai Ha Street Dong Da District, Quận Đống Đa, 100000 Hà Nội, Việt Nam
+","8,9", · 108 đánh giá,0,"
+2 giường đơn
+
+",31 m²,"
+VND 2.952.000
+"
+779,apartment,"
+2 Thai Ha Street Dong Da District, Quận Đống Đa, 100000 Hà Nội, Việt Nam
+","8,9", · 108 đánh giá,0,"
+1 giường đôi cực lớn
+
+",31 m²,"
+VND 2.160.000
+"
+780,apartment,"
+2 Thai Ha Street Dong Da District, Quận Đống Đa, 100000 Hà Nội, Việt Nam
+","8,9", · 108 đánh giá,0,"
+1 giường đôi cực lớn
+
+",53 m²,"
+VND 2.430.000
+"
+781,apartment,"
+2 Thai Ha Street Dong Da District, Quận Đống Đa, 100000 Hà Nội, Việt Nam
+","8,9", · 108 đánh giá,0,,59 m²,"
+VND 2.160.000
+"
+782,apartment,"
+2 Thai Ha Street Dong Da District, Quận Đống Đa, 100000 Hà Nội, Việt Nam
+","8,9", · 108 đánh giá,0,,72 m²,"
+VND 2.430.000
+"
+783,apartment,"
+2 Thai Ha Street Dong Da District, Quận Đống Đa, 100000 Hà Nội, Việt Nam
+","8,9", · 108 đánh giá,0,,72 m²,"
+VND 2.624.000
+"
+784,apartment,"
+2 Thai Ha Street Dong Da District, Quận Đống Đa, 100000 Hà Nội, Việt Nam
+","8,9", · 108 đánh giá,0,,81 m²,"
+VND 2.952.000
+"
+785,apartment,"
+38A Hang Chuoi, Quận Hai Bà Trưng, Hà Nội, Việt Nam
+","8,4", · 43 đánh giá,"
+3,8 km
+","
+1 giường đôi cực lớn
+
+",30 m²,"
+                VND 1.355.390
+            "
+786,apartment,"
+38A Hang Chuoi, Quận Hai Bà Trưng, Hà Nội, Việt Nam
+","8,4", · 43 đánh giá,"
+3,8 km
+","
+2 giường đơn
+
+",34 m²,"
+VND 1.672.000
+"
+787,apartment,"
+38A Hang Chuoi, Quận Hai Bà Trưng, Hà Nội, Việt Nam
+","8,4", · 43 đánh giá,"
+3,8 km
+","
+2 giường đơn
+
+",60 m²,"
+VND 2.014.000
+"
+788,apartment,"
+38A Hang Chuoi, Quận Hai Bà Trưng, Hà Nội, Việt Nam
+","8,4", · 43 đánh giá,"
+3,8 km
+","
+1 giường đôi cực lớn
+
+",0,"
+VND 1.900.000
+"
+789,apartment,"
+105 Láng Hạ No 3, 8, Quận Đống Đa, Hà Nội, Việt Nam
+","7,6", · 57 đánh giá,"
+4,6 km
+",,Căn hộ nguyên căn,"
+VND 360.000
+"
+790,apartment,"
+99 Hàng Bông, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+",0,0,0,,Căn hộ nguyên căn,"
+VND 520.000
+"
+791,apartment,"
+Vinhomes Skylake đường Phạm Hùng, Mỹ Đình,Nam Từ Liêm, 100000 Hà Nội, Việt Nam
+","8,9", · 25 đánh giá,"
+7,4 km
+",,Căn hộ nguyên căn,"
+VND 1.700.000
+"
+792,apartment,"
+Vinhomes Skylake đường Phạm Hùng, Mỹ Đình,Nam Từ Liêm, 100000 Hà Nội, Việt Nam
+","8,9", · 25 đánh giá,"
+7,4 km
+",,Căn hộ nguyên căn,"
+VND 1.700.000
+"
+793,apartment,"
+Vinhomes Skylake đường Phạm Hùng, Mỹ Đình,Nam Từ Liêm, 100000 Hà Nội, Việt Nam
+","8,9", · 25 đánh giá,"
+7,4 km
+",,Căn hộ nguyên căn,"
+VND 1.800.000
+"
+794,apartment,"
+Vinhomes Skylake đường Phạm Hùng, Mỹ Đình,Nam Từ Liêm, 100000 Hà Nội, Việt Nam
+","8,9", · 25 đánh giá,"
+7,4 km
+",,Căn hộ nguyên căn,"
+VND 2.000.000
+"
+795,apartment,"
+Vinhomes Skylake đường Phạm Hùng, Mỹ Đình,Nam Từ Liêm, 100000 Hà Nội, Việt Nam
+","8,9", · 25 đánh giá,"
+7,4 km
+",,Căn hộ nguyên căn,"
+VND 1.900.000
+"
+796,apartment,"
+Vinhomes Skylake đường Phạm Hùng, Mỹ Đình,Nam Từ Liêm, 100000 Hà Nội, Việt Nam
+","8,9", · 25 đánh giá,"
+7,4 km
+",,Căn hộ nguyên căn,"
+VND 2.000.000
+"
+797,apartment,"
+Vinhomes Skylake đường Phạm Hùng, Mỹ Đình,Nam Từ Liêm, 100000 Hà Nội, Việt Nam
+","8,9", · 25 đánh giá,"
+7,4 km
+",,Căn hộ nguyên căn,"
+VND 2.000.000
+"
+798,apartment,"
+24 Xóm Hà Hồi, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+",0,0,0,,Căn hộ nguyên căn,"
+VND 1.620.000
+"
+799,apartment,"
+458 Phố Minh Khai Park Hill Times City, Quận Hai Bà Trưng, Hà Nội, Việt Nam
+","8,3", · 18 đánh giá,"
+5,3 km
+",,Căn hộ nguyên căn,"
+VND 1.950.000
+"
+800,apartment,"
+Hàng Bè, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+",10, · 1 đánh giá,0,,Căn hộ nguyên căn,"
+VND 560.880
+"
+801,apartment,"
+72A Đường Nguyễn Trãi R4A.10.06, Quận Thanh Xuân, Hà Nội, Việt Nam
+",0,0,"
+5,7 km
+",,Căn hộ nguyên căn,"
+VND 1.557.000
+"
+802,apartment,"
+51 Lê Hồng Phong, Quận Ba Đình, Hà Nội, Việt Nam
+","7,8", · 14 đánh giá,0,"
+1 giường đôi lớn
+
+",18 m²,"
+VND 500.000
+"
+804,apartment,"
+24 Ngõ Trung Yên, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","7,0", · 4 đánh giá,"
+4,6 km
+",,Căn hộ nguyên căn,"
+VND 550.000
+"
+805,apartment,"
+18 Phố Ngô Quyền, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+",0,0,0,,Căn hộ nguyên căn,"
+VND 450.000
+"
+806,apartment,"
+6 Đinh Liệt, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,0", · 1 đánh giá,0,,Căn hộ nguyên căn,"
+VND 255.000
+"
+807,apartment,"
+KDT Times City, 458 Minh Khai, Quận Hai Bà Trưng, TP Hà Nội Times City - Park Hill, Quận Hai Bà Trưng, Hà Nội, Việt Nam
+","8,7", · 49 đánh giá,"
+5,1 km
+",,Căn hộ nguyên căn,"
+VND 1.008.000
+"
+808,apartment,"
+KDT Times City, 458 Minh Khai, Quận Hai Bà Trưng, TP Hà Nội Times City - Park Hill, Quận Hai Bà Trưng, Hà Nội, Việt Nam
+","8,7", · 49 đánh giá,"
+5,1 km
+",,Căn hộ nguyên căn,"
+VND 1.120.000
+"
+809,apartment,"
+23 Tay Ho, Quận Tây Hồ, Hà Nội, Việt Nam
+",10, · 2 đánh giá,"
+4,9 km
+",,Căn hộ nguyên căn,"
+VND 1.200.000
+"
+810,hotel,"
+90B Nguyen Huu Huan Street, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,8", · 60 đánh giá,"
+2,8 km
+","
+1 giường đôi
+
+",19 m²,"
+                VND 582.574
+            "
+811,hotel,"
+90B Nguyen Huu Huan Street, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,8", · 60 đánh giá,"
+2,8 km
+","
+2 giường đơn
+
+",26 m²,"
+VND 640.000
+"
+812,hotel,"
+90B Nguyen Huu Huan Street, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,8", · 60 đánh giá,"
+2,8 km
+","
+1 giường đôi cực lớn
+
+",35 m²,"
+VND 896.000
+"
+813,hotel,"
+90B Nguyen Huu Huan Street, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,8", · 60 đánh giá,"
+2,8 km
+","
+2 giường đơn
+
+",36 m²,"
+VND 1.056.000
+"
+814,hotel,"
+90B Nguyen Huu Huan Street, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,8", · 60 đánh giá,"
+2,8 km
+","
+3 giường đơn
+
+",0,"
+VND 1.120.000
+"
+816,hotel,"
+17 Nguyen Van Cu, Quận Long Biên, Hà Nội, Việt Nam
+","8,8", · 39 đánh giá,"
+3,5 km
+","
+1 giường đôi
+
+",30 m²,"
+VND 1.350.000
+"
+817,hotel,"
+17 Nguyen Van Cu, Quận Long Biên, Hà Nội, Việt Nam
+","8,8", · 39 đánh giá,"
+3,5 km
+","
+2 giường đơn
+
+",32 m²,"
+VND 2.150.000
+"
+818,hotel,"
+17 Nguyen Van Cu, Quận Long Biên, Hà Nội, Việt Nam
+","8,8", · 39 đánh giá,"
+3,5 km
+","
+1 giường đôi
+
+",35 m²,"
+VND 1.450.000
+"
+819,hotel,"
+15 Hang Hanh Street, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","7,6", · 247 đánh giá,"
+2,6 km
+","
+1 giường đơn
+
+",22 m²,"
+VND 600.000
+"
+820,hotel,"
+15 Hang Hanh Street, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","7,6", · 247 đánh giá,"
+2,6 km
+","
+1 giường đôi cực lớn
+
+",25 m²,"
+VND 540.000
+"
+821,hotel,"
+15 Hang Hanh Street, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","7,6", · 247 đánh giá,"
+2,6 km
+","
+1 giường đôi cực lớn
+
+",28 m²,"
+VND 720.000
+"
+822,hotel,"
+15 Hang Hanh Street, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","7,6", · 247 đánh giá,"
+2,6 km
+","
+2 giường đơn
+
+",40 m²,"
+VND 648.000
+"
+823,hotel,"
+26/110 Tran Duy Hung Street, Cau Giay District, Hanoi, Cau Giay, Hà Nội, Việt Nam
+","8,1", · 40 đánh giá,0,"
+1 giường đơn
+
+",25 m²,"
+                VND 636.697
+            "
+824,hotel,"
+26/110 Tran Duy Hung Street, Cau Giay District, Hanoi, Cau Giay, Hà Nội, Việt Nam
+","8,1", · 40 đánh giá,0,"
+1 giường đôi lớn
+
+",28 m²,"
+VND 678.300
+"
+825,hotel,"
+26/110 Tran Duy Hung Street, Cau Giay District, Hanoi, Cau Giay, Hà Nội, Việt Nam
+","8,1", · 40 đánh giá,0,"
+2 giường đơn
+
+",28 m²,"
+VND 665.000
+"
+826,hotel,"
+26/110 Tran Duy Hung Street, Cau Giay District, Hanoi, Cau Giay, Hà Nội, Việt Nam
+","8,1", · 40 đánh giá,0,"
+1 giường đôi cực lớn
+
+",30 m²,"
+VND 770.000
+"
+827,hotel,"
+26/110 Tran Duy Hung Street, Cau Giay District, Hanoi, Cau Giay, Hà Nội, Việt Nam
+","8,1", · 40 đánh giá,0,"
+1 giường đôi lớn
+
+",0,"
+VND 770.000
+"
+828,hotel,"
+34 Hang Ga, Quận Hoàn Kiếm, ```````````````````` Hà Nội, Việt Nam
+","8,5", · 103 đánh giá,0,"
+2 giường đơn
+
+",15 m²,"
+VND 378.000
+"
+829,hotel,"
+34 Hang Ga, Quận Hoàn Kiếm, ```````````````````` Hà Nội, Việt Nam
+","8,5", · 103 đánh giá,0,"
+1 giường đôi lớn
+
+",18 m²,"
+VND 441.000
+"
+830,hotel,"
+34 Hang Ga, Quận Hoàn Kiếm, ```````````````````` Hà Nội, Việt Nam
+","8,5", · 103 đánh giá,0,"
+2 giường đơn
+
+",22 m²,"
+VND 504.000
+"
+831,hotel,"
+34 Hang Ga, Quận Hoàn Kiếm, ```````````````````` Hà Nội, Việt Nam
+","8,5", · 103 đánh giá,0,"
+1 giường đôi lớn
+
+",22 m²,"
+VND 567.000
+"
+832,hotel,"
+Ngõ Số 7 Đường Hoàng Minh Giám 25N7B, Quận Thanh Xuân, Hà Nội, Việt Nam
+","8,3", · 25 đánh giá,"
+6 km
+","
+1 giường đôi lớn
+
+",18 m²,"
+VND 570.000
+"
+833,hotel,"
+Ngõ Số 7 Đường Hoàng Minh Giám 25N7B, Quận Thanh Xuân, Hà Nội, Việt Nam
+","8,3", · 25 đánh giá,"
+6 km
+","
+1 giường đôi lớn
+
+",20 m²,"
+VND 700.000
+"
+834,hotel,"
+9 Phố Gầm Cầu, Phường Đồng Xuân, Quận Hoàn Kiếm, Hà Nội, Việt Nam, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,7", · 307 đánh giá,"
+1,9 km
+","
+1 giường đôi cực lớn
+
+",22 m²,"
+VND 579.150
+"
+835,hotel,"
+9 Phố Gầm Cầu, Phường Đồng Xuân, Quận Hoàn Kiếm, Hà Nội, Việt Nam, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,7", · 307 đánh giá,"
+1,9 km
+","
+1 giường đôi cực lớn
+
+",22 m²,"
+VND 614.250
+"
+836,hotel,"
+9 Phố Gầm Cầu, Phường Đồng Xuân, Quận Hoàn Kiếm, Hà Nội, Việt Nam, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,7", · 307 đánh giá,"
+1,9 km
+","
+2 giường đơn
+
+",30 m²,"
+VND 730.958
+"
+837,hotel,"
+99 Đường Ngọc Thuỵ 99-99B/32 Ngoc Thuy,Yen Tan,Long Bien,Hanoi, Quận Long Biên, Hà Nội, Việt Nam
+","9,7", · 134 đánh giá,"
+3,7 km
+","
+1 giường đôi lớn
+
+",20 m²,"
+VND 550.000
+"
+838,hotel,"
+99 Đường Ngọc Thuỵ 99-99B/32 Ngoc Thuy,Yen Tan,Long Bien,Hanoi, Quận Long Biên, Hà Nội, Việt Nam
+","9,7", · 134 đánh giá,"
+3,7 km
+","
+1 giường đơn
+
+",35 m²,"
+VND 715.000
+"
+839,hotel,"
+99 Đường Ngọc Thuỵ 99-99B/32 Ngoc Thuy,Yen Tan,Long Bien,Hanoi, Quận Long Biên, Hà Nội, Việt Nam
+","9,7", · 134 đánh giá,"
+3,7 km
+","
+1 giường đôi lớn
+
+",40 m²,"
+VND 770.000
+"
+840,hotel,"
+99 Đường Ngọc Thuỵ 99-99B/32 Ngoc Thuy,Yen Tan,Long Bien,Hanoi, Quận Long Biên, Hà Nội, Việt Nam
+","9,7", · 134 đánh giá,"
+3,7 km
+","
+1 giường đơn
+
+",50 m²,"
+VND 1.210.000
+"
+841,hotel,"
+5 Duy Tan Street Cau Giay District, Cau Giay, Hà Nội, Việt Nam
+","8,6", · 72 đánh giá,"
+7 km
+","
+1 giường đôi cực lớn
+
+",32 m²,"
+VND 2.069.600
+"
+842,hotel,"
+5 Duy Tan Street Cau Giay District, Cau Giay, Hà Nội, Việt Nam
+","8,6", · 72 đánh giá,"
+7 km
+","
+2 giường đơn
+
+",42 m²,"
+VND 2.328.300
+"
+843,hotel,"
+5 Duy Tan Street Cau Giay District, Cau Giay, Hà Nội, Việt Nam
+","8,6", · 72 đánh giá,"
+7 km
+","
+1 giường đôi cực lớn
+
+",42 m²,"
+VND 2.373.600
+"
+844,hotel,"
+5 Duy Tan Street Cau Giay District, Cau Giay, Hà Nội, Việt Nam
+","8,6", · 72 đánh giá,"
+7 km
+",,48 m²,"
+VND 2.670.300
+"
+845,hotel,"
+5 Duy Tan Street Cau Giay District, Cau Giay, Hà Nội, Việt Nam
+","8,6", · 72 đánh giá,"
+7 km
+",,48 m²,"
+VND 3.217.000
+"
+846,hotel,"
+5 Duy Tan Street Cau Giay District, Cau Giay, Hà Nội, Việt Nam
+","8,6", · 72 đánh giá,"
+7 km
+",,72 m²,"
+VND 2.373.600
+"
+847,hotel,"
+22/5 Hang Voi Street, Ly Thai To Ward, Hoan Kiem District, Vietnam, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,4", · 1.861 đánh giá,"
+2,5 km
+","
+1 giường đôi lớn
+
+",25 m²,"
+VND 3.000.000
+"
+848,hotel,"
+15 Ngõ 9 - Đặng Thai Mai, Quận Tây Hồ, Hà Nội, Việt Nam
+","8,8", · 61 đánh giá,"
+4,7 km
+","
+1 giường đôi lớn
+
+",Studio nguyên căn,"
+VND 825.000
+"
+849,hotel,"
+15 Ngõ 9 - Đặng Thai Mai, Quận Tây Hồ, Hà Nội, Việt Nam
+","8,8", · 61 đánh giá,"
+4,7 km
+","
+1 giường đôi lớn
+
+",Studio nguyên căn,"
+VND 869.000
+"
+850,hotel,"
+15 Ngõ 9 - Đặng Thai Mai, Quận Tây Hồ, Hà Nội, Việt Nam
+","8,8", · 61 đánh giá,"
+4,7 km
+","
+1 giường đôi lớn
+
+",Căn hộ nguyên căn,"
+VND 1.210.000
+"
+851,hotel,"
+15 Ngõ 9 - Đặng Thai Mai, Quận Tây Hồ, Hà Nội, Việt Nam
+","8,8", · 61 đánh giá,"
+4,7 km
+","
+1 giường đôi lớn
+
+",Căn hộ nguyên căn,"
+VND 1.375.000
+"
+852,hotel,"
+20 Phan Chu Trinh, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,2", · 37 đánh giá,0,"
+1 giường đôi cực lớn
+
+",25 m²,"
+VND 1.735.020
+"
+853,hotel,"
+20 Phan Chu Trinh, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,2", · 37 đánh giá,0,"
+2 giường đơn
+
+",25 m²,"
+VND 1.927.800
+"
+854,hotel,"
+20 Phan Chu Trinh, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,2", · 37 đánh giá,0,,49 m²,"
+VND 2.224.908
+"
+855,hotel,"
+28 Me Tri Ha, Nam Tu Liem, Hà Nội, Việt Nam
+","8,0", · 39 đánh giá,"
+7,6 km
+","
+2 giường đơn
+
+",23 m²,"
+VND 900.000
+"
+856,hotel,"
+28 Me Tri Ha, Nam Tu Liem, Hà Nội, Việt Nam
+","8,0", · 39 đánh giá,"
+7,6 km
+","
+1 giường đôi lớn
+
+",25 m²,"
+VND 1.012.500
+"
+857,hotel,"
+28 Me Tri Ha, Nam Tu Liem, Hà Nội, Việt Nam
+","8,0", · 39 đánh giá,"
+7,6 km
+","
+2 giường đơn
+
+",25 m²,"
+VND 1.050.000
+"
+858,hotel,"
+28 Me Tri Ha, Nam Tu Liem, Hà Nội, Việt Nam
+","8,0", · 39 đánh giá,"
+7,6 km
+","
+1 giường đôi lớn
+
+",28 m²,"
+VND 1.102.500
+"
+859,hotel,"
+28 Me Tri Ha, Nam Tu Liem, Hà Nội, Việt Nam
+","8,0", · 39 đánh giá,"
+7,6 km
+","
+2 giường đơn
+
+",28 m²,"
+VND 1.102.500
+"
+860,hotel,"
+No. 35, Lane 2, Trung Kinh street, Trung Hoa ward, Cau Giay district, Hanoi, Cau Giay, Hà Nội, Việt Nam
+","7,9", · 50 đánh giá,0,,Căn hộ nguyên căn,"
+                VND 552.377
+            "
+861,hotel,"
+No. 35, Lane 2, Trung Kinh street, Trung Hoa ward, Cau Giay district, Hanoi, Cau Giay, Hà Nội, Việt Nam
+","7,9", · 50 đánh giá,0,,0,"
+VND 637.000
+"
+862,hotel,"
+46 Hang Hom Street, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,8", · 109 đánh giá,"
+2,5 km
+","
+1 giường đôi
+
+",25 m²,"
+VND 475.200
+"
+863,hotel,"
+46 Hang Hom Street, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,8", · 109 đánh giá,"
+2,5 km
+","
+1 giường đôi
+
+",30 m²,"
+VND 518.400
+"
+864,hotel,"
+46 Hang Hom Street, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,8", · 109 đánh giá,"
+2,5 km
+","
+2 giường đơn
+
+",40 m²,"
+VND 864.000
+"
+865,hotel,"
+46 Hang Hom Street, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,8", · 109 đánh giá,"
+2,5 km
+","
+1 giường đôi
+
+",50 m²,"
+VND 950.400
+"
+866,hotel,"
+No 05, alley 34/68, Hoang Cau street, Dong Da district, Hanoi city, Vietnam, Quận Đống Đa, Hà Nội, Việt Nam
+","7,9", · 147 đánh giá,"
+3,4 km
+","
+1 giường đôi lớn
+
+",22 m²,"
+VND 598.185
+"
+867,hotel,"
+No 05, alley 34/68, Hoang Cau street, Dong Da district, Hanoi city, Vietnam, Quận Đống Đa, Hà Nội, Việt Nam
+","7,9", · 147 đánh giá,"
+3,4 km
+","
+1 giường đôi lớn
+
+",28 m²,"
+VND 659.340
+"
+868,hotel,"
+No 05, alley 34/68, Hoang Cau street, Dong Da district, Hanoi city, Vietnam, Quận Đống Đa, Hà Nội, Việt Nam
+","7,9", · 147 đánh giá,"
+3,4 km
+","
+1 giường đôi
+
+",25 m²,"
+VND 676.755
+"
+869,hotel,"
+72 – 74 Hang Buom Street, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,7", · 296 đánh giá,"
+4,6 km
+","
+2 giường đơn
+
+",28 m²,"
+                VND 955.393
+            "
+870,hotel,"
+72 – 74 Hang Buom Street, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,7", · 296 đánh giá,"
+4,6 km
+","
+1 giường đôi lớn
+
+",35 m²,"
+VND 1.096.648
+"
+871,hotel,"
+72 – 74 Hang Buom Street, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,7", · 296 đánh giá,"
+4,6 km
+","
+1 giường đôi lớn
+
+",40 m²,"
+VND 1.154.366
+"
+872,hotel,"
+72 – 74 Hang Buom Street, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,7", · 296 đánh giá,"
+4,6 km
+","
+2 giường đơn
+
+",40 m²,"
+VND 1.233.729
+"
+873,hotel,"
+72 – 74 Hang Buom Street, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,7", · 296 đánh giá,"
+4,6 km
+",,0,"
+VND 1.298.662
+"
+874,hotel,"
+27 Hang Bong Street, Hoan Kiem District, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,1", · 183 đánh giá,"
+2,5 km
+","
+1 giường đôi cực lớn
+
+",23 m²,"
+VND 1.531.800
+"
+875,hotel,"
+27 Hang Bong Street, Hoan Kiem District, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,1", · 183 đánh giá,"
+2,5 km
+","
+1 giường đôi cực lớn
+
+",25 m²,"
+VND 2.070.000
+"
+876,hotel,"
+27 Hang Bong Street, Hoan Kiem District, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,1", · 183 đánh giá,"
+2,5 km
+","
+2 giường đơn
+
+",23 m²,"
+VND 3.420.000
+"
+877,hotel,"
+27 Hang Bong Street, Hoan Kiem District, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,1", · 183 đánh giá,"
+2,5 km
+","
+1 giường đôi cực lớn
+
+",25 m²,"
+VND 1.864.800
+"
+878,hotel,"
+27 Hang Bong Street, Hoan Kiem District, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,1", · 183 đánh giá,"
+2,5 km
+","
+1 giường đôi cực lớn
+
+",32 m²,"
+VND 2.520.000
+"
+879,hotel,"
+27 Hang Bong Street, Hoan Kiem District, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,1", · 183 đánh giá,"
+2,5 km
+","
+2 giường đơn
+
+",32 m²,"
+VND 3.870.000
+"
+880,hotel,"
+27 Hang Bong Street, Hoan Kiem District, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,1", · 183 đánh giá,"
+2,5 km
+","
+1 giường đôi cực lớn
+
+",50 m²,"
+VND 2.700.000
+"
+881,hotel,"
+27 Hang Bong Street, Hoan Kiem District, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,1", · 183 đánh giá,"
+2,5 km
+","
+2 giường đơn
+
+",50 m²,"
+VND 4.050.000
+"
+882,hotel,"
+120, Trung Kinh Street, Yen Hoa Ward, Cau Giay District, Cau Giay, Hà Nội, Việt Nam
+","8,1", · 24 đánh giá,"
+6,2 km
+","
+1 giường đôi lớn
+
+",20 m²,"
+                VND 835.766
+            "
+883,hotel,"
+120, Trung Kinh Street, Yen Hoa Ward, Cau Giay District, Cau Giay, Hà Nội, Việt Nam
+","8,1", · 24 đánh giá,"
+6,2 km
+","
+1 giường đôi cực lớn
+
+",25 m²,"
+VND 863.319
+"
+884,hotel,"
+120, Trung Kinh Street, Yen Hoa Ward, Cau Giay District, Cau Giay, Hà Nội, Việt Nam
+","8,1", · 24 đánh giá,"
+6,2 km
+","
+2 giường đơn
+
+",35 m²,"
+VND 1.099.071
+"
+885,hotel,"
+120, Trung Kinh Street, Yen Hoa Ward, Cau Giay District, Cau Giay, Hà Nội, Việt Nam
+","8,1", · 24 đánh giá,"
+6,2 km
+","
+1 giường đôi lớn
+
+",0,"
+VND 1.256.240
+"
+886,hotel,"
+118/20 Nguyễn Khánh Toàn, Cau Giay, Hà Nội, Việt Nam
+","8,7", · 142 đánh giá,"
+5 km
+","
+1 giường đôi
+
+",20 m²,"
+                VND 1.230.184
+            "
+887,hotel,"
+118/20 Nguyễn Khánh Toàn, Cau Giay, Hà Nội, Việt Nam
+","8,7", · 142 đánh giá,"
+5 km
+","
+2 giường đơn
+
+",26 m²,"
+VND 1.296.000
+"
+888,hotel,"
+118/20 Nguyễn Khánh Toàn, Cau Giay, Hà Nội, Việt Nam
+","8,7", · 142 đánh giá,"
+5 km
+","
+1 giường đôi
+
+",28 m²,"
+VND 1.176.000
+"
+889,hotel,"
+118/20 Nguyễn Khánh Toàn, Cau Giay, Hà Nội, Việt Nam
+","8,7", · 142 đánh giá,"
+5 km
+","
+1 giường đôi lớn
+
+",34 m²,"
+VND 1.536.000
+"
+890,hotel,"
+118/20 Nguyễn Khánh Toàn, Cau Giay, Hà Nội, Việt Nam
+","8,7", · 142 đánh giá,"
+5 km
+","
+2 giường đơn
+
+",42 m²,"
+VND 1.392.000
+"
+891,hotel,"
+118/20 Nguyễn Khánh Toàn, Cau Giay, Hà Nội, Việt Nam
+","8,7", · 142 đánh giá,"
+5 km
+",,0,"
+VND 1.776.000
+"
+892,hotel,"
+30 Phố Võng Thị Phường Bưởi Quận Tây Hồ, Quận Tây Hồ, Hà Nội, Việt Nam
+","9,8", · 89 đánh giá,"
+5 km
+",,35 m²,"
+                VND 545.873
+            "
+893,hotel,"
+30 Phố Võng Thị Phường Bưởi Quận Tây Hồ, Quận Tây Hồ, Hà Nội, Việt Nam
+","9,8", · 89 đánh giá,"
+5 km
+",,36 m²,"
+VND 749.250
+"
+894,hotel,"
+30 Phố Võng Thị Phường Bưởi Quận Tây Hồ, Quận Tây Hồ, Hà Nội, Việt Nam
+","9,8", · 89 đánh giá,"
+5 km
+",,38 m²,"
+VND 824.250
+"
+895,hotel,"
+30 Phố Võng Thị Phường Bưởi Quận Tây Hồ, Quận Tây Hồ, Hà Nội, Việt Nam
+","9,8", · 89 đánh giá,"
+5 km
+",,50 m²,"
+VND 899.250
+"
+896,hotel,"
+30 Phố Võng Thị Phường Bưởi Quận Tây Hồ, Quận Tây Hồ, Hà Nội, Việt Nam
+","9,8", · 89 đánh giá,"
+5 km
+",,75 m²,"
+VND 1.199.250
+"
+897,hotel,"
+30 Phố Võng Thị Phường Bưởi Quận Tây Hồ, Quận Tây Hồ, Hà Nội, Việt Nam
+","9,8", · 89 đánh giá,"
+5 km
+",,0,"
+VND 1.619.325
+"
+898,hotel,"
+Keangnam Hanoi Landmark Tower, Plot E6, Cau Giay Urban Area , Me Tri Ward, Tu Liem District, Hà Nội, Việt Nam
+","9,0", · 195 đánh giá,0,"
+2 giường đơn
+
+",46 m²,"
+VND 4.173.120
+"
+899,hotel,"
+Keangnam Hanoi Landmark Tower, Plot E6, Cau Giay Urban Area , Me Tri Ward, Tu Liem District, Hà Nội, Việt Nam
+","9,0", · 195 đánh giá,0,"
+1 giường đôi cực lớn
+
+",56 m²,"
+VND 4.839.345
+"
+900,hotel,"
+Keangnam Hanoi Landmark Tower, Plot E6, Cau Giay Urban Area , Me Tri Ward, Tu Liem District, Hà Nội, Việt Nam
+","9,0", · 195 đánh giá,0,"
+1 giường đôi cực lớn
+
+",46 m²,"
+VND 4.955.580
+"
+901,hotel,"
+Keangnam Hanoi Landmark Tower, Plot E6, Cau Giay Urban Area , Me Tri Ward, Tu Liem District, Hà Nội, Việt Nam
+","9,0", · 195 đánh giá,0,"
+2 giường đơn
+
+",56 m²,"
+VND 5.621.805
+"
+902,hotel,"
+Keangnam Hanoi Landmark Tower, Plot E6, Cau Giay Urban Area , Me Tri Ward, Tu Liem District, Hà Nội, Việt Nam
+","9,0", · 195 đánh giá,0,"
+1 giường đôi cực lớn
+
+",92 m²,"
+VND 6.013.035
+"
+903,hotel,"
+26 Hang Non, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","7,9", · 4 đánh giá,"
+4,1 km
+","
+1 giường đôi lớn
+
+",20 m²,"
+VND 633.150
+"
+904,hotel,"
+26 Hang Non, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","7,9", · 4 đánh giá,"
+4,1 km
+","
+1 giường đôi lớn
+
+",25 m²,"
+VND 737.100
+"
+905,hotel,"
+26 Hang Non, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","7,9", · 4 đánh giá,"
+4,1 km
+","
+1 giường đơn
+
+",30 m²,"
+VND 765.450
+"
+906,hotel,"
+111 Hoang Ngan, Quận Thanh Xuân, Hà Nội, Việt Nam
+","7,3", · 28 đánh giá,"
+5 km
+","
+1 giường đôi
+
+",30 m²,"
+VND 336.000
+"
+907,hotel,"
+111 Hoang Ngan, Quận Thanh Xuân, Hà Nội, Việt Nam
+","7,3", · 28 đánh giá,"
+5 km
+","
+2 giường đơn
+
+",30 m²,"
+VND 348.000
+"
+908,hotel,"
+111 Hoang Ngan, Quận Thanh Xuân, Hà Nội, Việt Nam
+","7,3", · 28 đánh giá,"
+5 km
+","
+3 giường đơn
+
+",40 m²,"
+VND 366.000
+"
+909,hotel,"
+212a Hàng Bông, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,0", · 940 đánh giá,"
+1,8 km
+","
+1 giường đôi cực lớn
+
+",25 m²,"
+VND 452.088
+"
+910,hotel,"
+212a Hàng Bông, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,0", · 940 đánh giá,"
+1,8 km
+","
+2 giường đôi
+
+",25 m²,"
+VND 799.848
+"
+911,hotel,"
+212a Hàng Bông, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,0", · 940 đánh giá,"
+1,8 km
+","
+1 giường đôi cực lớn
+
+",25 m²,"
+VND 999.810
+"
+912,hotel,"
+212a Hàng Bông, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,0", · 940 đánh giá,"
+1,8 km
+","
+2 giường đôi
+
+",50 m²,"
+VND 904.176
+"
+913,hotel,"
+212a Hàng Bông, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,0", · 940 đánh giá,"
+1,8 km
+","
+1 giường đôi lớn
+
+",50 m²,"
+VND 1.130.220
+"
+914,hotel,"
+9 Nha Tho, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,1", · 333 đánh giá,"
+2,8 km
+","
+1 giường đôi lớn
+
+",30 m²,"
+VND 1.676.700
+"
+915,hotel,"
+1 Ngõ 180 Đường Đình Thôn, Mỹ Đình 1, Quận Nam Từ Liêm, Hà Nội, Việt Nam
+","8,1", · 8 đánh giá,"
+8,3 km
+","
+1 giường đôi
+
+",28 m²,"
+VND 426.000
+"
+916,hotel,"
+1 Ngõ 180 Đường Đình Thôn, Mỹ Đình 1, Quận Nam Từ Liêm, Hà Nội, Việt Nam
+","8,1", · 8 đánh giá,"
+8,3 km
+","
+2 giường đôi lớn
+
+",32 m²,"
+VND 522.000
+"
+917,hotel,"
+1 Ngõ 180 Đường Đình Thôn, Mỹ Đình 1, Quận Nam Từ Liêm, Hà Nội, Việt Nam
+","8,1", · 8 đánh giá,"
+8,3 km
+","
+1 giường đơn
+
+",37 m²,"
+VND 612.000
+"
+918,hotel,"
+66 Khuc Thua Du Street, Cau Giay District, Cau Giay, Hà Nội, Việt Nam
+","8,2", · 20 đánh giá,"
+6,3 km
+","
+1 giường đôi lớn
+
+",20 m²,"
+VND 652.500
+"
+919,hotel,"
+66 Khuc Thua Du Street, Cau Giay District, Cau Giay, Hà Nội, Việt Nam
+","8,2", · 20 đánh giá,"
+6,3 km
+","
+1 giường đôi lớn
+
+",30 m²,"
+VND 810.375
+"
+920,hotel,"
+84 Tran Nhan Tong Street, Quận Hai Bà Trưng, Hà Nội, Việt Nam
+","8,4", · 137 đánh giá,"
+2,4 km
+","
+1 giường đôi cực lớn
+
+",36 m²,"
+                        
+
+    VND 1.832.041
+
+
+					"
+921,hotel,"
+84 Tran Nhan Tong Street, Quận Hai Bà Trưng, Hà Nội, Việt Nam
+","8,4", · 137 đánh giá,"
+2,4 km
+","
+2 giường đơn
+
+",36 m²,"
+VND 2.857.680
+"
+922,hotel,"
+84 Tran Nhan Tong Street, Quận Hai Bà Trưng, Hà Nội, Việt Nam
+","8,4", · 137 đánh giá,"
+2,4 km
+","
+1 giường đôi cực lớn
+
+",36 m²,"
+VND 3.869.775
+"
+923,hotel,"
+84 Tran Nhan Tong Street, Quận Hai Bà Trưng, Hà Nội, Việt Nam
+","8,4", · 137 đánh giá,"
+2,4 km
+","
+1 giường đơn
+
+",36 m²,"
+VND 3.453.030
+"
+924,hotel,"
+84 Tran Nhan Tong Street, Quận Hai Bà Trưng, Hà Nội, Việt Nam
+","8,4", · 137 đánh giá,"
+2,4 km
+","
+1 giường đôi cực lớn
+
+",48 m²,"
+VND 2.857.703
+"
+925,hotel,"
+84 Tran Nhan Tong Street, Quận Hai Bà Trưng, Hà Nội, Việt Nam
+","8,4", · 137 đánh giá,"
+2,4 km
+","
+1 giường đôi cực lớn
+
+",36 m²,"
+VND 3.869.775
+"
+926,hotel,"
+84 Tran Nhan Tong Street, Quận Hai Bà Trưng, Hà Nội, Việt Nam
+","8,4", · 137 đánh giá,"
+2,4 km
+","
+2 giường đơn
+
+",36 m²,"
+VND 3.453.030
+"
+927,hotel,"
+84 Tran Nhan Tong Street, Quận Hai Bà Trưng, Hà Nội, Việt Nam
+","8,4", · 137 đánh giá,"
+2,4 km
+","
+1 giường đôi cực lớn
+
+",48 m²,"
+VND 3.286.332
+"
+928,hotel,"
+84 Tran Nhan Tong Street, Quận Hai Bà Trưng, Hà Nội, Việt Nam
+","8,4", · 137 đánh giá,"
+2,4 km
+",,75 m²,"
+VND 4.405.590
+"
+929,hotel,"
+84 Tran Nhan Tong Street, Quận Hai Bà Trưng, Hà Nội, Việt Nam
+","8,4", · 137 đánh giá,"
+2,4 km
+",,0,"
+VND 3.988.845
+"
+930,hotel,"
+29 Trang Tien Street, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,4", · 198 đánh giá,"
+2,9 km
+","
+1 giường đôi lớn
+
+",32 m²,"
+VND 2.423.200
+"
+931,hotel,"
+29 Trang Tien Street, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,4", · 198 đánh giá,"
+2,9 km
+","
+2 giường đơn
+
+",32 m²,"
+VND 2.726.100
+"
+932,hotel,"
+29 Trang Tien Street, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,4", · 198 đánh giá,"
+2,9 km
+","
+1 giường đôi lớn
+
+",35 m²,"
+VND 4.559.000
+"
+933,hotel,"
+29 Trang Tien Street, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,4", · 198 đánh giá,"
+2,9 km
+",,46 m²,"
+VND 3.809.000
+"
+934,hotel,"
+46A Nguyen Truong To, Quận Ba Đình, Hà Nội, Việt Nam
+","9,1", · 130 đánh giá,"
+2,3 km
+","
+1 giường đôi lớn
+
+",21 m²,"
+                        
+
+    VND 1.345.170
+
+
+					"
+935,hotel,"
+46A Nguyen Truong To, Quận Ba Đình, Hà Nội, Việt Nam
+","9,1", · 130 đánh giá,"
+2,3 km
+","
+2 giường đơn
+
+",28 m²,"
+VND 1.828.582
+"
+936,hotel,"
+46A Nguyen Truong To, Quận Ba Đình, Hà Nội, Việt Nam
+","9,1", · 130 đánh giá,"
+2,3 km
+","
+1 giường đôi lớn
+
+",35 m²,"
+VND 2.133.330
+"
+937,hotel,"
+46A Nguyen Truong To, Quận Ba Đình, Hà Nội, Việt Nam
+","9,1", · 130 đánh giá,"
+2,3 km
+","
+1 giường đôi cực lớn
+
+",50 m²,"
+VND 2.057.096
+"
+938,hotel,"
+46A Nguyen Truong To, Quận Ba Đình, Hà Nội, Việt Nam
+","9,1", · 130 đánh giá,"
+2,3 km
+","
+2 giường đôi lớn
+
+",60 m²,"
+VND 2.361.938
+"
+939,hotel,"
+46A Nguyen Truong To, Quận Ba Đình, Hà Nội, Việt Nam
+","9,1", · 130 đánh giá,"
+2,3 km
+",,0,"
+VND 2.361.938
+"
+940,hotel,"
+1 Yet kieu street, Tran Hung Dao Ward, Hoan Kiem District, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,2", · 77 đánh giá,"
+2,5 km
+","
+1 giường đôi lớn
+
+",25 m²,"
+                        
+
+    VND 1.447.608
+
+
+					"
+941,hotel,"
+1 Yet kieu street, Tran Hung Dao Ward, Hoan Kiem District, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,2", · 77 đánh giá,"
+2,5 km
+","
+2 giường đơn
+
+",25 m²,"
+VND 1.600.000
+"
+942,hotel,"
+1 Yet kieu street, Tran Hung Dao Ward, Hoan Kiem District, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,2", · 77 đánh giá,"
+2,5 km
+","
+2 giường đơn
+
+",30 m²,"
+VND 1.600.000
+"
+943,hotel,"
+1 Yet kieu street, Tran Hung Dao Ward, Hoan Kiem District, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,2", · 77 đánh giá,"
+2,5 km
+","
+1 giường đôi cực lớn
+
+",72 m²,"
+VND 1.840.000
+"
+944,hotel,"
+1 Yet kieu street, Tran Hung Dao Ward, Hoan Kiem District, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,2", · 77 đánh giá,"
+2,5 km
+","
+1 giường đôi lớn
+
+",30 m²,"
+VND 2.400.000
+"
+945,hotel,"
+1 Yet kieu street, Tran Hung Dao Ward, Hoan Kiem District, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,2", · 77 đánh giá,"
+2,5 km
+","
+2 giường đơn
+
+",0,"
+VND 1.840.000
+"
+946,hotel,"
+195-199 Hang Bong Street, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,4", · 86 đánh giá,"
+1,8 km
+","
+2 giường đơn
+
+",25 m²,"
+VND 1.701.000
+"
+947,hotel,"
+195-199 Hang Bong Street, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,4", · 86 đánh giá,"
+1,8 km
+","
+1 giường đôi cực lớn
+
+",25 m²,"
+VND 2.205.000
+"
+948,hotel,"
+195-199 Hang Bong Street, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,4", · 86 đánh giá,"
+1,8 km
+","
+2 giường đơn
+
+",25 m²,"
+VND 2.430.000
+"
+949,hotel,"
+195-199 Hang Bong Street, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,4", · 86 đánh giá,"
+1,8 km
+","
+1 giường đôi cực lớn
+
+",30 m²,"
+VND 3.150.000
+"
+950,hotel,"
+195-199 Hang Bong Street, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,4", · 86 đánh giá,"
+1,8 km
+","
+1 giường đôi cực lớn
+
+",40 m²,"
+VND 1.953.000
+"
+956,hotel,"
+30 - 34 Hang Manh, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,2", · 196 đánh giá,"
+2,4 km
+","
+1 giường đôi lớn
+
+",20 m²,"
+VND 1.133.028
+"
+957,hotel,"
+30 - 34 Hang Manh, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,2", · 196 đánh giá,"
+2,4 km
+","
+2 giường đơn
+
+",30 m²,"
+VND 1.416.285
+"
+958,hotel,"
+30 - 34 Hang Manh, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,2", · 196 đánh giá,"
+2,4 km
+","
+2 giường đơn
+
+",30 m²,"
+VND 1.274.656
+"
+959,hotel,"
+30 - 34 Hang Manh, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,2", · 196 đánh giá,"
+2,4 km
+","
+1 giường đôi lớn
+
+",50 m²,"
+VND 1.359.634
+"
+960,hotel,"
+30 - 34 Hang Manh, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,2", · 196 đánh giá,"
+2,4 km
+","
+2 giường đơn
+
+",45 m²,"
+VND 1.699.542
+"
+961,hotel,"
+30 - 34 Hang Manh, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,2", · 196 đánh giá,"
+2,4 km
+","
+1 giường đôi lớn
+
+",50 m²,"
+VND 1.223.670
+"
+962,hotel,"
+10 Kim Mã Thượng Hi.Home Residence, Số 8, Ngõ 10, Kim Mã Thượng., Quận Ba Đình, Hà Nội, Việt Nam
+","9,0", · 90 đánh giá,"
+4,1 km
+","
+1 giường đôi lớn
+
+",Studio nguyên căn,"
+VND 650.000
+"
+963,hotel,"
+10 Kim Mã Thượng Hi.Home Residence, Số 8, Ngõ 10, Kim Mã Thượng., Quận Ba Đình, Hà Nội, Việt Nam
+","9,0", · 90 đánh giá,"
+4,1 km
+","
+1 giường đôi cực lớn
+
+",Studio nguyên căn,"
+VND 2.000.000
+"
+964,hotel,"
+No 11, alley 379, Doi Can Street, Ba Dinh District, Quận Ba Đình, Hà Nội, Việt Nam
+","6,2", · 9 đánh giá,"
+4,1 km
+","
+1 giường đôi
+
+",20 m²,"
+VND 370.000
+"
+965,hotel,"
+No 11, alley 379, Doi Can Street, Ba Dinh District, Quận Ba Đình, Hà Nội, Việt Nam
+","6,2", · 9 đánh giá,"
+4,1 km
+","
+1 giường đôi lớn
+
+",30 m²,"
+VND 300.086
+"
+967,hotel,"
+Điền xá quang tiến sóc sơn, Hà Nội, Việt Nam
+","9,0", · 28 đánh giá,0,"
+1 giường đôi
+
+",20 m²,"
+VND 750.000
+"
+968,hotel,"
+Điền xá quang tiến sóc sơn, Hà Nội, Việt Nam
+","9,0", · 28 đánh giá,0,"
+1 giường đôi lớn
+
+",24 m²,"
+VND 800.000
+"
+969,hotel,"
+Điền xá quang tiến sóc sơn, Hà Nội, Việt Nam
+","9,0", · 28 đánh giá,0,"
+1 giường đơn
+
+",36 m²,"
+VND 990.000
+"
+970,hotel,"
+18 Hàng Đường, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,1", · 184 đánh giá,0,"
+1 giường đôi cực lớn
+
+",25 m²,"
+                        
+
+    VND 666.894
+
+
+					"
+971,hotel,"
+18 Hàng Đường, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,1", · 184 đánh giá,0,"
+1 giường đôi cực lớn
+
+",0,"
+VND 920.000
+"
+972,hotel,"
+93 Doi Can , Quận Ba Đình, Hà Nội, Việt Nam
+","9,1", · 46 đánh giá,"
+2,5 km
+","
+2 giường đơn
+
+",30 m²,"
+VND 615.000
+"
+973,hotel,"
+93 Doi Can , Quận Ba Đình, Hà Nội, Việt Nam
+","9,1", · 46 đánh giá,"
+2,5 km
+","
+12 giường đôi cực lớn
+
+",35 m²,"
+VND 1.845.000
+"
+974,hotel,"
+B7 Giảng Võ, Quận Ba Đình, Hà Nội, Việt Nam
+","9,5", · 43 đánh giá,0,"
+2 giường đơn
+
+",45 m²,"
+VND 2.072.000
+"
+975,hotel,"
+B7 Giảng Võ, Quận Ba Đình, Hà Nội, Việt Nam
+","9,5", · 43 đánh giá,0,"
+1 giường đôi cực lớn
+
+",48 m²,"
+VND 2.632.000
+"
+976,hotel,"
+B7 Giảng Võ, Quận Ba Đình, Hà Nội, Việt Nam
+","9,5", · 43 đánh giá,0,"
+1 giường sofa
+
+",50 m²,"
+VND 2.872.000
+"
+977,hotel,"
+B7 Giảng Võ, Quận Ba Đình, Hà Nội, Việt Nam
+","9,5", · 43 đánh giá,0,"
+2 giường đơn
+
+",46 m²,"
+VND 3.432.000
+"
+978,hotel,"
+B7 Giảng Võ, Quận Ba Đình, Hà Nội, Việt Nam
+","9,5", · 43 đánh giá,0,"
+1 giường đôi cực lớn
+
+",46 m²,"
+VND 2.352.000
+"
+979,hotel,"
+B7 Giảng Võ, Quận Ba Đình, Hà Nội, Việt Nam
+","9,5", · 43 đánh giá,0,"
+2 giường đơn
+
+",78 m²,"
+VND 2.392.000
+"
+980,hotel,"
+B7 Giảng Võ, Quận Ba Đình, Hà Nội, Việt Nam
+","9,5", · 43 đánh giá,0,,90 m²,"
+VND 2.952.000
+"
+981,hotel,"
+42-44 Gia Ngu Street, Hang Bac Ward, Hoan Kiem Ward, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,7", · 323 đánh giá,"
+2,6 km
+","
+1 giường đôi lớn
+
+",22 m²,"
+VND 1.285.000
+"
+982,hotel,"
+42-44 Gia Ngu Street, Hang Bac Ward, Hoan Kiem Ward, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,7", · 323 đánh giá,"
+2,6 km
+","
+1 giường đôi lớn
+
+",22 m²,"
+VND 1.485.000
+"
+983,hotel,"
+42-44 Gia Ngu Street, Hang Bac Ward, Hoan Kiem Ward, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,7", · 323 đánh giá,"
+2,6 km
+","
+1 giường đôi lớn
+
+",25 m²,"
+VND 1.575.000
+"
+984,hotel,"
+42-44 Gia Ngu Street, Hang Bac Ward, Hoan Kiem Ward, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,7", · 323 đánh giá,"
+2,6 km
+","
+1 giường đôi lớn
+
+",30 m²,"
+VND 2.062.500
+"
+985,hotel,"
+42-44 Gia Ngu Street, Hang Bac Ward, Hoan Kiem Ward, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,7", · 323 đánh giá,"
+2,6 km
+","
+2 giường đơn
+
+",30 m²,"
+VND 2.062.500
+"
+986,hotel,"
+42-44 Gia Ngu Street, Hang Bac Ward, Hoan Kiem Ward, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,7", · 323 đánh giá,"
+2,6 km
+","
+1 giường đôi lớn
+
+",35 m²,"
+VND 2.362.500
+"
+987,hotel,"
+42-44 Gia Ngu Street, Hang Bac Ward, Hoan Kiem Ward, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,7", · 323 đánh giá,"
+2,6 km
+","
+1 giường đôi lớn
+
+",60 m²,"
+VND 2.585.000
+"
+988,hotel,"
+58 Hang Dao , Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,2", · 235 đánh giá,"
+5 km
+","
+1 giường đôi lớn
+
+",20 m²,"
+VND 1.251.126
+"
+989,hotel,"
+58 Hang Dao , Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,2", · 235 đánh giá,"
+5 km
+","
+1 giường đôi cực lớn
+
+",25 m²,"
+VND 1.798.494
+"
+990,hotel,"
+58 Hang Dao , Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,2", · 235 đánh giá,"
+5 km
+","
+1 giường đôi lớn
+
+",25 m²,"
+VND 1.668.168
+"
+991,hotel,"
+13 Nha Chung street, Hoan Kiem district, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,5", · 166 đánh giá,"
+2,8 km
+","
+1 giường đôi cực lớn
+
+",19 m²,"
+                        
+
+    VND 1.390.184
+
+
+					"
+992,hotel,"
+13 Nha Chung street, Hoan Kiem district, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,5", · 166 đánh giá,"
+2,8 km
+","
+2 giường đơn
+
+",20 m²,"
+VND 2.576.505
+"
+993,hotel,"
+13 Nha Chung street, Hoan Kiem district, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,5", · 166 đánh giá,"
+2,8 km
+","
+1 giường đôi lớn
+
+",28 m²,"
+VND 2.602.530
+"
+994,hotel,"
+13 Nha Chung street, Hoan Kiem district, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,5", · 166 đánh giá,"
+2,8 km
+","
+2 giường đơn
+
+",32 m²,"
+VND 2.361.980
+"
+995,hotel,"
+13 Nha Chung street, Hoan Kiem district, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,5", · 166 đánh giá,"
+2,8 km
+","
+1 giường đôi
+
+",45 m²,"
+VND 2.910.496
+"
+996,hotel,"
+13 Nha Chung street, Hoan Kiem district, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,5", · 166 đánh giá,"
+2,8 km
+","
+2 giường đơn
+
+",0,"
+VND 2.939.895
+"
+997,hotel,"
+40 Hang Dong, Hoan Kiem, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,0", · 395 đánh giá,"
+2 km
+","
+2 giường đơn
+
+",25 m²,"
+                        
+
+    VND 524.270
+
+
+					"
+998,hotel,"
+40 Hang Dong, Hoan Kiem, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,0", · 395 đánh giá,"
+2 km
+","
+1 giường đôi
+
+",20 m²,"
+VND 575.000
+"
+999,hotel,"
+40 Hang Dong, Hoan Kiem, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,0", · 395 đánh giá,"
+2 km
+","
+1 giường đơn
+
+",28 m²,"
+VND 894.700
+"
+1000,hotel,"
+40 Hang Dong, Hoan Kiem, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,0", · 395 đánh giá,"
+2 km
+","
+1 giường đôi lớn
+
+",28 m²,"
+VND 740.600
+"
+1001,hotel,"
+40 Hang Dong, Hoan Kiem, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,0", · 395 đánh giá,"
+2 km
+","
+1 giường sofa
+
+",0,"
+VND 1.076.400
+"
+1002,hotel,"
+42 Tho Xuong, Hoan Kiem,, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,3", · 95 đánh giá,"
+2 km
+","
+1 giường đôi
+
+",25 m²,"
+VND 797.003
+"
+1003,hotel,"
+42 Tho Xuong, Hoan Kiem,, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,3", · 95 đánh giá,"
+2 km
+","
+1 giường đôi
+
+",25 m²,"
+VND 901.128
+"
+1004,hotel,"
+42 Tho Xuong, Hoan Kiem,, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,3", · 95 đánh giá,"
+2 km
+","
+1 giường đơn
+
+",35 m²,"
+VND 1.213.056
+"
+1005,hotel,"
+42 Tho Xuong, Hoan Kiem,, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,3", · 95 đánh giá,"
+2 km
+","
+1 giường đôi
+
+",40 m²,"
+VND 1.642.200
+"
+1006,hotel,"
+42 Tho Xuong, Hoan Kiem,, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,3", · 95 đánh giá,"
+2 km
+","
+1 giường đôi
+
+",40 m²,"
+VND 1.663.620
+"
+1009,hotel,"
+84 Đào Tấn, Ba Đình, Quận Ba Đình, Hà Nội, Việt Nam
+","9,0", · 49 đánh giá,"
+4,7 km
+",,50 m²,"
+                        
+
+    VND 1.737.733
+
+
+					"
+1010,hotel,"
+84 Đào Tấn, Ba Đình, Quận Ba Đình, Hà Nội, Việt Nam
+","9,0", · 49 đánh giá,"
+4,7 km
+",,60 m²,"
+VND 2.074.000
+"
+1011,hotel,"
+84 Đào Tấn, Ba Đình, Quận Ba Đình, Hà Nội, Việt Nam
+","9,0", · 49 đánh giá,"
+4,7 km
+",,0,"
+VND 1.904.000
+"
+1012,hotel,"
+62 Phạm Huy Thông Ngọc Khánh , Ba Đình , Hanoi , Vietnam, Quận Ba Đình, Hà Nội, Việt Nam
+","9,4", · 226 đánh giá,"
+4,4 km
+","
+1 giường đôi lớn
+
+",18 m²,"
+VND 560.000
+"
+1013,hotel,"
+62 Phạm Huy Thông Ngọc Khánh , Ba Đình , Hanoi , Vietnam, Quận Ba Đình, Hà Nội, Việt Nam
+","9,4", · 226 đánh giá,"
+4,4 km
+","
+2 giường đôi lớn
+
+",22 m²,"
+VND 630.000
+"
+1014,hotel,"
+62 Phạm Huy Thông Ngọc Khánh , Ba Đình , Hanoi , Vietnam, Quận Ba Đình, Hà Nội, Việt Nam
+","9,4", · 226 đánh giá,"
+4,4 km
+","
+1 giường đôi lớn
+
+",22 m²,"
+VND 699.000
+"
+1015,hotel,"
+17-19 Cầu Đen, Thạch Lỗi, Thanh Xuân, Sóc Sơn 17-19 Cầu Đen, Thạch Lỗi, Thanh Xuân, Sóc Sơn, Hà Nội, Việt Nam
+","8,0", · 43 đánh giá,0,"
+1 giường đôi lớn
+
+",28 m²,"
+VND 464.000
+"
+1016,hotel,"
+17-19 Cầu Đen, Thạch Lỗi, Thanh Xuân, Sóc Sơn 17-19 Cầu Đen, Thạch Lỗi, Thanh Xuân, Sóc Sơn, Hà Nội, Việt Nam
+","8,0", · 43 đánh giá,0,"
+1 giường đôi lớn
+
+",30 m²,"
+VND 468.000
+"
+1017,hotel,"
+17-19 Cầu Đen, Thạch Lỗi, Thanh Xuân, Sóc Sơn 17-19 Cầu Đen, Thạch Lỗi, Thanh Xuân, Sóc Sơn, Hà Nội, Việt Nam
+","8,0", · 43 đánh giá,0,"
+1 giường đôi lớn
+
+",50 m²,"
+VND 520.000
+"
+1018,hotel,"
+17-19 Cầu Đen, Thạch Lỗi, Thanh Xuân, Sóc Sơn 17-19 Cầu Đen, Thạch Lỗi, Thanh Xuân, Sóc Sơn, Hà Nội, Việt Nam
+","8,0", · 43 đánh giá,0,"
+2 giường đôi lớn
+
+",35 m²,"
+VND 612.000
+"
+1019,hotel,"
+17-19 Cầu Đen, Thạch Lỗi, Thanh Xuân, Sóc Sơn 17-19 Cầu Đen, Thạch Lỗi, Thanh Xuân, Sóc Sơn, Hà Nội, Việt Nam
+","8,0", · 43 đánh giá,0,,60 m²,"
+VND 680.000
+"
+1020,apartment,"
+No 12, Alley 39, Dinh Thon Street, My Dinh 1 Ward, South Tu Liem District, Hà Nội, Việt Nam
+","8,8", · 26 đánh giá,"
+7,7 km
+","
+1 giường đôi lớn
+
+",Studio nguyên căn,"
+                        
+
+    VND 408.530
+
+
+					"
+1021,apartment,"
+No 12, Alley 39, Dinh Thon Street, My Dinh 1 Ward, South Tu Liem District, Hà Nội, Việt Nam
+","8,8", · 26 đánh giá,"
+7,7 km
+","
+1 giường đôi lớn
+
+",0,"
+VND 650.000
+"
+1022,apartment,"
+Ngõ 99 Phố Lê Hồng Phong, Quận Ba Đình, Hà Nội, Việt Nam
+",10, · 3 đánh giá,"
+2,4 km
+","
+1 giường đôi cực lớn
+
+",Studio nguyên căn,"
+VND 460.000
+"
+1023,apartment,"
+Ngõ 99 Phố Lê Hồng Phong, Quận Ba Đình, Hà Nội, Việt Nam
+",10, · 3 đánh giá,"
+2,4 km
+","
+1 giường đôi cực lớn
+
+",Studio nguyên căn,"
+VND 483.000
+"
+1024,apartment,"
+Ngõ 99 Phố Lê Hồng Phong, Quận Ba Đình, Hà Nội, Việt Nam
+",10, · 3 đánh giá,"
+2,4 km
+","
+1 giường đôi cực lớn
+
+",Studio nguyên căn,"
+VND 480.000
+"
+1025,apartment,"
+Ngõ 99 Phố Lê Hồng Phong, Quận Ba Đình, Hà Nội, Việt Nam
+",10, · 3 đánh giá,"
+2,4 km
+","
+1 giường đôi cực lớn
+
+",Studio nguyên căn,"
+VND 552.000
+"
+1026,apartment,"
+18 Phố Ngô Quyền, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+",0,0,0,,Căn hộ nguyên căn,"
+VND 450.000
+"
+1027,apartment,"
+47 Alley 148 - Tran Duy Hung, Cau Giay, Hà Nội, Việt Nam
+","8,0", · 19 đánh giá,0,"
+1 giường đôi lớn
+
+",Studio nguyên căn,"
+VND 522.000
+"
+1028,apartment,"
+16 Ngõ 310 Đường Nghi Tàm, Quận Tây Hồ, Hà Nội, Việt Nam
+",10, · 1 đánh giá,"
+4,2 km
+",,Căn hộ nguyên căn,"
+VND 750.000
+"
+1029,apartment,"
+16 Ngõ 310 Đường Nghi Tàm, Quận Tây Hồ, Hà Nội, Việt Nam
+",10, · 1 đánh giá,"
+4,2 km
+",,Căn hộ nguyên căn,"
+VND 750.000
+"
+1030,apartment,"
+16 Ngõ 310 Đường Nghi Tàm, Quận Tây Hồ, Hà Nội, Việt Nam
+",10, · 1 đánh giá,"
+4,2 km
+",,Căn hộ nguyên căn,"
+VND 1.500.000
+"
+1031,apartment,"
+99 Lane 135 Doi Can street, Ba Dinh district, Hanoi, Vietnam, Quận Ba Đình, Hà Nội, Việt Nam
+","8,5", · 132 đánh giá,"
+2,6 km
+","
+1 giường đôi cực lớn
+
+",17 m²,"
+VND 366.660
+"
+1032,apartment,"
+99 Lane 135 Doi Can street, Ba Dinh district, Hanoi, Vietnam, Quận Ba Đình, Hà Nội, Việt Nam
+","8,5", · 132 đánh giá,"
+2,6 km
+","
+1 giường đôi cực lớn
+
+",18 m²,"
+VND 497.610
+"
+1033,apartment,"
+99 Lane 135 Doi Can street, Ba Dinh district, Hanoi, Vietnam, Quận Ba Đình, Hà Nội, Việt Nam
+","8,5", · 132 đánh giá,"
+2,6 km
+","
+1 giường tầng
+
+",25 m²,"
+VND 130.950
+"
+1034,apartment,"
+Nguyen Van Loc CT09 - Mo Lao, Ha Dong, Quận Thanh Xuân, Hà Nội, Việt Nam
+","8,8", · 20 đánh giá,"
+8,6 km
+",,Căn hộ nguyên căn,"
+VND 1.133.550
+"
+1035,apartment,"
+Số 3 ngõ 77 lê hồng phong, ba đình, Quận Ba Đình, Hà Nội, Việt Nam
+","7,9", · 110 đánh giá,"
+2,4 km
+",,Căn hộ nguyên căn,"
+VND 423.000
+"
+1036,apartment,"
+Số 3 ngõ 77 lê hồng phong, ba đình, Quận Ba Đình, Hà Nội, Việt Nam
+","7,9", · 110 đánh giá,"
+2,4 km
+",,Căn hộ nguyên căn,"
+VND 450.000
+"
+1037,apartment,"
+76 Phố Vân Hồ 3, Quận Hai Bà Trưng, Hà Nội, Việt Nam
+",0,0,0,,Căn hộ nguyên căn,"
+VND 400.000
+"
+1038,apartment,"
+Đường vành đai 3 Vinhomes Skylake, Hà Nội, Việt Nam
+","5,0", · 1 đánh giá,0,,Căn hộ nguyên căn,"
+VND 2.500.000
+"
+1039,apartment,"
+16H Hàng Bè, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,5", · 37 đánh giá,"
+2,7 km
+","
+1 giường đôi lớn
+
+",Căn hộ nguyên căn,"
+VND 799.000
+"
+1041,apartment,"
+51 Hai Bà Trưng Cua Nam, Hoan Kiem, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,1", · 7 đánh giá,"
+2 km
+",,Căn hộ nguyên căn,"
+VND 570.000
+"
+1042,apartment,"
+68 Phố Kim Mã Thượng, Quận Ba Đình, Hà Nội, Việt Nam
+","2,0", · 1 đánh giá,0,,Căn hộ nguyên căn,"
+VND 700.000
+"
+1043,apartment,"
+112 Nguyen Khanh Toan, Cau Giay, Cau Giay, Hà Nội, Việt Nam
+","8,6", · 48 đánh giá,"
+5,1 km
+","
+1 giường đôi lớn
+
+",65 m²,"
+VND 1.242.540
+"
+1044,apartment,"
+112 Nguyen Khanh Toan, Cau Giay, Cau Giay, Hà Nội, Việt Nam
+","8,6", · 48 đánh giá,"
+5,1 km
+","
+1 giường đôi lớn
+
+",32 m²,"
+VND 966.420
+"
+1045,apartment,"
+The Zei, Số 8 Lê Đức Thọ, Mỹ Đình, Từ Liêm, Hà Nội, Cau Giay, Hà Nội, Việt Nam
+",0,0,"
+8,6 km
+",,Căn hộ nguyên căn,"
+VND 1.336.574
+"
+1046,apartment,"
+15 Ngõ 9 - Đặng Thai Mai, Quận Tây Hồ, Hà Nội, Việt Nam
+","8,8", · 61 đánh giá,"
+4,7 km
+","
+1 giường đôi lớn
+
+",Studio nguyên căn,"
+VND 825.000
+"
+1047,apartment,"
+15 Ngõ 9 - Đặng Thai Mai, Quận Tây Hồ, Hà Nội, Việt Nam
+","8,8", · 61 đánh giá,"
+4,7 km
+","
+1 giường đôi lớn
+
+",Studio nguyên căn,"
+VND 869.000
+"
+1048,apartment,"
+15 Ngõ 9 - Đặng Thai Mai, Quận Tây Hồ, Hà Nội, Việt Nam
+","8,8", · 61 đánh giá,"
+4,7 km
+","
+1 giường đôi lớn
+
+",Căn hộ nguyên căn,"
+VND 1.210.000
+"
+1049,apartment,"
+15 Ngõ 9 - Đặng Thai Mai, Quận Tây Hồ, Hà Nội, Việt Nam
+","8,8", · 61 đánh giá,"
+4,7 km
+","
+1 giường đôi lớn
+
+",Căn hộ nguyên căn,"
+VND 1.375.000
+"
+1050,apartment,"
+Vinhomes Ocean Park, Hà Nội, Việt Nam
+",10, · 2 đánh giá,0,,Căn hộ nguyên căn,"
+VND 637.500
+"
+1051,apartment,"
+Vinhomes Ocean Park, Hà Nội, Việt Nam
+",10, · 2 đánh giá,0,,Căn hộ nguyên căn,"
+VND 573.750
+"
+1052,apartment,"
+Vinhomes Ocean Park, Hà Nội, Việt Nam
+",10, · 2 đánh giá,0,,Căn hộ nguyên căn,"
+VND 745.200
+"
+1053,apartment,"
+Vinhomes Ocean Park, Hà Nội, Việt Nam
+",10, · 2 đánh giá,0,,Căn hộ nguyên căn,"
+VND 828.000
+"
+1054,apartment,"
+Vinhomes Ocean Park, Hà Nội, Việt Nam
+",10, · 2 đánh giá,0,,Căn hộ nguyên căn,"
+VND 662.400
+"
+1055,apartment,"
+Vinhomes Ocean Park, Hà Nội, Việt Nam
+",10, · 2 đánh giá,0,,Căn hộ nguyên căn,"
+VND 800.000
+"
+1056,apartment,"
+52 Phạm Hùng 29, Hà Nội, Việt Nam
+",0,0,0,,Căn hộ nguyên căn,"
+VND 1.800.000
+"
+1057,apartment,"
+76 Phố Vân Hồ 3, Quận Hai Bà Trưng, Hà Nội, Việt Nam
+",0,0,0,,Căn hộ nguyên căn,"
+VND 400.000
+"
+1058,apartment,"
+Trần Duy Hưng D'capital, Cau Giay, Hà Nội, Việt Nam
+","7,6", · 8 đánh giá,0,,Căn hộ nguyên căn,"
+VND 1.080.000
+"
+1059,apartment,"
+Trần Duy Hưng D'capital, Cau Giay, Hà Nội, Việt Nam
+","7,6", · 8 đánh giá,0,,Căn hộ nguyên căn,"
+VND 1.125.000
+"
+1060,apartment,"
+Trần Duy Hưng D'capital, Cau Giay, Hà Nội, Việt Nam
+","7,6", · 8 đánh giá,0,,Căn hộ nguyên căn,"
+VND 1.350.000
+"
+1061,apartment,"
+Trần Duy Hưng D'capital, Cau Giay, Hà Nội, Việt Nam
+","7,6", · 8 đánh giá,0,,Căn hộ nguyên căn,"
+VND 1.440.000
+"
+1062,apartment,"
+Trần Duy Hưng D'capital, Cau Giay, Hà Nội, Việt Nam
+","7,6", · 8 đánh giá,0,,Căn hộ nguyên căn,"
+VND 1.980.000
+"
+1063,apartment,"
+07 Nguyễn Khắc Cần, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","9,5", · 2 đánh giá,"
+3,6 km
+",,Căn hộ nguyên căn,"
+VND 1.000.000
+"
+1064,apartment,"
+No. 15, Alley 19, Lieu Giai, Ba Dinh District, Quận Ba Đình, Hà Nội, Việt Nam
+","7,4", · 59 đánh giá,"
+3,9 km
+","
+1 giường đôi cực lớn
+
+",50 m²,"
+VND 1.170.000
+"
+1065,apartment,"
+No. 15, Alley 19, Lieu Giai, Ba Dinh District, Quận Ba Đình, Hà Nội, Việt Nam
+","7,4", · 59 đánh giá,"
+3,9 km
+","
+1 giường đôi cực lớn
+
+",19 m²,"
+VND 756.000
+"
+1066,apartment,"
+No. 15, Alley 19, Lieu Giai, Ba Dinh District, Quận Ba Đình, Hà Nội, Việt Nam
+","7,4", · 59 đánh giá,"
+3,9 km
+","
+1 giường đôi lớn
+
+",25 m²,"
+VND 873.000
+"
+1067,apartment,"
+No. 15, Alley 19, Lieu Giai, Ba Dinh District, Quận Ba Đình, Hà Nội, Việt Nam
+","7,4", · 59 đánh giá,"
+3,9 km
+","
+1 giường đôi cực lớn
+
+",30 m²,"
+VND 963.000
+"
+1068,apartment,"
+136 Hang Trong, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,7", · 213 đánh giá,0,"
+1 giường đôi lớn
+
+",25 m²,"
+                        
+
+    VND 2.791.386
+
+
+					"
+1069,apartment,"
+136 Hang Trong, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,7", · 213 đánh giá,0,"
+2 giường đơn
+
+",25 m²,"
+VND 3.290.000
+"
+1070,apartment,"
+136 Hang Trong, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,7", · 213 đánh giá,0,"
+1 giường đôi
+
+",30 m²,"
+VND 4.089.000
+"
+1071,apartment,"
+136 Hang Trong, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,7", · 213 đánh giá,0,"
+1 giường đôi
+
+",30 m²,"
+VND 4.089.000
+"
+1072,apartment,"
+136 Hang Trong, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,7", · 213 đánh giá,0,"
+1 giường đôi
+
+",56 m²,"
+VND 4.888.000
+"
+1073,apartment,"
+136 Hang Trong, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,7", · 213 đánh giá,0,,50 m²,"
+VND 3.689.500
+"
+1074,apartment,"
+136 Hang Trong, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,7", · 213 đánh giá,0,,0,"
+VND 4.488.500
+"
+1075,apartment,"
+Phạm Hùng, Hà Nội, Việt Nam
+",0,0,0,,Căn hộ nguyên căn,"
+VND 1.900.000
+"
+1076,apartment,"
+7 Thể Giao, Quận Hai Bà Trưng, Hà Nội, Việt Nam
+",0,0,0,,Căn hộ nguyên căn,"
+VND 400.000
+"
+1077,apartment,"
+Số 458 Minh Khai, phường Minh Khai, Quận Hai Bà Trưng, Hà Nội số 25 ngõ 13 đường Lĩnh Nam, Phường Lĩnh Nam, Hoàng Mai, Hà Nội, Quận Hai Bà Trưng, Hà Nội, Việt Nam
+","7,2", · 4 đánh giá,"
+4,9 km
+",,Căn hộ nguyên căn,"
+VND 1.290.000
+"
+1078,apartment,"
+Số 458 Minh Khai, phường Minh Khai, Quận Hai Bà Trưng, Hà Nội số 25 ngõ 13 đường Lĩnh Nam, Phường Lĩnh Nam, Hoàng Mai, Hà Nội, Quận Hai Bà Trưng, Hà Nội, Việt Nam
+","7,2", · 4 đánh giá,"
+4,9 km
+",,Căn hộ nguyên căn,"
+VND 1.421.000
+"
+1079,apartment,"
+33 Phan Boi Chau, Hoan Kiem, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,5", · 5 đánh giá,0,"
+1 giường đôi lớn
+
+",Studio nguyên căn,"
+VND 1.600.000
+"
+1080,apartment,"
+33 Phan Boi Chau, Hoan Kiem, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,5", · 5 đánh giá,0,"
+1 giường đôi lớn
+
+",Căn hộ nguyên căn,"
+VND 1.900.000
+"
+1081,apartment,"
+6 Lê Thái Tổ, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+","8,0", · 3 đánh giá,0,"
+1 giường đôi
+
+",Studio nguyên căn,"
+VND 1.400.000
+"
+1083,apartment,"
+Ngõ 102 Hoàng Như Tiếp Số 6, Quận Long Biên, Hà Nội, Việt Nam
+","7,7", · 11 đánh giá,"
+4,3 km
+","
+2 giường đơn
+
+",22 m²,"
+VND 900.000
+"
+1084,apartment,"
+Ngõ 102 Hoàng Như Tiếp Số 6, Quận Long Biên, Hà Nội, Việt Nam
+","7,7", · 11 đánh giá,"
+4,3 km
+","
+1 giường đôi
+
+",25 m²,"
+VND 1.100.000
+"
+1085,apartment,"
+8 Đường Lê Đức Thọ, Hà Nội, Việt Nam
+",0,0,"
+8,6 km
+",,Căn hộ nguyên căn,"
+VND 1.701.000
+"
+1086,apartment,"
+Phạm Hùng Vinhomes Skylake, Hà Nội, Việt Nam
+","9,0", · 11 đánh giá,"
+7,4 km
+",,Căn hộ nguyên căn,"
+VND 1.600.000
+"
+1087,apartment,"
+Phạm Hùng Vinhomes Skylake, Hà Nội, Việt Nam
+","9,0", · 11 đánh giá,"
+7,4 km
+",,Căn hộ nguyên căn,"
+VND 1.850.000
+"
+1088,apartment,"
+62 Phố Trấn Vũ, Quận Ba Đình, Hà Nội, Việt Nam
+","8,1", · 16 đánh giá,0,"
+1 giường đôi cực lớn
+
+",Studio nguyên căn,"
+VND 900.000
+"
+1089,apartment,"
+62 Phố Trấn Vũ, Quận Ba Đình, Hà Nội, Việt Nam
+","8,1", · 16 đánh giá,0,"
+1 giường đôi cực lớn
+
+",Studio nguyên căn,"
+VND 975.000
+"
+1090,apartment,"
+117 Trần Duy Hưng, Cau Giay, Hà Nội, Việt Nam
+","8,0", · 1 đánh giá,"
+6,3 km
+","
+1 giường đôi lớn
+
+",Studio nguyên căn,"
+VND 1.290.000
+"
+1091,apartment,"
+117 Trần Duy Hưng, Cau Giay, Hà Nội, Việt Nam
+","8,0", · 1 đánh giá,"
+6,3 km
+","
+1 giường đôi lớn
+
+",Căn hộ nguyên căn,"
+VND 1.740.000
+"
+1092,apartment,"
+117 Trần Duy Hưng, Cau Giay, Hà Nội, Việt Nam
+","8,0", · 1 đánh giá,"
+6,3 km
+",,Căn hộ nguyên căn,"
+VND 2.290.000
+"
+1093,apartment,"
+245 Lạc Long Quân Số 2, 7 tầng, Quận Tây Hồ, Hà Nội, Việt Nam
+","8,0", · 32 đánh giá,"
+5,1 km
+","
+1 giường đôi cực lớn
+
+",Studio nguyên căn,"
+VND 420.000
+"
+1094,apartment,"
+245 Lạc Long Quân Số 2, 7 tầng, Quận Tây Hồ, Hà Nội, Việt Nam
+","8,0", · 32 đánh giá,"
+5,1 km
+","
+1 giường đôi cực lớn
+
+",Căn hộ nguyên căn,"
+VND 450.000
+"
+1095,apartment,"
+245 Lạc Long Quân Số 2, 7 tầng, Quận Tây Hồ, Hà Nội, Việt Nam
+","8,0", · 32 đánh giá,"
+5,1 km
+",,Căn hộ nguyên căn,"
+VND 480.000
+"
+1096,apartment,"
+245 Lạc Long Quân Số 2, 7 tầng, Quận Tây Hồ, Hà Nội, Việt Nam
+","8,0", · 32 đánh giá,"
+5,1 km
+",,Căn hộ nguyên căn,"
+VND 520.000
+"
+1097,apartment,"
+243A Đường La Thành, Quận Đống Đa, Hà Nội, Việt Nam
+","9,0", · 3 đánh giá,0,,Căn hộ nguyên căn,"
+VND 1.620.000
+"
+1098,apartment,"
+108 Alley 1 Pham Tuan Tai, Cau Giay, Ha Noi (near Alley 1/48), Cau Giay, Hà Nội, Việt Nam
+","8,8", · 177 đánh giá,"
+6,8 km
+",,Căn hộ nguyên căn,"
+VND 468.000
+"
+1099,apartment,"
+108 Alley 1 Pham Tuan Tai, Cau Giay, Ha Noi (near Alley 1/48), Cau Giay, Hà Nội, Việt Nam
+","8,8", · 177 đánh giá,"
+6,8 km
+",,Căn hộ nguyên căn,"
+VND 585.000
+"
+1100,apartment,"
+No 17, Lane 35 Dang Thai Mai Street, Quang An Ward, Tay Ho District, Quận Tây Hồ, Hà Nội, Việt Nam
+","8,9", · 105 đánh giá,"
+4,7 km
+",,Căn hộ nguyên căn,"
+VND 2.625.000
+"
+1101,apartment,"
+No 17, Lane 35 Dang Thai Mai Street, Quang An Ward, Tay Ho District, Quận Tây Hồ, Hà Nội, Việt Nam
+","8,9", · 105 đánh giá,"
+4,7 km
+",,Căn hộ nguyên căn,"
+VND 3.047.999
+"
+1102,apartment,"
+No 17, Lane 35 Dang Thai Mai Street, Quang An Ward, Tay Ho District, Quận Tây Hồ, Hà Nội, Việt Nam
+","8,9", · 105 đánh giá,"
+4,7 km
+",,Căn hộ nguyên căn,"
+VND 2.625.000
+"
+1103,apartment,"
+No 17, Lane 35 Dang Thai Mai Street, Quang An Ward, Tay Ho District, Quận Tây Hồ, Hà Nội, Việt Nam
+","8,9", · 105 đánh giá,"
+4,7 km
+",,Căn hộ nguyên căn,"
+VND 3.047.999
+"
+1104,apartment,"
+Số 4B, Ngõ 6, Đường Tây Hồ, Quảng An, Tây Hồ, Hà Nội., Quận Tây Hồ, Hà Nội, Việt Nam
+","7,5", · 12 đánh giá,0,,Căn hộ nguyên căn,"
+VND 715.000
+"
+1105,apartment,"
+224 Trần Duy Hưng, Trung Hoà, Cầu Giấy, Hà Nội Vinhomes D'Capitale, Cau Giay, Hà Nội, Việt Nam
+",0,0,"
+6,4 km
+",,Căn hộ nguyên căn,"
+VND 1.080.000
+"
+1106,apartment,"
+224 Trần Duy Hưng, Trung Hoà, Cầu Giấy, Hà Nội Vinhomes D'Capitale, Cau Giay, Hà Nội, Việt Nam
+",0,0,"
+6,4 km
+",,Căn hộ nguyên căn,"
+VND 1.980.000
+"
+1107,apartment,"
+224 Trần Duy Hưng, Trung Hoà, Cầu Giấy, Hà Nội Vinhomes D'Capitale, Cau Giay, Hà Nội, Việt Nam
+",0,0,"
+6,4 km
+",,Căn hộ nguyên căn,"
+VND 1.440.000
+"
+1108,apartment,"
+21 Duy Tan Street, Dich Vong Hau Ward, Cau Giay District, Cau Giay, Hà Nội, Việt Nam
+","7,3", · 17 đánh giá,"
+7,4 km
+","
+2 giường đơn
+
+",55 m²,"
+VND 3.524.483
+"
+1109,apartment,"
+21 Duy Tan Street, Dich Vong Hau Ward, Cau Giay District, Cau Giay, Hà Nội, Việt Nam
+","7,3", · 17 đánh giá,"
+7,4 km
+","
+2 giường đơn
+
+",33 m²,"
+VND 4.146.450
+"
+1110,apartment,"
+21 Duy Tan Street, Dich Vong Hau Ward, Cau Giay District, Cau Giay, Hà Nội, Việt Nam
+","7,3", · 17 đánh giá,"
+7,4 km
+","
+1 giường đôi cực lớn
+
+",36 m²,"
+VND 1.757.333
+"
+1111,apartment,"
+21 Duy Tan Street, Dich Vong Hau Ward, Cau Giay District, Cau Giay, Hà Nội, Việt Nam
+","7,3", · 17 đánh giá,"
+7,4 km
+",,44 m²,"
+VND 2.067.450
+"
+1112,apartment,"
+21 Duy Tan Street, Dich Vong Hau Ward, Cau Giay District, Cau Giay, Hà Nội, Việt Nam
+","7,3", · 17 đánh giá,"
+7,4 km
+",,70 m²,"
+VND 2.248.208
+"
+1113,apartment,"
+21 Duy Tan Street, Dich Vong Hau Ward, Cau Giay District, Cau Giay, Hà Nội, Việt Nam
+","7,3", · 17 đánh giá,"
+7,4 km
+",,77 m²,"
+VND 2.644.950
+"
+1114,apartment,"
+Phố Minh Khai Park Premium, Times City, Quận Hai Bà Trưng, Hà Nội, Việt Nam
+","7,7", · 3 đánh giá,"
+5,3 km
+",,Căn hộ nguyên căn,"
+VND 1.470.000
+"
+1115,apartment,"
+Phố Minh Khai Park Premium, Times City, Quận Hai Bà Trưng, Hà Nội, Việt Nam
+","7,7", · 3 đánh giá,"
+5,3 km
+",,Căn hộ nguyên căn,"
+VND 1.470.000
+"
+1116,apartment,"
+Phố Minh Khai Park Premium, Times City, Quận Hai Bà Trưng, Hà Nội, Việt Nam
+","7,7", · 3 đánh giá,"
+5,3 km
+",,Căn hộ nguyên căn,"
+VND 1.470.000
+"
+1117,apartment,"
+Phố Minh Khai Park Premium, Times City, Quận Hai Bà Trưng, Hà Nội, Việt Nam
+","7,7", · 3 đánh giá,"
+5,3 km
+",,Căn hộ nguyên căn,"
+VND 1.470.000
+"
+1118,apartment,"
+Phố Minh Khai Park Premium, Times City, Quận Hai Bà Trưng, Hà Nội, Việt Nam
+","7,7", · 3 đánh giá,"
+5,3 km
+",,Căn hộ nguyên căn,"
+VND 1.470.000
+"
+1119,apartment,"
+Phố Minh Khai Park Premium, Times City, Quận Hai Bà Trưng, Hà Nội, Việt Nam
+","7,7", · 3 đánh giá,"
+5,3 km
+",,Căn hộ nguyên căn,"
+VND 1.960.000
+"
+1120,apartment,"
+11 Ngõ Xóm Hà Hồi, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+",0,0,0,,Căn hộ nguyên căn,"
+VND 366.300
+"
+1121,apartment,"
+2 Phố Phạm Văn Bạch, Cau Giay, Hà Nội, Việt Nam
+",0,0,0,,Căn hộ nguyên căn,"
+VND 1.377.000
+"
+1122,apartment,"
+2 Phố Phạm Văn Bạch, Cau Giay, Hà Nội, Việt Nam
+",0,0,0,,Căn hộ nguyên căn,"
+VND 1.458.000
+"
+1123,apartment,"
+47 Đường Nguyễn Tuân 47 Đường Nguyễn Tuân, Quận Thanh Xuân, Hà Nội, Việt Nam
+",10, · 4 đánh giá,0,,Căn hộ nguyên căn,"
+VND 1.200.000
+"
